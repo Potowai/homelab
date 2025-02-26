@@ -1,0 +1,58 @@
+(N) 2025-02-25T23:18:13 - qBittorrent v5.0.4 started. Process ID: 148
+(N) 2025-02-25T23:18:13 - Using config directory: /config/qBittorrent
+(N) 2025-02-25T23:18:13 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2025-02-25T23:18:13 - Peer ID: "-qB5040-"
+(I) 2025-02-25T23:18:13 - HTTP User-Agent: "qBittorrent/5.0.4"
+(I) 2025-02-25T23:18:13 - Distributed Hash Table (DHT) support: ON
+(I) 2025-02-25T23:18:13 - Local Peer Discovery support: ON
+(I) 2025-02-25T23:18:13 - Peer Exchange (PeX) support: ON
+(I) 2025-02-25T23:18:13 - Anonymous mode: OFF
+(I) 2025-02-25T23:18:13 - Encryption support: ON
+(I) 2025-02-25T23:18:13 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2025-02-25T23:18:13 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2025-02-25T23:18:13 - Successfully listening on IP. IP: "172.22.0.6". Port: "TCP/6881"
+(I) 2025-02-25T23:18:13 - Successfully listening on IP. IP: "172.22.0.6". Port: "UTP/6881"
+(I) 2025-02-25T23:18:13 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2025-02-25T23:18:13 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(W) 2025-02-25T23:18:13 - Couldn't load IP geolocation database. Reason: No such file or directory
+(N) 2025-02-25T23:18:13 - Using built-in WebUI.
+(W) 2025-02-25T23:18:13 - Couldn't load WebUI translation for selected locale (C).
+(N) 2025-02-25T23:18:13 - WebUI: Now listening on IP: *, port: 8080
+(I) 2025-02-25T23:18:14 - Detected external IP. IP: "90.93.96.62"
+(I) 2025-02-25T23:18:14 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Feb 1 03:16:56 2025.
+(I) 2025-02-25T23:18:14 - Successfully updated IP geolocation database.
+(N) 2025-02-25T23:28:54 - WebAPI login success. IP: ::ffff:172.22.0.1
+(N) 2025-02-25T23:30:27 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2025-02-25T23:35:52 - WebAPI login success. IP: ::ffff:172.22.0.1
+(N) 2025-02-25T23:39:58 - WebAPI login success. IP: ::ffff:172.22.0.1
+(N) 2025-02-26T00:15:22 - WebAPI login success. IP: ::ffff:172.22.0.1
+(N) 2025-02-26T00:16:16 - Added new torrent. Torrent: "Cars.2006.1080p.BluRay.3D.AVC.TrueHD.5.1-PublicHD"
+(N) 2025-02-26T00:31:35 - Torrent removed. Torrent: "Cars.2006.1080p.BluRay.3D.AVC.TrueHD.5.1-PublicHD"
+(N) 2025-02-26T00:31:36 - Torrent content removed. Torrent: "Cars.2006.1080p.BluRay.3D.AVC.TrueHD.5.1-PublicHD"
+(N) 2025-02-26T01:30:05 - qBittorrent termination initiated
+(N) 2025-02-26T01:30:05 - Saving resume data completed.
+(N) 2025-02-26T01:30:05 - BitTorrent session successfully finished.
+(N) 2025-02-26T01:30:05 - qBittorrent is now ready to exit
+(N) 2025-02-26T08:41:59 - qBittorrent v5.0.4 started. Process ID: 141
+(N) 2025-02-26T08:41:59 - Using config directory: /config/qBittorrent
+(N) 2025-02-26T08:41:59 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2025-02-26T08:41:59 - Peer ID: "-qB5040-"
+(I) 2025-02-26T08:41:59 - HTTP User-Agent: "qBittorrent/5.0.4"
+(I) 2025-02-26T08:41:59 - Distributed Hash Table (DHT) support: ON
+(I) 2025-02-26T08:41:59 - Local Peer Discovery support: ON
+(I) 2025-02-26T08:41:59 - Peer Exchange (PeX) support: ON
+(I) 2025-02-26T08:41:59 - Anonymous mode: OFF
+(I) 2025-02-26T08:41:59 - Encryption support: ON
+(I) 2025-02-26T08:41:59 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2025-02-26T08:41:59 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2025-02-26T08:41:59 - Successfully listening on IP. IP: "172.22.0.3". Port: "TCP/6881"
+(I) 2025-02-26T08:41:59 - Successfully listening on IP. IP: "172.22.0.3". Port: "UTP/6881"
+(I) 2025-02-26T08:41:59 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2025-02-26T08:41:59 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2025-02-26T08:41:59 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Feb 1 03:16:56 2025.
+(N) 2025-02-26T08:41:59 - Using built-in WebUI.
+(N) 2025-02-26T08:41:59 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2025-02-26T08:41:59 - WebUI: Now listening on IP: *, port: 8080
+(I) 2025-02-26T08:41:59 - Detected external IP. IP: "90.93.96.62"
+(N) 2025-02-26T08:42:05 - WebAPI login success. IP: ::ffff:172.22.0.1
+(N) 2025-02-26T08:42:05 - WebAPI login success. IP: ::ffff:172.22.0.1

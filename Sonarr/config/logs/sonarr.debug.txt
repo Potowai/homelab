@@ -1,0 +1,1054 @@
+2025-02-26 08:58:09.0|Debug|DownloadDecisionMaker|Release '[ToonsHub] Dragon Ball DAIMA S01E07 1080p AMZN WEB-DL DDP2.0 H.264 (Dual-Audio, English-Sub)' from 'Anime Time (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 08:58:09.0|Debug|DownloadDecisionMaker|Processing release 'Solo.Leveling.S01.2160p.WEB-DL.MULTI.AAC2.0.x264.Multi.Subs.AniMeitantei' from 'Anime Time (Prowlarr)'
+2025-02-26 08:58:09.0|Debug|Parser|Parsing string 'Solo.Leveling.S01.2160p.WEB-DL.MULTI.AAC2.0.x264.Multi.Subs.AniMeitantei'
+2025-02-26 08:58:09.0|Debug|Parser|Episode Parsed. Solo Leveling - Season 01 
+2025-02-26 08:58:09.0|Debug|Parser|Languages parsed: Unknown
+2025-02-26 08:58:09.0|Debug|QualityParser|Trying to parse quality for 'Solo.Leveling.S01.2160p.WEB-DL.MULTI.AAC2.0.x264.Multi.Subs.AniMeitantei'
+2025-02-26 08:58:09.0|Debug|Parser|Quality parsed: WEBDL-2160p v1
+2025-02-26 08:58:09.0|Debug|Parser|Release Group parsed: 
+2025-02-26 08:58:09.0|Debug|ParsingService|No matching series Solo Leveling
+2025-02-26 08:58:09.0|Debug|DownloadDecisionMaker|Release 'Solo.Leveling.S01.2160p.WEB-DL.MULTI.AAC2.0.x264.Multi.Subs.AniMeitantei' from 'Anime Time (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 08:58:09.0|Debug|DownloadDecisionMaker|Processing release '[Moe-Raws] Amagami-san Chi no Enmusubi #20 (TVO 1280x720 x264 AAC)' from 'Anime Time (Prowlarr)'
+2025-02-26 08:58:09.0|Debug|Parser|Parsing string '[Moe-Raws] Amagami-san Chi no Enmusubi #20 (TVO 1280x720 x264 AAC)'
+2025-02-26 08:58:09.0|Debug|Parser|Episode Parsed. Amagami-san Chi no Enmusubi - 020 
+2025-02-26 08:58:09.0|Debug|Parser|Languages parsed: Unknown
+2025-02-26 08:58:09.0|Debug|QualityParser|Trying to parse quality for '[Moe-Raws] Amagami-san Chi no Enmusubi #20 (TVO 1280x720 x264 AAC)'
+2025-02-26 08:58:09.0|Debug|Parser|Quality parsed: HDTV-720p v1
+2025-02-26 08:58:09.0|Debug|Parser|Release Group parsed: Moe-Raws
+2025-02-26 08:58:09.0|Debug|Parser|Parsing string '[Moe-Raws] Amagami-san Chi no Enmusubi #20 (TVO 1280x720 x264 AAC)'
+2025-02-26 08:58:09.0|Debug|SceneMappingService|Found scene mapping for: Amagami-san Chi no Enmusubi. TVDB ID for mapping: 432632
+2025-02-26 08:58:09.0|Debug|ParsingService|No matching series Amagami-san Chi no Enmusubi
+2025-02-26 08:58:09.0|Debug|Parser|Parsing string '[Moe-Raws] Amagami-san Chi no Enmusubi #20 (TVO 1280x720 x264 AAC)'
+2025-02-26 08:58:09.0|Debug|SceneMappingService|Found scene mapping for: Amagami-san Chi no Enmusubi. TVDB ID for mapping: 432632
+2025-02-26 08:58:09.0|Debug|DownloadDecisionMaker|Release '[Moe-Raws] Amagami-san Chi no Enmusubi #20 (TVO 1280x720 x264 AAC)' from 'Anime Time (Prowlarr)' rejected for the following reasons: [Permanent] Amagami-san Chi no Enmusubi matches an alias for series with TVDB ID: 432632
+2025-02-26 08:58:09.0|Debug|DownloadDecisionMaker|Processing release 'House.Hunters.International.S198E12.A.Scholarship.and.Culture.Clashes.in.Lo' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 08:58:09.0|Debug|Parser|Parsing string 'House.Hunters.International.S198E12.A.Scholarship.and.Culture.Clashes.in.Lo'
+2025-02-26 08:58:09.0|Debug|Parser|Episode Parsed. House Hunters International - S198E12 
+2025-02-26 08:58:09.0|Debug|Parser|Languages parsed: Unknown
+2025-02-26 08:58:09.0|Debug|QualityParser|Trying to parse quality for 'House.Hunters.International.S198E12.A.Scholarship.and.Culture.Clashes.in.Lo'
+2025-02-26 08:58:09.0|Debug|Parser|Quality parsed: Unknown v1
+2025-02-26 08:58:09.0|Debug|Parser|Release Group parsed: 
+2025-02-26 08:58:09.0|Debug|ParsingService|No matching series House Hunters International
+2025-02-26 08:58:09.0|Debug|DownloadDecisionMaker|Release 'House.Hunters.International.S198E12.A.Scholarship.and.Culture.Clashes.in.Lo' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 08:58:09.0|Debug|DownloadDecisionMaker|Processing release 'Krank Berlin S01E02 Investigations 2160p ATVP WEB-DL DD 5 1 Atmos DoVi HDR' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 08:58:09.0|Debug|Parser|Parsing string 'Krank Berlin S01E02 Investigations 2160p ATVP WEB-DL DD 5 1 Atmos DoVi HDR'
+2025-02-26 08:58:09.0|Debug|Parser|Episode Parsed. Krank Berlin - S01E02 
+2025-02-26 08:58:09.0|Debug|Parser|Languages parsed: Unknown
+2025-02-26 08:58:09.0|Debug|QualityParser|Trying to parse quality for 'Krank Berlin S01E02 Investigations 2160p ATVP WEB-DL DD 5 1 Atmos DoVi HDR'
+2025-02-26 08:58:09.0|Debug|Parser|Quality parsed: WEBDL-2160p v1
+2025-02-26 08:58:09.0|Debug|Parser|Release Group parsed: 
+2025-02-26 08:58:09.0|Debug|ParsingService|No matching series Krank Berlin
+2025-02-26 08:58:09.0|Debug|DownloadDecisionMaker|Release 'Krank Berlin S01E02 Investigations 2160p ATVP WEB-DL DD 5 1 Atmos DoVi HDR' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 08:58:09.0|Debug|DownloadDecisionMaker|Processing release 'FBI.S07E13.720p.HEVC.x265-MeGusta' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 08:58:09.0|Debug|Parser|Parsing string 'FBI.S07E13.720p.HEVC.x265-MeGusta'
+2025-02-26 08:58:09.0|Debug|Parser|Episode Parsed. FBI - S07E13 
+2025-02-26 08:58:09.0|Debug|Parser|Languages parsed: Unknown
+2025-02-26 08:58:09.0|Debug|QualityParser|Trying to parse quality for 'FBI.S07E13.720p.HEVC.x265-MeGusta'
+2025-02-26 08:58:09.0|Debug|Parser|Quality parsed: HDTV-720p v1
+2025-02-26 08:58:09.0|Debug|Parser|Release Group parsed: MeGusta
+2025-02-26 08:58:09.0|Debug|ParsingService|No matching series FBI
+2025-02-26 08:58:09.0|Debug|DownloadDecisionMaker|Release 'FBI.S07E13.720p.HEVC.x265-MeGusta' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 08:58:09.0|Debug|DownloadDecisionMaker|Processing release 'The Real Housewives of Beverly Hills S14E13 Caviar Catastrophe 1080p AMZN W' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 08:58:09.0|Debug|Parser|Parsing string 'The Real Housewives of Beverly Hills S14E13 Caviar Catastrophe 1080p AMZN W'
+2025-02-26 08:58:09.0|Debug|Parser|Episode Parsed. The Real Housewives of Beverly Hills - S14E13 
+2025-02-26 08:58:09.0|Debug|Parser|Languages parsed: Unknown
+2025-02-26 08:58:09.0|Debug|QualityParser|Trying to parse quality for 'The Real Housewives of Beverly Hills S14E13 Caviar Catastrophe 1080p AMZN W'
+2025-02-26 08:58:09.0|Debug|Parser|Quality parsed: HDTV-1080p v1
+2025-02-26 08:58:09.0|Debug|Parser|Release Group parsed: 
+2025-02-26 08:58:09.0|Debug|ParsingService|No matching series The Real Housewives of Beverly Hills
+2025-02-26 08:58:09.0|Debug|DownloadDecisionMaker|Release 'The Real Housewives of Beverly Hills S14E13 Caviar Catastrophe 1080p AMZN W' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 08:58:09.0|Debug|DownloadDecisionMaker|Processing release 'FBI.Most.Wanted.S06E13.720p.HEVC.x265-MeGusta' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 08:58:09.0|Debug|Parser|Parsing string 'FBI.Most.Wanted.S06E13.720p.HEVC.x265-MeGusta'
+2025-02-26 08:58:09.0|Debug|Parser|Episode Parsed. FBI Most Wanted - S06E13 
+2025-02-26 08:58:09.0|Debug|Parser|Languages parsed: Unknown
+2025-02-26 08:58:09.0|Debug|QualityParser|Trying to parse quality for 'FBI.Most.Wanted.S06E13.720p.HEVC.x265-MeGusta'
+2025-02-26 08:58:09.0|Debug|Parser|Quality parsed: HDTV-720p v1
+2025-02-26 08:58:09.0|Debug|Parser|Release Group parsed: MeGusta
+2025-02-26 08:58:09.0|Debug|ParsingService|No matching series FBI Most Wanted
+2025-02-26 08:58:09.0|Debug|DownloadDecisionMaker|Release 'FBI.Most.Wanted.S06E13.720p.HEVC.x265-MeGusta' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 08:58:09.0|Debug|DownloadDecisionMaker|Processing release 'Will.Trent.S03E08.720p.HEVC.x265-MeGusta' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 08:58:09.0|Debug|Parser|Parsing string 'Will.Trent.S03E08.720p.HEVC.x265-MeGusta'
+2025-02-26 08:58:09.0|Debug|Parser|Episode Parsed. Will Trent - S03E08 
+2025-02-26 08:58:09.0|Debug|Parser|Languages parsed: Unknown
+2025-02-26 08:58:09.0|Debug|QualityParser|Trying to parse quality for 'Will.Trent.S03E08.720p.HEVC.x265-MeGusta'
+2025-02-26 08:58:09.0|Debug|Parser|Quality parsed: HDTV-720p v1
+2025-02-26 08:58:09.0|Debug|Parser|Release Group parsed: MeGusta
+2025-02-26 08:58:09.0|Debug|ParsingService|No matching series Will Trent
+2025-02-26 08:58:09.0|Debug|DownloadDecisionMaker|Release 'Will.Trent.S03E08.720p.HEVC.x265-MeGusta' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 08:58:09.0|Debug|DownloadDecisionMaker|Processing release 'The Irrational S02E15 720p HEVC x265-MeGusta' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 08:58:09.0|Debug|Parser|Parsing string 'The Irrational S02E15 720p HEVC x265-MeGusta'
+2025-02-26 08:58:09.0|Debug|Parser|Episode Parsed. The Irrational - S02E15 
+2025-02-26 08:58:09.0|Debug|Parser|Languages parsed: Unknown
+2025-02-26 08:58:09.0|Debug|QualityParser|Trying to parse quality for 'The Irrational S02E15 720p HEVC x265-MeGusta'
+2025-02-26 08:58:09.0|Debug|Parser|Quality parsed: HDTV-720p v1
+2025-02-26 08:58:09.0|Debug|Parser|Release Group parsed: MeGusta
+2025-02-26 08:58:09.0|Debug|ParsingService|No matching series The Irrational
+2025-02-26 08:58:09.0|Debug|DownloadDecisionMaker|Release 'The Irrational S02E15 720p HEVC x265-MeGusta' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 08:58:09.0|Debug|DownloadDecisionMaker|Processing release 'Hudson and Rex S07E07 720p HDTV x264-SYNCOPY' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 08:58:09.0|Debug|Parser|Parsing string 'Hudson and Rex S07E07 720p HDTV x264-SYNCOPY'
+2025-02-26 08:58:09.0|Debug|Parser|Episode Parsed. Hudson and Rex - S07E07 
+2025-02-26 08:58:09.0|Debug|Parser|Languages parsed: Unknown
+2025-02-26 08:58:09.0|Debug|QualityParser|Trying to parse quality for 'Hudson and Rex S07E07 720p HDTV x264-SYNCOPY'
+2025-02-26 08:58:09.0|Debug|Parser|Quality parsed: HDTV-720p v1
+2025-02-26 08:58:09.0|Debug|Parser|Release Group parsed: SYNCOPY
+2025-02-26 08:58:09.0|Debug|Parser|Parsing string 'Hudson and Rex S07E07 720p HDTV x264-SYNCOPY'
+2025-02-26 08:58:09.0|Debug|SceneMappingService|Found scene mapping for: Hudson and Rex. TVDB ID for mapping: 354048
+2025-02-26 08:58:09.0|Debug|ParsingService|No matching series Hudson and Rex
+2025-02-26 08:58:09.0|Debug|Parser|Parsing string 'Hudson and Rex S07E07 720p HDTV x264-SYNCOPY'
+2025-02-26 08:58:09.0|Debug|SceneMappingService|Found scene mapping for: Hudson and Rex. TVDB ID for mapping: 354048
+2025-02-26 08:58:09.0|Debug|DownloadDecisionMaker|Release 'Hudson and Rex S07E07 720p HDTV x264-SYNCOPY' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Hudson and Rex matches an alias for series with TVDB ID: 354048
+2025-02-26 08:58:09.0|Debug|DownloadDecisionMaker|Processing release 'Hudson and Rex S07E07 720p HEVC x265-MeGusta' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 08:58:09.0|Debug|Parser|Parsing string 'Hudson and Rex S07E07 720p HEVC x265-MeGusta'
+2025-02-26 08:58:09.0|Debug|Parser|Episode Parsed. Hudson and Rex - S07E07 
+2025-02-26 08:58:09.0|Debug|Parser|Languages parsed: Unknown
+2025-02-26 08:58:09.0|Debug|QualityParser|Trying to parse quality for 'Hudson and Rex S07E07 720p HEVC x265-MeGusta'
+2025-02-26 08:58:09.0|Debug|Parser|Quality parsed: HDTV-720p v1
+2025-02-26 08:58:09.0|Debug|Parser|Release Group parsed: MeGusta
+2025-02-26 08:58:09.0|Debug|Parser|Parsing string 'Hudson and Rex S07E07 720p HEVC x265-MeGusta'
+2025-02-26 08:58:09.0|Debug|SceneMappingService|Found scene mapping for: Hudson and Rex. TVDB ID for mapping: 354048
+2025-02-26 08:58:09.0|Debug|ParsingService|No matching series Hudson and Rex
+2025-02-26 08:58:09.0|Debug|Parser|Parsing string 'Hudson and Rex S07E07 720p HEVC x265-MeGusta'
+2025-02-26 08:58:09.0|Debug|SceneMappingService|Found scene mapping for: Hudson and Rex. TVDB ID for mapping: 354048
+2025-02-26 08:58:09.0|Debug|DownloadDecisionMaker|Release 'Hudson and Rex S07E07 720p HEVC x265-MeGusta' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Hudson and Rex matches an alias for series with TVDB ID: 354048
+2025-02-26 08:58:09.0|Debug|DownloadDecisionMaker|Processing release 'This Hour Has 22 Minutes S32E20 1080p WEB h264-BAE' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 08:58:09.0|Debug|Parser|Parsing string 'This Hour Has 22 Minutes S32E20 1080p WEB h264-BAE'
+2025-02-26 08:58:09.0|Debug|Parser|Episode Parsed. This Hour Has 22 Minutes - S32E20 
+2025-02-26 08:58:09.0|Debug|Parser|Languages parsed: Unknown
+2025-02-26 08:58:09.0|Debug|QualityParser|Trying to parse quality for 'This Hour Has 22 Minutes S32E20 1080p WEB h264-BAE'
+2025-02-26 08:58:09.0|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-02-26 08:58:09.0|Debug|Parser|Release Group parsed: BAE
+2025-02-26 08:58:09.0|Debug|Parser|Parsing string 'This Hour Has 22 Minutes S32E20 1080p WEB h264-BAE'
+2025-02-26 08:58:09.0|Debug|SceneMappingService|Found scene mapping for: This Hour Has 22 Minutes. TVDB ID for mapping: 78125
+2025-02-26 08:58:09.0|Debug|ParsingService|No matching series This Hour Has 22 Minutes
+2025-02-26 08:58:09.0|Debug|Parser|Parsing string 'This Hour Has 22 Minutes S32E20 1080p WEB h264-BAE'
+2025-02-26 08:58:09.0|Debug|SceneMappingService|Found scene mapping for: This Hour Has 22 Minutes. TVDB ID for mapping: 78125
+2025-02-26 08:58:09.0|Debug|DownloadDecisionMaker|Release 'This Hour Has 22 Minutes S32E20 1080p WEB h264-BAE' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] This Hour Has 22 Minutes matches an alias for series with TVDB ID: 78125
+2025-02-26 08:58:09.0|Debug|DownloadDecisionMaker|Processing release 'Pitino Red Storm Rising S01E03 1080p WEB h264-BAE' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 08:58:09.0|Debug|Parser|Parsing string 'Pitino Red Storm Rising S01E03 1080p WEB h264-BAE'
+2025-02-26 08:58:09.0|Debug|Parser|Episode Parsed. Pitino Red Storm Rising - S01E03 
+2025-02-26 08:58:09.0|Debug|Parser|Languages parsed: Unknown
+2025-02-26 08:58:09.0|Debug|QualityParser|Trying to parse quality for 'Pitino Red Storm Rising S01E03 1080p WEB h264-BAE'
+2025-02-26 08:58:09.0|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-02-26 08:58:09.0|Debug|Parser|Release Group parsed: BAE
+2025-02-26 08:58:09.0|Debug|ParsingService|No matching series Pitino Red Storm Rising
+2025-02-26 08:58:09.0|Debug|DownloadDecisionMaker|Release 'Pitino Red Storm Rising S01E03 1080p WEB h264-BAE' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 08:58:09.0|Debug|DownloadDecisionMaker|Processing release 'Will Trent S03E08 720p HDTV x264-SYNCOPY' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 08:58:09.0|Debug|Parser|Parsing string 'Will Trent S03E08 720p HDTV x264-SYNCOPY'
+2025-02-26 08:58:09.0|Debug|Parser|Episode Parsed. Will Trent - S03E08 
+2025-02-26 08:58:09.0|Debug|Parser|Languages parsed: Unknown
+2025-02-26 08:58:09.0|Debug|QualityParser|Trying to parse quality for 'Will Trent S03E08 720p HDTV x264-SYNCOPY'
+2025-02-26 08:58:09.0|Debug|Parser|Quality parsed: HDTV-720p v1
+2025-02-26 08:58:09.0|Debug|Parser|Release Group parsed: SYNCOPY
+2025-02-26 08:58:09.0|Debug|ParsingService|No matching series Will Trent
+2025-02-26 08:58:09.0|Debug|DownloadDecisionMaker|Release 'Will Trent S03E08 720p HDTV x264-SYNCOPY' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 08:58:09.0|Debug|DownloadDecisionMaker|Processing release 'FBI.Most.Wanted.S06E13.720p.HDTV.x264-SYNCOPY' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 08:58:09.0|Debug|Parser|Parsing string 'FBI.Most.Wanted.S06E13.720p.HDTV.x264-SYNCOPY'
+2025-02-26 08:58:09.0|Debug|Parser|Episode Parsed. FBI Most Wanted - S06E13 
+2025-02-26 08:58:09.0|Debug|Parser|Languages parsed: Unknown
+2025-02-26 08:58:09.0|Debug|QualityParser|Trying to parse quality for 'FBI.Most.Wanted.S06E13.720p.HDTV.x264-SYNCOPY'
+2025-02-26 08:58:09.0|Debug|Parser|Quality parsed: HDTV-720p v1
+2025-02-26 08:58:09.0|Debug|Parser|Release Group parsed: SYNCOPY
+2025-02-26 08:58:09.0|Debug|ParsingService|No matching series FBI Most Wanted
+2025-02-26 08:58:09.0|Debug|DownloadDecisionMaker|Release 'FBI.Most.Wanted.S06E13.720p.HDTV.x264-SYNCOPY' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 08:58:09.0|Debug|DownloadDecisionMaker|Processing release 'Will.Trent.S03E08.720p.HDTV.x264-SYNCOPY' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 08:58:09.0|Debug|Parser|Parsing string 'Will.Trent.S03E08.720p.HDTV.x264-SYNCOPY'
+2025-02-26 08:58:09.0|Debug|Parser|Episode Parsed. Will Trent - S03E08 
+2025-02-26 08:58:09.0|Debug|Parser|Languages parsed: Unknown
+2025-02-26 08:58:09.0|Debug|QualityParser|Trying to parse quality for 'Will.Trent.S03E08.720p.HDTV.x264-SYNCOPY'
+2025-02-26 08:58:09.0|Debug|Parser|Quality parsed: HDTV-720p v1
+2025-02-26 08:58:09.0|Debug|Parser|Release Group parsed: SYNCOPY
+2025-02-26 08:58:09.1|Debug|ParsingService|No matching series Will Trent
+2025-02-26 08:58:09.1|Debug|DownloadDecisionMaker|Release 'Will.Trent.S03E08.720p.HDTV.x264-SYNCOPY' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 08:58:09.1|Debug|DownloadDecisionMaker|Processing release 'United.Tacos.of.America.S02E17.1080p.WEB.h264-BAE' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 08:58:09.1|Debug|Parser|Parsing string 'United.Tacos.of.America.S02E17.1080p.WEB.h264-BAE'
+2025-02-26 08:58:09.1|Debug|Parser|Episode Parsed. United Tacos of America - S02E17 
+2025-02-26 08:58:09.1|Debug|Parser|Languages parsed: Unknown
+2025-02-26 08:58:09.1|Debug|QualityParser|Trying to parse quality for 'United.Tacos.of.America.S02E17.1080p.WEB.h264-BAE'
+2025-02-26 08:58:09.1|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-02-26 08:58:09.1|Debug|Parser|Release Group parsed: BAE
+2025-02-26 08:58:09.1|Debug|ParsingService|No matching series United Tacos of America
+2025-02-26 08:58:09.1|Debug|DownloadDecisionMaker|Release 'United.Tacos.of.America.S02E17.1080p.WEB.h264-BAE' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 08:58:09.1|Debug|DownloadDecisionMaker|Processing release 'United.Tacos.of.America.S02E16.1080p.WEB.h264-BAE' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 08:58:09.1|Debug|Parser|Parsing string 'United.Tacos.of.America.S02E16.1080p.WEB.h264-BAE'
+2025-02-26 08:58:09.1|Debug|Parser|Episode Parsed. United Tacos of America - S02E16 
+2025-02-26 08:58:09.1|Debug|Parser|Languages parsed: Unknown
+2025-02-26 08:58:09.1|Debug|QualityParser|Trying to parse quality for 'United.Tacos.of.America.S02E16.1080p.WEB.h264-BAE'
+2025-02-26 08:58:09.1|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-02-26 08:58:09.1|Debug|Parser|Release Group parsed: BAE
+2025-02-26 08:58:09.1|Debug|ParsingService|No matching series United Tacos of America
+2025-02-26 08:58:09.1|Debug|DownloadDecisionMaker|Release 'United.Tacos.of.America.S02E16.1080p.WEB.h264-BAE' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 08:58:09.1|Debug|DownloadDecisionMaker|Processing release 'Black Butler S01E10 His Butler on Ice 1080p CR WEB-DL DUAL DDP2 0 H 264-Kit' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 08:58:09.1|Debug|Parser|Parsing string 'Black Butler S01E10 His Butler on Ice 1080p CR WEB-DL DUAL DDP2 0 H 264-Kit'
+2025-02-26 08:58:09.1|Debug|Parser|Episode Parsed. Black Butler - S01E10 
+2025-02-26 08:58:09.1|Debug|Parser|Languages parsed: Unknown
+2025-02-26 08:58:09.1|Debug|QualityParser|Trying to parse quality for 'Black Butler S01E10 His Butler on Ice 1080p CR WEB-DL DUAL DDP2 0 H 264-Kit'
+2025-02-26 08:58:09.1|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-02-26 08:58:09.1|Debug|Parser|Release Group parsed: Kit
+2025-02-26 08:58:09.1|Debug|ParsingService|No matching series Black Butler
+2025-02-26 08:58:09.1|Debug|DownloadDecisionMaker|Release 'Black Butler S01E10 His Butler on Ice 1080p CR WEB-DL DUAL DDP2 0 H 264-Kit' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 08:58:09.1|Debug|DownloadDecisionMaker|Processing release 'United.Tacos.of.America.S02E15.1080p.WEB.h264-BAE' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 08:58:09.1|Debug|Parser|Parsing string 'United.Tacos.of.America.S02E15.1080p.WEB.h264-BAE'
+2025-02-26 08:58:09.1|Debug|Parser|Episode Parsed. United Tacos of America - S02E15 
+2025-02-26 08:58:09.1|Debug|Parser|Languages parsed: Unknown
+2025-02-26 08:58:09.1|Debug|QualityParser|Trying to parse quality for 'United.Tacos.of.America.S02E15.1080p.WEB.h264-BAE'
+2025-02-26 08:58:09.1|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-02-26 08:58:09.1|Debug|Parser|Release Group parsed: BAE
+2025-02-26 08:58:09.1|Debug|ParsingService|No matching series United Tacos of America
+2025-02-26 08:58:09.1|Debug|DownloadDecisionMaker|Release 'United.Tacos.of.America.S02E15.1080p.WEB.h264-BAE' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 08:58:09.1|Debug|DownloadDecisionMaker|Processing release 'Black Butler S01E06 His Butler at the Funeral 1080p CR WEB-DL DUAL DDP2 0 H' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 08:58:09.1|Debug|Parser|Parsing string 'Black Butler S01E06 His Butler at the Funeral 1080p CR WEB-DL DUAL DDP2 0 H'
+2025-02-26 08:58:09.1|Debug|Parser|Episode Parsed. Black Butler - S01E06 
+2025-02-26 08:58:09.1|Debug|Parser|Languages parsed: Unknown
+2025-02-26 08:58:09.1|Debug|QualityParser|Trying to parse quality for 'Black Butler S01E06 His Butler at the Funeral 1080p CR WEB-DL DUAL DDP2 0 H'
+2025-02-26 08:58:09.1|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-02-26 08:58:09.1|Debug|Parser|Release Group parsed: 
+2025-02-26 08:58:09.1|Debug|ParsingService|No matching series Black Butler
+2025-02-26 08:58:09.1|Debug|DownloadDecisionMaker|Release 'Black Butler S01E06 His Butler at the Funeral 1080p CR WEB-DL DUAL DDP2 0 H' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 08:58:09.1|Debug|DownloadDecisionMaker|Processing release 'Black Butler S01E11 His Butler However You Please 1080p CR WEB-DL DUAL DDP2' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 08:58:09.1|Debug|Parser|Parsing string 'Black Butler S01E11 His Butler However You Please 1080p CR WEB-DL DUAL DDP2'
+2025-02-26 08:58:09.1|Debug|Parser|Episode Parsed. Black Butler - S01E11 
+2025-02-26 08:58:09.1|Debug|Parser|Languages parsed: Unknown
+2025-02-26 08:58:09.1|Debug|QualityParser|Trying to parse quality for 'Black Butler S01E11 His Butler However You Please 1080p CR WEB-DL DUAL DDP2'
+2025-02-26 08:58:09.1|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-02-26 08:58:09.1|Debug|Parser|Release Group parsed: 
+2025-02-26 08:58:09.1|Debug|ParsingService|No matching series Black Butler
+2025-02-26 08:58:09.1|Debug|DownloadDecisionMaker|Release 'Black Butler S01E11 His Butler However You Please 1080p CR WEB-DL DUAL DDP2' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 08:58:09.1|Debug|DownloadDecisionMaker|Processing release 'Black Butler S01E12 His Butler Forlorn 1080p CR WEB-DL DUAL DDP2 0 H 264-Ki' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 08:58:09.1|Debug|Parser|Parsing string 'Black Butler S01E12 His Butler Forlorn 1080p CR WEB-DL DUAL DDP2 0 H 264-Ki'
+2025-02-26 08:58:09.1|Debug|Parser|Episode Parsed. Black Butler - S01E12 
+2025-02-26 08:58:09.1|Debug|Parser|Languages parsed: Unknown
+2025-02-26 08:58:09.1|Debug|QualityParser|Trying to parse quality for 'Black Butler S01E12 His Butler Forlorn 1080p CR WEB-DL DUAL DDP2 0 H 264-Ki'
+2025-02-26 08:58:09.1|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-02-26 08:58:09.1|Debug|Parser|Release Group parsed: Ki
+2025-02-26 08:58:09.1|Debug|ParsingService|No matching series Black Butler
+2025-02-26 08:58:09.1|Debug|DownloadDecisionMaker|Release 'Black Butler S01E12 His Butler Forlorn 1080p CR WEB-DL DUAL DDP2 0 H 264-Ki' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 08:58:09.1|Debug|DownloadDecisionMaker|Processing release 'Black Butler S01E09 His Butler Phantom Image 1080p CR WEB-DL DUAL DDP2 0 H' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 08:58:09.1|Debug|Parser|Parsing string 'Black Butler S01E09 His Butler Phantom Image 1080p CR WEB-DL DUAL DDP2 0 H'
+2025-02-26 08:58:09.1|Debug|Parser|Episode Parsed. Black Butler - S01E09 
+2025-02-26 08:58:09.1|Debug|Parser|Languages parsed: Unknown
+2025-02-26 08:58:09.1|Debug|QualityParser|Trying to parse quality for 'Black Butler S01E09 His Butler Phantom Image 1080p CR WEB-DL DUAL DDP2 0 H'
+2025-02-26 08:58:09.1|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-02-26 08:58:09.1|Debug|Parser|Release Group parsed: 
+2025-02-26 08:58:09.1|Debug|ParsingService|No matching series Black Butler
+2025-02-26 08:58:09.1|Debug|DownloadDecisionMaker|Release 'Black Butler S01E09 His Butler Phantom Image 1080p CR WEB-DL DUAL DDP2 0 H' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 08:58:09.1|Debug|DownloadDecisionMaker|Processing release 'Black Butler S01E05 His Butler Chance Encounter 1080p CR WEB-DL DUAL DDP2 0' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 08:58:09.1|Debug|Parser|Parsing string 'Black Butler S01E05 His Butler Chance Encounter 1080p CR WEB-DL DUAL DDP2 0'
+2025-02-26 08:58:09.1|Debug|Parser|Episode Parsed. Black Butler - S01E05 
+2025-02-26 08:58:09.1|Debug|Parser|Languages parsed: Unknown
+2025-02-26 08:58:09.1|Debug|QualityParser|Trying to parse quality for 'Black Butler S01E05 His Butler Chance Encounter 1080p CR WEB-DL DUAL DDP2 0'
+2025-02-26 08:58:09.1|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-02-26 08:58:09.1|Debug|Parser|Release Group parsed: 
+2025-02-26 08:58:09.1|Debug|ParsingService|No matching series Black Butler
+2025-02-26 08:58:09.1|Debug|DownloadDecisionMaker|Release 'Black Butler S01E05 His Butler Chance Encounter 1080p CR WEB-DL DUAL DDP2 0' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 08:58:09.1|Debug|DownloadDecisionMaker|Processing release 'Black Butler S01E21 His Butler Engaging Servants 1080p CR WEB-DL DUAL DDP2' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 08:58:09.1|Debug|Parser|Parsing string 'Black Butler S01E21 His Butler Engaging Servants 1080p CR WEB-DL DUAL DDP2'
+2025-02-26 08:58:09.1|Debug|Parser|Episode Parsed. Black Butler - S01E21 
+2025-02-26 08:58:09.1|Debug|Parser|Languages parsed: Unknown
+2025-02-26 08:58:09.1|Debug|QualityParser|Trying to parse quality for 'Black Butler S01E21 His Butler Engaging Servants 1080p CR WEB-DL DUAL DDP2'
+2025-02-26 08:58:09.1|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-02-26 08:58:09.1|Debug|Parser|Release Group parsed: 
+2025-02-26 08:58:09.1|Debug|ParsingService|No matching series Black Butler
+2025-02-26 08:58:09.1|Debug|DownloadDecisionMaker|Release 'Black Butler S01E21 His Butler Engaging Servants 1080p CR WEB-DL DUAL DDP2' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 08:58:09.1|Debug|DownloadDecisionMaker|Processing release 'Black Butler S01E23 His Butler Up in Flames 1080p CR WEB-DL DUAL DDP2 0 H 2' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 08:58:09.1|Debug|Parser|Parsing string 'Black Butler S01E23 His Butler Up in Flames 1080p CR WEB-DL DUAL DDP2 0 H 2'
+2025-02-26 08:58:09.1|Debug|Parser|Episode Parsed. Black Butler - S01E23 
+2025-02-26 08:58:09.1|Debug|Parser|Languages parsed: Unknown
+2025-02-26 08:58:09.1|Debug|QualityParser|Trying to parse quality for 'Black Butler S01E23 His Butler Up in Flames 1080p CR WEB-DL DUAL DDP2 0 H 2'
+2025-02-26 08:58:09.1|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-02-26 08:58:09.1|Debug|Parser|Release Group parsed: 
+2025-02-26 08:58:09.1|Debug|ParsingService|No matching series Black Butler
+2025-02-26 08:58:09.1|Debug|DownloadDecisionMaker|Release 'Black Butler S01E23 His Butler Up in Flames 1080p CR WEB-DL DUAL DDP2 0 H 2' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 08:58:09.1|Debug|DownloadDecisionMaker|Processing release 'Black Butler S01E17 His Butler Offering 1080p CR WEB-DL DUAL DDP2 0 H 264-K' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 08:58:09.1|Debug|Parser|Parsing string 'Black Butler S01E17 His Butler Offering 1080p CR WEB-DL DUAL DDP2 0 H 264-K'
+2025-02-26 08:58:09.1|Debug|Parser|Episode Parsed. Black Butler - S01E17 
+2025-02-26 08:58:09.1|Debug|Parser|Languages parsed: Unknown
+2025-02-26 08:58:09.1|Debug|QualityParser|Trying to parse quality for 'Black Butler S01E17 His Butler Offering 1080p CR WEB-DL DUAL DDP2 0 H 264-K'
+2025-02-26 08:58:09.1|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-02-26 08:58:09.1|Debug|Parser|Release Group parsed: K
+2025-02-26 08:58:09.1|Debug|ParsingService|No matching series Black Butler
+2025-02-26 08:58:09.1|Debug|DownloadDecisionMaker|Release 'Black Butler S01E17 His Butler Offering 1080p CR WEB-DL DUAL DDP2 0 H 264-K' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 08:58:09.1|Debug|DownloadDecisionMaker|Processing release 'Black Butler S01E24 His Butler Fluent 1080p CR WEB-DL DUAL DDP2 0 H 264-Kit' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 08:58:09.1|Debug|Parser|Parsing string 'Black Butler S01E24 His Butler Fluent 1080p CR WEB-DL DUAL DDP2 0 H 264-Kit'
+2025-02-26 08:58:09.1|Debug|Parser|Episode Parsed. Black Butler - S01E24 
+2025-02-26 08:58:09.1|Debug|Parser|Languages parsed: Unknown
+2025-02-26 08:58:09.1|Debug|QualityParser|Trying to parse quality for 'Black Butler S01E24 His Butler Fluent 1080p CR WEB-DL DUAL DDP2 0 H 264-Kit'
+2025-02-26 08:58:09.1|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-02-26 08:58:09.1|Debug|Parser|Release Group parsed: Kit
+2025-02-26 08:58:09.1|Debug|ParsingService|No matching series Black Butler
+2025-02-26 08:58:09.1|Debug|DownloadDecisionMaker|Release 'Black Butler S01E24 His Butler Fluent 1080p CR WEB-DL DUAL DDP2 0 H 264-Kit' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 08:58:09.1|Debug|DownloadDecisionMaker|Processing release 'Black Butler S01E18 His Butler Transmitted 1080p CR WEB-DL DUAL DDP2 0 H 26' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 08:58:09.1|Debug|Parser|Parsing string 'Black Butler S01E18 His Butler Transmitted 1080p CR WEB-DL DUAL DDP2 0 H 26'
+2025-02-26 08:58:09.1|Debug|Parser|Episode Parsed. Black Butler - S01E18 
+2025-02-26 08:58:09.1|Debug|Parser|Languages parsed: Unknown
+2025-02-26 08:58:09.1|Debug|QualityParser|Trying to parse quality for 'Black Butler S01E18 His Butler Transmitted 1080p CR WEB-DL DUAL DDP2 0 H 26'
+2025-02-26 08:58:09.1|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-02-26 08:58:09.1|Debug|Parser|Release Group parsed: 
+2025-02-26 08:58:09.1|Debug|ParsingService|No matching series Black Butler
+2025-02-26 08:58:09.1|Debug|DownloadDecisionMaker|Release 'Black Butler S01E18 His Butler Transmitted 1080p CR WEB-DL DUAL DDP2 0 H 26' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 08:58:09.1|Debug|DownloadDecisionMaker|Processing release 'Black Butler S01E04 His Butler Capricious 1080p CR WEB-DL DUAL DDP2 0 H 264' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 08:58:09.1|Debug|Parser|Parsing string 'Black Butler S01E04 His Butler Capricious 1080p CR WEB-DL DUAL DDP2 0 H 264'
+2025-02-26 08:58:09.1|Debug|Parser|Episode Parsed. Black Butler - S01E04 
+2025-02-26 08:58:09.1|Debug|Parser|Languages parsed: Unknown
+2025-02-26 08:58:09.1|Debug|QualityParser|Trying to parse quality for 'Black Butler S01E04 His Butler Capricious 1080p CR WEB-DL DUAL DDP2 0 H 264'
+2025-02-26 08:58:09.1|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-02-26 08:58:09.1|Debug|Parser|Release Group parsed: 
+2025-02-26 08:58:09.1|Debug|ParsingService|No matching series Black Butler
+2025-02-26 08:58:09.1|Debug|DownloadDecisionMaker|Release 'Black Butler S01E04 His Butler Capricious 1080p CR WEB-DL DUAL DDP2 0 H 264' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 08:58:09.1|Debug|DownloadDecisionMaker|Processing release 'Black Butler S01E22 His Butler Dissolution 1080p CR WEB-DL DUAL DDP2 0 H 26' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 08:58:09.1|Debug|Parser|Parsing string 'Black Butler S01E22 His Butler Dissolution 1080p CR WEB-DL DUAL DDP2 0 H 26'
+2025-02-26 08:58:09.1|Debug|Parser|Episode Parsed. Black Butler - S01E22 
+2025-02-26 08:58:09.1|Debug|Parser|Languages parsed: Unknown
+2025-02-26 08:58:09.1|Debug|QualityParser|Trying to parse quality for 'Black Butler S01E22 His Butler Dissolution 1080p CR WEB-DL DUAL DDP2 0 H 26'
+2025-02-26 08:58:09.1|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-02-26 08:58:09.1|Debug|Parser|Release Group parsed: 
+2025-02-26 08:58:09.1|Debug|ParsingService|No matching series Black Butler
+2025-02-26 08:58:09.1|Debug|DownloadDecisionMaker|Release 'Black Butler S01E22 His Butler Dissolution 1080p CR WEB-DL DUAL DDP2 0 H 26' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 08:58:09.1|Debug|DownloadDecisionMaker|Processing release 'Black Butler S01E08 His Butler Training 1080p CR WEB-DL DUAL DDP2 0 H 264-K' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 08:58:09.1|Debug|Parser|Parsing string 'Black Butler S01E08 His Butler Training 1080p CR WEB-DL DUAL DDP2 0 H 264-K'
+2025-02-26 08:58:09.1|Debug|Parser|Episode Parsed. Black Butler - S01E08 
+2025-02-26 08:58:09.1|Debug|Parser|Languages parsed: Unknown
+2025-02-26 08:58:09.1|Debug|QualityParser|Trying to parse quality for 'Black Butler S01E08 His Butler Training 1080p CR WEB-DL DUAL DDP2 0 H 264-K'
+2025-02-26 08:58:09.1|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-02-26 08:58:09.1|Debug|Parser|Release Group parsed: K
+2025-02-26 08:58:09.1|Debug|ParsingService|No matching series Black Butler
+2025-02-26 08:58:09.1|Debug|DownloadDecisionMaker|Release 'Black Butler S01E08 His Butler Training 1080p CR WEB-DL DUAL DDP2 0 H 264-K' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 08:58:09.1|Debug|DownloadDecisionMaker|Processing release 'United.Tacos.of.America.S02E14.1080p.WEB.h264-BAE' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 08:58:09.1|Debug|Parser|Parsing string 'United.Tacos.of.America.S02E14.1080p.WEB.h264-BAE'
+2025-02-26 08:58:09.1|Debug|Parser|Episode Parsed. United Tacos of America - S02E14 
+2025-02-26 08:58:09.1|Debug|Parser|Languages parsed: Unknown
+2025-02-26 08:58:09.1|Debug|QualityParser|Trying to parse quality for 'United.Tacos.of.America.S02E14.1080p.WEB.h264-BAE'
+2025-02-26 08:58:09.1|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-02-26 08:58:09.1|Debug|Parser|Release Group parsed: BAE
+2025-02-26 08:58:09.1|Debug|ParsingService|No matching series United Tacos of America
+2025-02-26 08:58:09.1|Debug|DownloadDecisionMaker|Release 'United.Tacos.of.America.S02E14.1080p.WEB.h264-BAE' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 08:58:09.1|Debug|DownloadDecisionMaker|Processing release 'Black Butler S01E15 His Butler Competing 1080p CR WEB-DL DUAL DDP2 0 H 264-' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 08:58:09.1|Debug|Parser|Parsing string 'Black Butler S01E15 His Butler Competing 1080p CR WEB-DL DUAL DDP2 0 H 264-'
+2025-02-26 08:58:09.1|Debug|Parser|Episode Parsed. Black Butler - S01E15 
+2025-02-26 08:58:09.1|Debug|Parser|Languages parsed: Unknown
+2025-02-26 08:58:09.1|Debug|QualityParser|Trying to parse quality for 'Black Butler S01E15 His Butler Competing 1080p CR WEB-DL DUAL DDP2 0 H 264-'
+2025-02-26 08:58:09.1|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-02-26 08:58:09.1|Debug|Parser|Release Group parsed: 
+2025-02-26 08:58:09.1|Debug|ParsingService|No matching series Black Butler
+2025-02-26 08:58:09.1|Debug|DownloadDecisionMaker|Release 'Black Butler S01E15 His Butler Competing 1080p CR WEB-DL DUAL DDP2 0 H 264-' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 08:58:09.1|Debug|DownloadDecisionMaker|Processing release 'Black Butler S01E03 His Butler Omnipotent 1080p CR WEB-DL DUAL DDP2 0 H 264' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 08:58:09.1|Debug|Parser|Parsing string 'Black Butler S01E03 His Butler Omnipotent 1080p CR WEB-DL DUAL DDP2 0 H 264'
+2025-02-26 08:58:09.1|Debug|Parser|Episode Parsed. Black Butler - S01E03 
+2025-02-26 08:58:09.1|Debug|Parser|Languages parsed: Unknown
+2025-02-26 08:58:09.1|Debug|QualityParser|Trying to parse quality for 'Black Butler S01E03 His Butler Omnipotent 1080p CR WEB-DL DUAL DDP2 0 H 264'
+2025-02-26 08:58:09.1|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-02-26 08:58:09.1|Debug|Parser|Release Group parsed: 
+2025-02-26 08:58:09.1|Debug|ParsingService|No matching series Black Butler
+2025-02-26 08:58:09.1|Debug|DownloadDecisionMaker|Release 'Black Butler S01E03 His Butler Omnipotent 1080p CR WEB-DL DUAL DDP2 0 H 264' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 08:58:09.1|Debug|DownloadDecisionMaker|Processing release 'United.Tacos.of.America.S02E12.1080p.WEB.h264-BAE' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 08:58:09.1|Debug|Parser|Parsing string 'United.Tacos.of.America.S02E12.1080p.WEB.h264-BAE'
+2025-02-26 08:58:09.1|Debug|Parser|Episode Parsed. United Tacos of America - S02E12 
+2025-02-26 08:58:09.1|Debug|Parser|Languages parsed: Unknown
+2025-02-26 08:58:09.1|Debug|QualityParser|Trying to parse quality for 'United.Tacos.of.America.S02E12.1080p.WEB.h264-BAE'
+2025-02-26 08:58:09.1|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-02-26 08:58:09.1|Debug|Parser|Release Group parsed: BAE
+2025-02-26 08:58:09.1|Debug|ParsingService|No matching series United Tacos of America
+2025-02-26 08:58:09.1|Debug|DownloadDecisionMaker|Release 'United.Tacos.of.America.S02E12.1080p.WEB.h264-BAE' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 08:58:09.1|Debug|DownloadDecisionMaker|Processing release 'United.Tacos.of.America.S02E11.1080p.WEB.h264-BAE' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 08:58:09.1|Debug|Parser|Parsing string 'United.Tacos.of.America.S02E11.1080p.WEB.h264-BAE'
+2025-02-26 08:58:09.1|Debug|Parser|Episode Parsed. United Tacos of America - S02E11 
+2025-02-26 08:58:09.1|Debug|Parser|Languages parsed: Unknown
+2025-02-26 08:58:09.1|Debug|QualityParser|Trying to parse quality for 'United.Tacos.of.America.S02E11.1080p.WEB.h264-BAE'
+2025-02-26 08:58:09.1|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-02-26 08:58:09.1|Debug|Parser|Release Group parsed: BAE
+2025-02-26 08:58:09.1|Debug|ParsingService|No matching series United Tacos of America
+2025-02-26 08:58:09.1|Debug|DownloadDecisionMaker|Release 'United.Tacos.of.America.S02E11.1080p.WEB.h264-BAE' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 08:58:09.1|Debug|DownloadDecisionMaker|Processing release 'United.Tacos.of.America.S02E13.1080p.WEB.h264-BAE' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 08:58:09.1|Debug|Parser|Parsing string 'United.Tacos.of.America.S02E13.1080p.WEB.h264-BAE'
+2025-02-26 08:58:09.1|Debug|Parser|Episode Parsed. United Tacos of America - S02E13 
+2025-02-26 08:58:09.1|Debug|Parser|Languages parsed: Unknown
+2025-02-26 08:58:09.1|Debug|QualityParser|Trying to parse quality for 'United.Tacos.of.America.S02E13.1080p.WEB.h264-BAE'
+2025-02-26 08:58:09.1|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-02-26 08:58:09.1|Debug|Parser|Release Group parsed: BAE
+2025-02-26 08:58:09.1|Debug|ParsingService|No matching series United Tacos of America
+2025-02-26 08:58:09.1|Debug|DownloadDecisionMaker|Release 'United.Tacos.of.America.S02E13.1080p.WEB.h264-BAE' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 08:58:09.1|Debug|DownloadDecisionMaker|Processing release 'Pitino.Red.Storm.Rising.S01E03.1080p.WEB.h264-BAE' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 08:58:09.1|Debug|Parser|Parsing string 'Pitino.Red.Storm.Rising.S01E03.1080p.WEB.h264-BAE'
+2025-02-26 08:58:09.1|Debug|Parser|Episode Parsed. Pitino Red Storm Rising - S01E03 
+2025-02-26 08:58:09.1|Debug|Parser|Languages parsed: Unknown
+2025-02-26 08:58:09.1|Debug|QualityParser|Trying to parse quality for 'Pitino.Red.Storm.Rising.S01E03.1080p.WEB.h264-BAE'
+2025-02-26 08:58:09.1|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-02-26 08:58:09.1|Debug|Parser|Release Group parsed: BAE
+2025-02-26 08:58:09.1|Debug|ParsingService|No matching series Pitino Red Storm Rising
+2025-02-26 08:58:09.1|Debug|DownloadDecisionMaker|Release 'Pitino.Red.Storm.Rising.S01E03.1080p.WEB.h264-BAE' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 08:58:09.1|Debug|DownloadDecisionMaker|Processing release 'St Denis Medical S01E13 720p HEVC x265-MeGusta' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 08:58:09.1|Debug|Parser|Parsing string 'St Denis Medical S01E13 720p HEVC x265-MeGusta'
+2025-02-26 08:58:09.1|Debug|Parser|Episode Parsed. St Denis Medical - S01E13 
+2025-02-26 08:58:09.1|Debug|Parser|Languages parsed: Unknown
+2025-02-26 08:58:09.1|Debug|QualityParser|Trying to parse quality for 'St Denis Medical S01E13 720p HEVC x265-MeGusta'
+2025-02-26 08:58:09.1|Debug|Parser|Quality parsed: HDTV-720p v1
+2025-02-26 08:58:09.1|Debug|Parser|Release Group parsed: MeGusta
+2025-02-26 08:58:09.1|Debug|ParsingService|No matching series St Denis Medical
+2025-02-26 08:58:09.1|Debug|DownloadDecisionMaker|Release 'St Denis Medical S01E13 720p HEVC x265-MeGusta' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 08:58:09.1|Debug|DownloadDecisionMaker|Processing release 'Snapped S35E07 Denise Gay 720p AMZN WEB-DL DDP2 0 H 264-RAWR' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 08:58:09.1|Debug|Parser|Parsing string 'Snapped S35E07 Denise Gay 720p AMZN WEB-DL DDP2 0 H 264-RAWR'
+2025-02-26 08:58:09.1|Debug|Parser|Episode Parsed. Snapped - S35E07 
+2025-02-26 08:58:09.1|Debug|Parser|Languages parsed: Unknown
+2025-02-26 08:58:09.1|Debug|QualityParser|Trying to parse quality for 'Snapped S35E07 Denise Gay 720p AMZN WEB-DL DDP2 0 H 264-RAWR'
+2025-02-26 08:58:09.1|Debug|Parser|Quality parsed: WEBDL-720p v1
+2025-02-26 08:58:09.1|Debug|Parser|Release Group parsed: RAWR
+2025-02-26 08:58:09.1|Debug|ParsingService|No matching series Snapped
+2025-02-26 08:58:09.1|Debug|DownloadDecisionMaker|Release 'Snapped S35E07 Denise Gay 720p AMZN WEB-DL DDP2 0 H 264-RAWR' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 08:58:09.1|Debug|DownloadDecisionMaker|Processing release 'The Irrational S02E15 720p HDTV x264-SYNCOPY' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 08:58:09.1|Debug|Parser|Parsing string 'The Irrational S02E15 720p HDTV x264-SYNCOPY'
+2025-02-26 08:58:09.1|Debug|Parser|Episode Parsed. The Irrational - S02E15 
+2025-02-26 08:58:09.1|Debug|Parser|Languages parsed: Unknown
+2025-02-26 08:58:09.1|Debug|QualityParser|Trying to parse quality for 'The Irrational S02E15 720p HDTV x264-SYNCOPY'
+2025-02-26 08:58:09.1|Debug|Parser|Quality parsed: HDTV-720p v1
+2025-02-26 08:58:09.1|Debug|Parser|Release Group parsed: SYNCOPY
+2025-02-26 08:58:09.1|Debug|ParsingService|No matching series The Irrational
+2025-02-26 08:58:09.1|Debug|DownloadDecisionMaker|Release 'The Irrational S02E15 720p HDTV x264-SYNCOPY' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 08:58:09.1|Debug|DownloadDecisionMaker|Processing release 'Black Butler S01E20 His Butler Escaping 1080p CR WEB-DL DUAL DDP2 0 H 264-K' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 08:58:09.1|Debug|Parser|Parsing string 'Black Butler S01E20 His Butler Escaping 1080p CR WEB-DL DUAL DDP2 0 H 264-K'
+2025-02-26 08:58:09.1|Debug|Parser|Episode Parsed. Black Butler - S01E20 
+2025-02-26 08:58:09.1|Debug|Parser|Languages parsed: Unknown
+2025-02-26 08:58:09.1|Debug|QualityParser|Trying to parse quality for 'Black Butler S01E20 His Butler Escaping 1080p CR WEB-DL DUAL DDP2 0 H 264-K'
+2025-02-26 08:58:09.1|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-02-26 08:58:09.1|Debug|Parser|Release Group parsed: K
+2025-02-26 08:58:09.1|Debug|ParsingService|No matching series Black Butler
+2025-02-26 08:58:09.1|Debug|DownloadDecisionMaker|Release 'Black Butler S01E20 His Butler Escaping 1080p CR WEB-DL DUAL DDP2 0 H 264-K' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 08:58:09.1|Debug|DownloadDecisionMaker|Processing release 'Black Butler S01E19 His Butler Imprisoned 1080p CR WEB-DL DUAL DDP2 0 H 264' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 08:58:09.1|Debug|Parser|Parsing string 'Black Butler S01E19 His Butler Imprisoned 1080p CR WEB-DL DUAL DDP2 0 H 264'
+2025-02-26 08:58:09.1|Debug|Parser|Episode Parsed. Black Butler - S01E19 
+2025-02-26 08:58:09.1|Debug|Parser|Languages parsed: Unknown
+2025-02-26 08:58:09.1|Debug|QualityParser|Trying to parse quality for 'Black Butler S01E19 His Butler Imprisoned 1080p CR WEB-DL DUAL DDP2 0 H 264'
+2025-02-26 08:58:09.1|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-02-26 08:58:09.1|Debug|Parser|Release Group parsed: 
+2025-02-26 08:58:09.1|Debug|ParsingService|No matching series Black Butler
+2025-02-26 08:58:09.1|Debug|DownloadDecisionMaker|Release 'Black Butler S01E19 His Butler Imprisoned 1080p CR WEB-DL DUAL DDP2 0 H 264' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 08:58:09.1|Debug|DownloadDecisionMaker|Processing release 'Black Butler S01E07 His Butler Merrymaking 1080p CR WEB-DL DUAL DDP2 0 H 26' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 08:58:09.1|Debug|Parser|Parsing string 'Black Butler S01E07 His Butler Merrymaking 1080p CR WEB-DL DUAL DDP2 0 H 26'
+2025-02-26 08:58:09.1|Debug|Parser|Episode Parsed. Black Butler - S01E07 
+2025-02-26 08:58:09.1|Debug|Parser|Languages parsed: Unknown
+2025-02-26 08:58:09.1|Debug|QualityParser|Trying to parse quality for 'Black Butler S01E07 His Butler Merrymaking 1080p CR WEB-DL DUAL DDP2 0 H 26'
+2025-02-26 08:58:09.1|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-02-26 08:58:09.1|Debug|Parser|Release Group parsed: 
+2025-02-26 08:58:09.1|Debug|ParsingService|No matching series Black Butler
+2025-02-26 08:58:09.1|Debug|DownloadDecisionMaker|Release 'Black Butler S01E07 His Butler Merrymaking 1080p CR WEB-DL DUAL DDP2 0 H 26' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 08:58:09.1|Debug|DownloadDecisionMaker|Processing release 'This.Hour.Has.22.Minutes.S32E20.1080p.WEB.h264-BAE' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 08:58:09.1|Debug|Parser|Parsing string 'This.Hour.Has.22.Minutes.S32E20.1080p.WEB.h264-BAE'
+2025-02-26 08:58:09.1|Debug|Parser|Episode Parsed. This Hour Has 22 Minutes - S32E20 
+2025-02-26 08:58:09.1|Debug|Parser|Languages parsed: Unknown
+2025-02-26 08:58:09.1|Debug|QualityParser|Trying to parse quality for 'This.Hour.Has.22.Minutes.S32E20.1080p.WEB.h264-BAE'
+2025-02-26 08:58:09.1|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-02-26 08:58:09.1|Debug|Parser|Release Group parsed: BAE
+2025-02-26 08:58:09.1|Debug|Parser|Parsing string 'This.Hour.Has.22.Minutes.S32E20.1080p.WEB.h264-BAE'
+2025-02-26 08:58:09.1|Debug|SceneMappingService|Found scene mapping for: This Hour Has 22 Minutes. TVDB ID for mapping: 78125
+2025-02-26 08:58:09.1|Debug|ParsingService|No matching series This Hour Has 22 Minutes
+2025-02-26 08:58:09.1|Debug|Parser|Parsing string 'This.Hour.Has.22.Minutes.S32E20.1080p.WEB.h264-BAE'
+2025-02-26 08:58:09.1|Debug|SceneMappingService|Found scene mapping for: This Hour Has 22 Minutes. TVDB ID for mapping: 78125
+2025-02-26 08:58:09.1|Debug|DownloadDecisionMaker|Release 'This.Hour.Has.22.Minutes.S32E20.1080p.WEB.h264-BAE' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] This Hour Has 22 Minutes matches an alias for series with TVDB ID: 78125
+2025-02-26 08:58:09.1|Info|RssSyncService|RSS Sync Completed. Reports found: 58, Reports grabbed: 0
+2025-02-26 08:58:09.1|Debug|PendingReleaseService|Removing failed releases from pending
+2025-02-26 09:03:35.3|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-02-26 09:08:35.3|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-02-26 09:13:35.4|Info|RssSyncService|Starting RSS Sync
+2025-02-26 09:13:35.4|Debug|FetchAndParseRssService|Available indexers 2
+2025-02-26 09:13:35.5|Debug|Torznab|Downloading Feed http://192.168.1.21:9696/1/api?t=tvsearch&cat=5000,5070&extended=1&apikey=(removed)&offset=0&limit=100
+2025-02-26 09:13:35.6|Debug|Torznab|Downloading Feed http://192.168.1.21:9696/2/api?t=tvsearch&cat=5000,5050,5040,5045&extended=1&apikey=(removed)&offset=0&limit=100
+2025-02-26 09:13:35.6|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-02-26 09:13:36.8|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 02/26/2025 05:30:12 and 02/26/2025 06:52:37 UTC. Search may be required.
+2025-02-26 09:13:36.9|Debug|FetchAndParseRssService|Found 60 reports
+2025-02-26 09:13:36.9|Info|DownloadDecisionMaker|Processing 60 releases
+2025-02-26 09:13:36.9|Debug|DownloadDecisionMaker|Processing release '[喵萌奶茶屋&LoliHouse] 全修。 / ZENSHU - 06 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]' from 'Anime Time (Prowlarr)'
+2025-02-26 09:13:36.9|Debug|Parser|Parsing string '[喵萌奶茶屋&LoliHouse] 全修。 / ZENSHU - 06 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]'
+2025-02-26 09:13:36.9|Debug|Parser|Substituted with [喵萌奶茶屋&LoliHouse][ 全修。 / ZENSHU][06][WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]
+2025-02-26 09:13:36.9|Debug|Parser|Substituted with [喵萌奶茶屋&LoliHouse] ZENSHU - 06 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]
+2025-02-26 09:13:36.9|Debug|Parser|Episode Parsed. ZENSHU - 006 
+2025-02-26 09:13:36.9|Debug|Parser|Languages parsed: Chinese
+2025-02-26 09:13:37.0|Debug|QualityParser|Trying to parse quality for '[喵萌奶茶屋&LoliHouse] 全修。 / ZENSHU - 06 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]'
+2025-02-26 09:13:37.0|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-02-26 09:13:37.0|Debug|Parser|Release Group parsed: 喵萌奶茶屋&LoliHouse
+2025-02-26 09:13:37.0|Debug|ParsingService|No matching series ZENSHU
+2025-02-26 09:13:37.0|Debug|DownloadDecisionMaker|Release '[喵萌奶茶屋&LoliHouse] 全修。 / ZENSHU - 06 [WebRip 1080p HEVC-10bit AAC][简繁日内封字幕]' from 'Anime Time (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 09:13:37.0|Debug|DownloadDecisionMaker|Processing release '[Exiled-Destiny] Big Windup Season 2 (Subbed)' from 'Anime Time (Prowlarr)'
+2025-02-26 09:13:37.0|Debug|Parser|Parsing string '[Exiled-Destiny] Big Windup Season 2 (Subbed)'
+2025-02-26 09:13:37.0|Debug|Parser|Episode Parsed. Big Windup - Season 02 
+2025-02-26 09:13:37.0|Debug|Parser|Languages parsed: Unknown
+2025-02-26 09:13:37.0|Debug|QualityParser|Trying to parse quality for '[Exiled-Destiny] Big Windup Season 2 (Subbed)'
+2025-02-26 09:13:37.0|Debug|Parser|Quality parsed: Unknown v1
+2025-02-26 09:13:37.0|Debug|Parser|Release Group parsed: Exiled-Destiny
+2025-02-26 09:13:37.0|Debug|ParsingService|No matching series Big Windup
+2025-02-26 09:13:37.0|Debug|DownloadDecisionMaker|Release '[Exiled-Destiny] Big Windup Season 2 (Subbed)' from 'Anime Time (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 09:13:37.0|Debug|DownloadDecisionMaker|Processing release '[Exiled-Destiny] Big Windup' from 'Anime Time (Prowlarr)'
+2025-02-26 09:13:37.0|Debug|Parser|Parsing string '[Exiled-Destiny] Big Windup'
+2025-02-26 09:13:37.6|Debug|Parser|Unable to parse [Exiled-Destiny] Big Windup
+2025-02-26 09:13:37.6|Debug|Parser|Parsing string '[Exiled-Destiny] Big Windup'
+2025-02-26 09:13:37.6|Debug|Parser|Unable to parse [Exiled-Destiny] Big Windup
+2025-02-26 09:13:37.7|Debug|ParsingService|No matching series [Exiled-Destiny] Big Windup
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Processing release '[Starbez] The Red Ranger Becomes an Adventurer in Another World | Sentai Red Isekai de Boukensha ni Naru - S01E02 (WEB 1080p H.264 AAC) [Dual Audio]' from 'Anime Time (Prowlarr)'
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string '[Starbez] The Red Ranger Becomes an Adventurer in Another World | Sentai Red Isekai de Boukensha ni Naru - S01E02 (WEB 1080p H.264 AAC) [Dual Audio]'
+2025-02-26 09:13:37.7|Debug|Parser|Episode Parsed. The Red Ranger Becomes an Adventurer in Another World | Sentai Red Isekai de Boukensha ni Naru - S01E02 
+2025-02-26 09:13:37.7|Debug|Parser|Languages parsed: Unknown
+2025-02-26 09:13:37.7|Debug|QualityParser|Trying to parse quality for '[Starbez] The Red Ranger Becomes an Adventurer in Another World | Sentai Red Isekai de Boukensha ni Naru - S01E02 (WEB 1080p H.264 AAC) [Dual Audio]'
+2025-02-26 09:13:37.7|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-02-26 09:13:37.7|Debug|Parser|Release Group parsed: Starbez
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string '[Starbez] The Red Ranger Becomes an Adventurer in Another World | Sentai Red Isekai de Boukensha ni Naru - S01E02 (WEB 1080p H.264 AAC) [Dual Audio]'
+2025-02-26 09:13:37.7|Debug|SceneMappingService|Found scene mapping for: Sentai Red Isekai de Boukensha ni Naru. TVDB ID for mapping: 453022
+2025-02-26 09:13:37.7|Debug|ParsingService|No matching series The Red Ranger Becomes an Adventurer in Another World | Sentai Red Isekai de Boukensha ni Naru
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Release '[Starbez] The Red Ranger Becomes an Adventurer in Another World | Sentai Red Isekai de Boukensha ni Naru - S01E02 (WEB 1080p H.264 AAC) [Dual Audio]' from 'Anime Time (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Processing release '[❀拨雪寻春❀] 悠久之翼 - 前尘遗响 / ef - a tale of memories - 02 [BDRip][HEVC-10bit 1080p][繁日内嵌]' from 'Anime Time (Prowlarr)'
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string '[❀拨雪寻春❀] 悠久之翼 - 前尘遗响 / ef - a tale of memories - 02 [BDRip][HEVC-10bit 1080p][繁日内嵌]'
+2025-02-26 09:13:37.7|Debug|Parser|Substituted with [❀拨雪寻春❀] ef - a tale of memories - 02  [BDRip][HEVC-10bit 1080p][繁日内嵌]
+2025-02-26 09:13:37.7|Debug|Parser|Episode Parsed. ef - a tale of memories - 002 
+2025-02-26 09:13:37.7|Debug|Parser|Languages parsed: Chinese
+2025-02-26 09:13:37.7|Debug|QualityParser|Trying to parse quality for '[❀拨雪寻春❀] 悠久之翼 - 前尘遗响 / ef - a tale of memories - 02 [BDRip][HEVC-10bit 1080p][繁日内嵌]'
+2025-02-26 09:13:37.7|Debug|Parser|Quality parsed: Bluray-1080p v1
+2025-02-26 09:13:37.7|Debug|Parser|Release Group parsed: ❀拨雪寻春❀
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string '[❀拨雪寻春❀] ef - a tale of memories - 02  [BDRip][HEVC-10bit 1080p][繁日内嵌]'
+2025-02-26 09:13:37.7|Debug|SceneMappingService|Found scene mapping for: ef - a tale of memories. TVDB ID for mapping: 80904
+2025-02-26 09:13:37.7|Debug|ParsingService|No matching series ef - a tale of memories
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string '[❀拨雪寻春❀] ef - a tale of memories - 02  [BDRip][HEVC-10bit 1080p][繁日内嵌]'
+2025-02-26 09:13:37.7|Debug|SceneMappingService|Found scene mapping for: ef - a tale of memories. TVDB ID for mapping: 80904
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Release '[❀拨雪寻春❀] 悠久之翼 - 前尘遗响 / ef - a tale of memories - 02 [BDRip][HEVC-10bit 1080p][繁日内嵌]' from 'Anime Time (Prowlarr)' rejected for the following reasons: [Permanent] ef - a tale of memories matches an alias for series with TVDB ID: 80904
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Processing release '[❀拨雪寻春❀] 悠久之翼 - 前尘遗响 / ef - a tale of memories - 02 [BDRip][HEVC-10bit 1080p][简日内嵌]' from 'Anime Time (Prowlarr)'
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string '[❀拨雪寻春❀] 悠久之翼 - 前尘遗响 / ef - a tale of memories - 02 [BDRip][HEVC-10bit 1080p][简日内嵌]'
+2025-02-26 09:13:37.7|Debug|Parser|Substituted with [❀拨雪寻春❀] ef - a tale of memories - 02  [BDRip][HEVC-10bit 1080p][简日内嵌]
+2025-02-26 09:13:37.7|Debug|Parser|Episode Parsed. ef - a tale of memories - 002 
+2025-02-26 09:13:37.7|Debug|Parser|Languages parsed: Chinese
+2025-02-26 09:13:37.7|Debug|QualityParser|Trying to parse quality for '[❀拨雪寻春❀] 悠久之翼 - 前尘遗响 / ef - a tale of memories - 02 [BDRip][HEVC-10bit 1080p][简日内嵌]'
+2025-02-26 09:13:37.7|Debug|Parser|Quality parsed: Bluray-1080p v1
+2025-02-26 09:13:37.7|Debug|Parser|Release Group parsed: ❀拨雪寻春❀
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string '[❀拨雪寻春❀] ef - a tale of memories - 02  [BDRip][HEVC-10bit 1080p][简日内嵌]'
+2025-02-26 09:13:37.7|Debug|SceneMappingService|Found scene mapping for: ef - a tale of memories. TVDB ID for mapping: 80904
+2025-02-26 09:13:37.7|Debug|ParsingService|No matching series ef - a tale of memories
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string '[❀拨雪寻春❀] ef - a tale of memories - 02  [BDRip][HEVC-10bit 1080p][简日内嵌]'
+2025-02-26 09:13:37.7|Debug|SceneMappingService|Found scene mapping for: ef - a tale of memories. TVDB ID for mapping: 80904
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Release '[❀拨雪寻春❀] 悠久之翼 - 前尘遗响 / ef - a tale of memories - 02 [BDRip][HEVC-10bit 1080p][简日内嵌]' from 'Anime Time (Prowlarr)' rejected for the following reasons: [Permanent] ef - a tale of memories matches an alias for series with TVDB ID: 80904
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Processing release '[❀拨雪寻春❀] 悠久之翼 - 前尘遗响 / ef - a tale of memories - 02 [BDRip][HEVC-10bit 1080p][简繁日内封]' from 'Anime Time (Prowlarr)'
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string '[❀拨雪寻春❀] 悠久之翼 - 前尘遗响 / ef - a tale of memories - 02 [BDRip][HEVC-10bit 1080p][简繁日内封]'
+2025-02-26 09:13:37.7|Debug|Parser|Substituted with [❀拨雪寻春❀] ef - a tale of memories - 02  [BDRip][HEVC-10bit 1080p][简繁日内封]
+2025-02-26 09:13:37.7|Debug|Parser|Episode Parsed. ef - a tale of memories - 002 
+2025-02-26 09:13:37.7|Debug|Parser|Languages parsed: Chinese
+2025-02-26 09:13:37.7|Debug|QualityParser|Trying to parse quality for '[❀拨雪寻春❀] 悠久之翼 - 前尘遗响 / ef - a tale of memories - 02 [BDRip][HEVC-10bit 1080p][简繁日内封]'
+2025-02-26 09:13:37.7|Debug|Parser|Quality parsed: Bluray-1080p v1
+2025-02-26 09:13:37.7|Debug|Parser|Release Group parsed: ❀拨雪寻春❀
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string '[❀拨雪寻春❀] ef - a tale of memories - 02  [BDRip][HEVC-10bit 1080p][简繁日内封]'
+2025-02-26 09:13:37.7|Debug|SceneMappingService|Found scene mapping for: ef - a tale of memories. TVDB ID for mapping: 80904
+2025-02-26 09:13:37.7|Debug|ParsingService|No matching series ef - a tale of memories
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string '[❀拨雪寻春❀] ef - a tale of memories - 02  [BDRip][HEVC-10bit 1080p][简繁日内封]'
+2025-02-26 09:13:37.7|Debug|SceneMappingService|Found scene mapping for: ef - a tale of memories. TVDB ID for mapping: 80904
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Release '[❀拨雪寻春❀] 悠久之翼 - 前尘遗响 / ef - a tale of memories - 02 [BDRip][HEVC-10bit 1080p][简繁日内封]' from 'Anime Time (Prowlarr)' rejected for the following reasons: [Permanent] ef - a tale of memories matches an alias for series with TVDB ID: 80904
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Processing release '[❀拨雪寻春❀] 悠久之翼 - 前尘遗响 / ef - a tale of memories - 01 [BDRip][HEVC-10bit 1080p][繁日内嵌]' from 'Anime Time (Prowlarr)'
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string '[❀拨雪寻春❀] 悠久之翼 - 前尘遗响 / ef - a tale of memories - 01 [BDRip][HEVC-10bit 1080p][繁日内嵌]'
+2025-02-26 09:13:37.7|Debug|Parser|Substituted with [❀拨雪寻春❀] ef - a tale of memories - 01  [BDRip][HEVC-10bit 1080p][繁日内嵌]
+2025-02-26 09:13:37.7|Debug|Parser|Episode Parsed. ef - a tale of memories - 001 
+2025-02-26 09:13:37.7|Debug|Parser|Languages parsed: Chinese
+2025-02-26 09:13:37.7|Debug|QualityParser|Trying to parse quality for '[❀拨雪寻春❀] 悠久之翼 - 前尘遗响 / ef - a tale of memories - 01 [BDRip][HEVC-10bit 1080p][繁日内嵌]'
+2025-02-26 09:13:37.7|Debug|Parser|Quality parsed: Bluray-1080p v1
+2025-02-26 09:13:37.7|Debug|Parser|Release Group parsed: ❀拨雪寻春❀
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string '[❀拨雪寻春❀] ef - a tale of memories - 01  [BDRip][HEVC-10bit 1080p][繁日内嵌]'
+2025-02-26 09:13:37.7|Debug|SceneMappingService|Found scene mapping for: ef - a tale of memories. TVDB ID for mapping: 80904
+2025-02-26 09:13:37.7|Debug|ParsingService|No matching series ef - a tale of memories
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string '[❀拨雪寻春❀] ef - a tale of memories - 01  [BDRip][HEVC-10bit 1080p][繁日内嵌]'
+2025-02-26 09:13:37.7|Debug|SceneMappingService|Found scene mapping for: ef - a tale of memories. TVDB ID for mapping: 80904
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Release '[❀拨雪寻春❀] 悠久之翼 - 前尘遗响 / ef - a tale of memories - 01 [BDRip][HEVC-10bit 1080p][繁日内嵌]' from 'Anime Time (Prowlarr)' rejected for the following reasons: [Permanent] ef - a tale of memories matches an alias for series with TVDB ID: 80904
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Processing release '[❀拨雪寻春❀] 悠久之翼 - 前尘遗响 / ef - a tale of memories - 01 [BDRip][HEVC-10bit 1080p][简日内嵌]' from 'Anime Time (Prowlarr)'
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string '[❀拨雪寻春❀] 悠久之翼 - 前尘遗响 / ef - a tale of memories - 01 [BDRip][HEVC-10bit 1080p][简日内嵌]'
+2025-02-26 09:13:37.7|Debug|Parser|Substituted with [❀拨雪寻春❀] ef - a tale of memories - 01  [BDRip][HEVC-10bit 1080p][简日内嵌]
+2025-02-26 09:13:37.7|Debug|Parser|Episode Parsed. ef - a tale of memories - 001 
+2025-02-26 09:13:37.7|Debug|Parser|Languages parsed: Chinese
+2025-02-26 09:13:37.7|Debug|QualityParser|Trying to parse quality for '[❀拨雪寻春❀] 悠久之翼 - 前尘遗响 / ef - a tale of memories - 01 [BDRip][HEVC-10bit 1080p][简日内嵌]'
+2025-02-26 09:13:37.7|Debug|Parser|Quality parsed: Bluray-1080p v1
+2025-02-26 09:13:37.7|Debug|Parser|Release Group parsed: ❀拨雪寻春❀
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string '[❀拨雪寻春❀] ef - a tale of memories - 01  [BDRip][HEVC-10bit 1080p][简日内嵌]'
+2025-02-26 09:13:37.7|Debug|SceneMappingService|Found scene mapping for: ef - a tale of memories. TVDB ID for mapping: 80904
+2025-02-26 09:13:37.7|Debug|ParsingService|No matching series ef - a tale of memories
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string '[❀拨雪寻春❀] ef - a tale of memories - 01  [BDRip][HEVC-10bit 1080p][简日内嵌]'
+2025-02-26 09:13:37.7|Debug|SceneMappingService|Found scene mapping for: ef - a tale of memories. TVDB ID for mapping: 80904
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Release '[❀拨雪寻春❀] 悠久之翼 - 前尘遗响 / ef - a tale of memories - 01 [BDRip][HEVC-10bit 1080p][简日内嵌]' from 'Anime Time (Prowlarr)' rejected for the following reasons: [Permanent] ef - a tale of memories matches an alias for series with TVDB ID: 80904
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Processing release '[❀拨雪寻春❀] 悠久之翼 - 前尘遗响 / ef - a tale of memories - 01 [BDRip][HEVC-10bit 1080p][简繁日内封]' from 'Anime Time (Prowlarr)'
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string '[❀拨雪寻春❀] 悠久之翼 - 前尘遗响 / ef - a tale of memories - 01 [BDRip][HEVC-10bit 1080p][简繁日内封]'
+2025-02-26 09:13:37.7|Debug|Parser|Substituted with [❀拨雪寻春❀] ef - a tale of memories - 01  [BDRip][HEVC-10bit 1080p][简繁日内封]
+2025-02-26 09:13:37.7|Debug|Parser|Episode Parsed. ef - a tale of memories - 001 
+2025-02-26 09:13:37.7|Debug|Parser|Languages parsed: Chinese
+2025-02-26 09:13:37.7|Debug|QualityParser|Trying to parse quality for '[❀拨雪寻春❀] 悠久之翼 - 前尘遗响 / ef - a tale of memories - 01 [BDRip][HEVC-10bit 1080p][简繁日内封]'
+2025-02-26 09:13:37.7|Debug|Parser|Quality parsed: Bluray-1080p v1
+2025-02-26 09:13:37.7|Debug|Parser|Release Group parsed: ❀拨雪寻春❀
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string '[❀拨雪寻春❀] ef - a tale of memories - 01  [BDRip][HEVC-10bit 1080p][简繁日内封]'
+2025-02-26 09:13:37.7|Debug|SceneMappingService|Found scene mapping for: ef - a tale of memories. TVDB ID for mapping: 80904
+2025-02-26 09:13:37.7|Debug|ParsingService|No matching series ef - a tale of memories
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string '[❀拨雪寻春❀] ef - a tale of memories - 01  [BDRip][HEVC-10bit 1080p][简繁日内封]'
+2025-02-26 09:13:37.7|Debug|SceneMappingService|Found scene mapping for: ef - a tale of memories. TVDB ID for mapping: 80904
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Release '[❀拨雪寻春❀] 悠久之翼 - 前尘遗响 / ef - a tale of memories - 01 [BDRip][HEVC-10bit 1080p][简繁日内封]' from 'Anime Time (Prowlarr)' rejected for the following reasons: [Permanent] ef - a tale of memories matches an alias for series with TVDB ID: 80904
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Processing release '[❀拨雪寻春❀] 悠久之翼 - 前尘遗响 / ef - a tale of memories - 00 [BDRip][HEVC-10bit 1080p][繁日内嵌]' from 'Anime Time (Prowlarr)'
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string '[❀拨雪寻春❀] 悠久之翼 - 前尘遗响 / ef - a tale of memories - 00 [BDRip][HEVC-10bit 1080p][繁日内嵌]'
+2025-02-26 09:13:37.7|Debug|Parser|Substituted with [❀拨雪寻春❀] ef - a tale of memories - 00  [BDRip][HEVC-10bit 1080p][繁日内嵌]
+2025-02-26 09:13:37.7|Debug|Parser|Episode Parsed. ef - a tale of memories - 000 
+2025-02-26 09:13:37.7|Debug|Parser|Languages parsed: Chinese
+2025-02-26 09:13:37.7|Debug|QualityParser|Trying to parse quality for '[❀拨雪寻春❀] 悠久之翼 - 前尘遗响 / ef - a tale of memories - 00 [BDRip][HEVC-10bit 1080p][繁日内嵌]'
+2025-02-26 09:13:37.7|Debug|Parser|Quality parsed: Bluray-1080p v1
+2025-02-26 09:13:37.7|Debug|Parser|Release Group parsed: ❀拨雪寻春❀
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string '[❀拨雪寻春❀] ef - a tale of memories - 00  [BDRip][HEVC-10bit 1080p][繁日内嵌]'
+2025-02-26 09:13:37.7|Debug|SceneMappingService|Found scene mapping for: ef - a tale of memories. TVDB ID for mapping: 80904
+2025-02-26 09:13:37.7|Debug|ParsingService|No matching series ef - a tale of memories
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string '[❀拨雪寻春❀] ef - a tale of memories - 00  [BDRip][HEVC-10bit 1080p][繁日内嵌]'
+2025-02-26 09:13:37.7|Debug|SceneMappingService|Found scene mapping for: ef - a tale of memories. TVDB ID for mapping: 80904
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Release '[❀拨雪寻春❀] 悠久之翼 - 前尘遗响 / ef - a tale of memories - 00 [BDRip][HEVC-10bit 1080p][繁日内嵌]' from 'Anime Time (Prowlarr)' rejected for the following reasons: [Permanent] ef - a tale of memories matches an alias for series with TVDB ID: 80904
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Processing release '[❀拨雪寻春❀] 悠久之翼 - 前尘遗响 / ef - a tale of memories - 00 [BDRip][HEVC-10bit 1080p][简日内嵌]' from 'Anime Time (Prowlarr)'
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string '[❀拨雪寻春❀] 悠久之翼 - 前尘遗响 / ef - a tale of memories - 00 [BDRip][HEVC-10bit 1080p][简日内嵌]'
+2025-02-26 09:13:37.7|Debug|Parser|Substituted with [❀拨雪寻春❀] ef - a tale of memories - 00  [BDRip][HEVC-10bit 1080p][简日内嵌]
+2025-02-26 09:13:37.7|Debug|Parser|Episode Parsed. ef - a tale of memories - 000 
+2025-02-26 09:13:37.7|Debug|Parser|Languages parsed: Chinese
+2025-02-26 09:13:37.7|Debug|QualityParser|Trying to parse quality for '[❀拨雪寻春❀] 悠久之翼 - 前尘遗响 / ef - a tale of memories - 00 [BDRip][HEVC-10bit 1080p][简日内嵌]'
+2025-02-26 09:13:37.7|Debug|Parser|Quality parsed: Bluray-1080p v1
+2025-02-26 09:13:37.7|Debug|Parser|Release Group parsed: ❀拨雪寻春❀
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string '[❀拨雪寻春❀] ef - a tale of memories - 00  [BDRip][HEVC-10bit 1080p][简日内嵌]'
+2025-02-26 09:13:37.7|Debug|SceneMappingService|Found scene mapping for: ef - a tale of memories. TVDB ID for mapping: 80904
+2025-02-26 09:13:37.7|Debug|ParsingService|No matching series ef - a tale of memories
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string '[❀拨雪寻春❀] ef - a tale of memories - 00  [BDRip][HEVC-10bit 1080p][简日内嵌]'
+2025-02-26 09:13:37.7|Debug|SceneMappingService|Found scene mapping for: ef - a tale of memories. TVDB ID for mapping: 80904
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Release '[❀拨雪寻春❀] 悠久之翼 - 前尘遗响 / ef - a tale of memories - 00 [BDRip][HEVC-10bit 1080p][简日内嵌]' from 'Anime Time (Prowlarr)' rejected for the following reasons: [Permanent] ef - a tale of memories matches an alias for series with TVDB ID: 80904
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Processing release '[❀拨雪寻春❀] 悠久之翼 - 前尘遗响 / ef - a tale of memories - 00 [BDRip][HEVC-10bit 1080p][简繁日内封]' from 'Anime Time (Prowlarr)'
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string '[❀拨雪寻春❀] 悠久之翼 - 前尘遗响 / ef - a tale of memories - 00 [BDRip][HEVC-10bit 1080p][简繁日内封]'
+2025-02-26 09:13:37.7|Debug|Parser|Substituted with [❀拨雪寻春❀] ef - a tale of memories - 00  [BDRip][HEVC-10bit 1080p][简繁日内封]
+2025-02-26 09:13:37.7|Debug|Parser|Episode Parsed. ef - a tale of memories - 000 
+2025-02-26 09:13:37.7|Debug|Parser|Languages parsed: Chinese
+2025-02-26 09:13:37.7|Debug|QualityParser|Trying to parse quality for '[❀拨雪寻春❀] 悠久之翼 - 前尘遗响 / ef - a tale of memories - 00 [BDRip][HEVC-10bit 1080p][简繁日内封]'
+2025-02-26 09:13:37.7|Debug|Parser|Quality parsed: Bluray-1080p v1
+2025-02-26 09:13:37.7|Debug|Parser|Release Group parsed: ❀拨雪寻春❀
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string '[❀拨雪寻春❀] ef - a tale of memories - 00  [BDRip][HEVC-10bit 1080p][简繁日内封]'
+2025-02-26 09:13:37.7|Debug|SceneMappingService|Found scene mapping for: ef - a tale of memories. TVDB ID for mapping: 80904
+2025-02-26 09:13:37.7|Debug|ParsingService|No matching series ef - a tale of memories
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string '[❀拨雪寻春❀] ef - a tale of memories - 00  [BDRip][HEVC-10bit 1080p][简繁日内封]'
+2025-02-26 09:13:37.7|Debug|SceneMappingService|Found scene mapping for: ef - a tale of memories. TVDB ID for mapping: 80904
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Release '[❀拨雪寻春❀] 悠久之翼 - 前尘遗响 / ef - a tale of memories - 00 [BDRip][HEVC-10bit 1080p][简繁日内封]' from 'Anime Time (Prowlarr)' rejected for the following reasons: [Permanent] ef - a tale of memories matches an alias for series with TVDB ID: 80904
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Processing release '[ToonsHub] Dragon Ball DAIMA S01E07 1080p AMZN WEB-DL DDP2.0 H.264 (Dual-Audio, English-Sub)' from 'Anime Time (Prowlarr)'
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string '[ToonsHub] Dragon Ball DAIMA S01E07 1080p AMZN WEB-DL DDP2.0 H.264 (Dual-Audio, English-Sub)'
+2025-02-26 09:13:37.7|Debug|Parser|Episode Parsed. Dragon Ball DAIMA - S01E07 
+2025-02-26 09:13:37.7|Debug|Parser|Languages parsed: English
+2025-02-26 09:13:37.7|Debug|QualityParser|Trying to parse quality for '[ToonsHub] Dragon Ball DAIMA S01E07 1080p AMZN WEB-DL DDP2.0 H.264 (Dual-Audio, English-Sub)'
+2025-02-26 09:13:37.7|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-02-26 09:13:37.7|Debug|Parser|Release Group parsed: ToonsHub
+2025-02-26 09:13:37.7|Debug|ParsingService|No matching series Dragon Ball DAIMA
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Release '[ToonsHub] Dragon Ball DAIMA S01E07 1080p AMZN WEB-DL DDP2.0 H.264 (Dual-Audio, English-Sub)' from 'Anime Time (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Processing release 'Solo.Leveling.S01.2160p.WEB-DL.MULTI.AAC2.0.x264.Multi.Subs.AniMeitantei' from 'Anime Time (Prowlarr)'
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string 'Solo.Leveling.S01.2160p.WEB-DL.MULTI.AAC2.0.x264.Multi.Subs.AniMeitantei'
+2025-02-26 09:13:37.7|Debug|Parser|Episode Parsed. Solo Leveling - Season 01 
+2025-02-26 09:13:37.7|Debug|Parser|Languages parsed: Unknown
+2025-02-26 09:13:37.7|Debug|QualityParser|Trying to parse quality for 'Solo.Leveling.S01.2160p.WEB-DL.MULTI.AAC2.0.x264.Multi.Subs.AniMeitantei'
+2025-02-26 09:13:37.7|Debug|Parser|Quality parsed: WEBDL-2160p v1
+2025-02-26 09:13:37.7|Debug|Parser|Release Group parsed: 
+2025-02-26 09:13:37.7|Debug|ParsingService|No matching series Solo Leveling
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Release 'Solo.Leveling.S01.2160p.WEB-DL.MULTI.AAC2.0.x264.Multi.Subs.AniMeitantei' from 'Anime Time (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Processing release 'FBI.Most.Wanted.S06E13.1080p.AV1.10bit-MeGusta' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string 'FBI.Most.Wanted.S06E13.1080p.AV1.10bit-MeGusta'
+2025-02-26 09:13:37.7|Debug|Parser|Episode Parsed. FBI Most Wanted - S06E13 
+2025-02-26 09:13:37.7|Debug|Parser|Languages parsed: Unknown
+2025-02-26 09:13:37.7|Debug|QualityParser|Trying to parse quality for 'FBI.Most.Wanted.S06E13.1080p.AV1.10bit-MeGusta'
+2025-02-26 09:13:37.7|Debug|Parser|Quality parsed: HDTV-1080p v1
+2025-02-26 09:13:37.7|Debug|Parser|Release Group parsed: MeGusta
+2025-02-26 09:13:37.7|Debug|ParsingService|No matching series FBI Most Wanted
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Release 'FBI.Most.Wanted.S06E13.1080p.AV1.10bit-MeGusta' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Processing release 'Frieren.Beyond.Journeys.End.S01E06.DUBBED.720p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string 'Frieren.Beyond.Journeys.End.S01E06.DUBBED.720p.WEB.H264-SKYANiME'
+2025-02-26 09:13:37.7|Debug|Parser|Episode Parsed. Frieren Beyond Journeys End - S01E06 
+2025-02-26 09:13:37.7|Debug|Parser|Languages parsed: Unknown
+2025-02-26 09:13:37.7|Debug|QualityParser|Trying to parse quality for 'Frieren.Beyond.Journeys.End.S01E06.DUBBED.720p.WEB.H264-SKYANiME'
+2025-02-26 09:13:37.7|Debug|Parser|Quality parsed: WEBDL-720p v1
+2025-02-26 09:13:37.7|Debug|Parser|Release Group parsed: SKYANiME
+2025-02-26 09:13:37.7|Debug|ParsingService|No matching series Frieren Beyond Journeys End
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Release 'Frieren.Beyond.Journeys.End.S01E06.DUBBED.720p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Processing release 'Frieren.Beyond.Journeys.End.S01E15.DUBBED.720p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string 'Frieren.Beyond.Journeys.End.S01E15.DUBBED.720p.WEB.H264-SKYANiME'
+2025-02-26 09:13:37.7|Debug|Parser|Episode Parsed. Frieren Beyond Journeys End - S01E15 
+2025-02-26 09:13:37.7|Debug|Parser|Languages parsed: Unknown
+2025-02-26 09:13:37.7|Debug|QualityParser|Trying to parse quality for 'Frieren.Beyond.Journeys.End.S01E15.DUBBED.720p.WEB.H264-SKYANiME'
+2025-02-26 09:13:37.7|Debug|Parser|Quality parsed: WEBDL-720p v1
+2025-02-26 09:13:37.7|Debug|Parser|Release Group parsed: SKYANiME
+2025-02-26 09:13:37.7|Debug|ParsingService|No matching series Frieren Beyond Journeys End
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Release 'Frieren.Beyond.Journeys.End.S01E15.DUBBED.720p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Processing release 'Frieren.Beyond.Journeys.End.S01E17.720p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string 'Frieren.Beyond.Journeys.End.S01E17.720p.WEB.H264-SKYANiME'
+2025-02-26 09:13:37.7|Debug|Parser|Episode Parsed. Frieren Beyond Journeys End - S01E17 
+2025-02-26 09:13:37.7|Debug|Parser|Languages parsed: Unknown
+2025-02-26 09:13:37.7|Debug|QualityParser|Trying to parse quality for 'Frieren.Beyond.Journeys.End.S01E17.720p.WEB.H264-SKYANiME'
+2025-02-26 09:13:37.7|Debug|Parser|Quality parsed: WEBDL-720p v1
+2025-02-26 09:13:37.7|Debug|Parser|Release Group parsed: SKYANiME
+2025-02-26 09:13:37.7|Debug|ParsingService|No matching series Frieren Beyond Journeys End
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Release 'Frieren.Beyond.Journeys.End.S01E17.720p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Processing release 'Frieren.Beyond.Journeys.End.S01E14.720p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string 'Frieren.Beyond.Journeys.End.S01E14.720p.WEB.H264-SKYANiME'
+2025-02-26 09:13:37.7|Debug|Parser|Episode Parsed. Frieren Beyond Journeys End - S01E14 
+2025-02-26 09:13:37.7|Debug|Parser|Languages parsed: Unknown
+2025-02-26 09:13:37.7|Debug|QualityParser|Trying to parse quality for 'Frieren.Beyond.Journeys.End.S01E14.720p.WEB.H264-SKYANiME'
+2025-02-26 09:13:37.7|Debug|Parser|Quality parsed: WEBDL-720p v1
+2025-02-26 09:13:37.7|Debug|Parser|Release Group parsed: SKYANiME
+2025-02-26 09:13:37.7|Debug|ParsingService|No matching series Frieren Beyond Journeys End
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Release 'Frieren.Beyond.Journeys.End.S01E14.720p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Processing release 'FBI.Most.Wanted.S06E13.1080p.HEVC.x265-MeGusta' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string 'FBI.Most.Wanted.S06E13.1080p.HEVC.x265-MeGusta'
+2025-02-26 09:13:37.7|Debug|Parser|Episode Parsed. FBI Most Wanted - S06E13 
+2025-02-26 09:13:37.7|Debug|Parser|Languages parsed: Unknown
+2025-02-26 09:13:37.7|Debug|QualityParser|Trying to parse quality for 'FBI.Most.Wanted.S06E13.1080p.HEVC.x265-MeGusta'
+2025-02-26 09:13:37.7|Debug|Parser|Quality parsed: HDTV-1080p v1
+2025-02-26 09:13:37.7|Debug|Parser|Release Group parsed: MeGusta
+2025-02-26 09:13:37.7|Debug|ParsingService|No matching series FBI Most Wanted
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Release 'FBI.Most.Wanted.S06E13.1080p.HEVC.x265-MeGusta' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Processing release 'Frieren.Beyond.Journeys.End.S01E19.720p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string 'Frieren.Beyond.Journeys.End.S01E19.720p.WEB.H264-SKYANiME'
+2025-02-26 09:13:37.7|Debug|Parser|Episode Parsed. Frieren Beyond Journeys End - S01E19 
+2025-02-26 09:13:37.7|Debug|Parser|Languages parsed: Unknown
+2025-02-26 09:13:37.7|Debug|QualityParser|Trying to parse quality for 'Frieren.Beyond.Journeys.End.S01E19.720p.WEB.H264-SKYANiME'
+2025-02-26 09:13:37.7|Debug|Parser|Quality parsed: WEBDL-720p v1
+2025-02-26 09:13:37.7|Debug|Parser|Release Group parsed: SKYANiME
+2025-02-26 09:13:37.7|Debug|ParsingService|No matching series Frieren Beyond Journeys End
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Release 'Frieren.Beyond.Journeys.End.S01E19.720p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Processing release 'Frieren.Beyond.Journeys.End.S01E22.720p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string 'Frieren.Beyond.Journeys.End.S01E22.720p.WEB.H264-SKYANiME'
+2025-02-26 09:13:37.7|Debug|Parser|Episode Parsed. Frieren Beyond Journeys End - S01E22 
+2025-02-26 09:13:37.7|Debug|Parser|Languages parsed: Unknown
+2025-02-26 09:13:37.7|Debug|QualityParser|Trying to parse quality for 'Frieren.Beyond.Journeys.End.S01E22.720p.WEB.H264-SKYANiME'
+2025-02-26 09:13:37.7|Debug|Parser|Quality parsed: WEBDL-720p v1
+2025-02-26 09:13:37.7|Debug|Parser|Release Group parsed: SKYANiME
+2025-02-26 09:13:37.7|Debug|ParsingService|No matching series Frieren Beyond Journeys End
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Release 'Frieren.Beyond.Journeys.End.S01E22.720p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Processing release 'Frieren.Beyond.Journeys.End.S01E21.DUBBED.720p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string 'Frieren.Beyond.Journeys.End.S01E21.DUBBED.720p.WEB.H264-SKYANiME'
+2025-02-26 09:13:37.7|Debug|Parser|Episode Parsed. Frieren Beyond Journeys End - S01E21 
+2025-02-26 09:13:37.7|Debug|Parser|Languages parsed: Unknown
+2025-02-26 09:13:37.7|Debug|QualityParser|Trying to parse quality for 'Frieren.Beyond.Journeys.End.S01E21.DUBBED.720p.WEB.H264-SKYANiME'
+2025-02-26 09:13:37.7|Debug|Parser|Quality parsed: WEBDL-720p v1
+2025-02-26 09:13:37.7|Debug|Parser|Release Group parsed: SKYANiME
+2025-02-26 09:13:37.7|Debug|ParsingService|No matching series Frieren Beyond Journeys End
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Release 'Frieren.Beyond.Journeys.End.S01E21.DUBBED.720p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Processing release 'Frieren.Beyond.Journeys.End.S01E20.DUBBED.1080p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string 'Frieren.Beyond.Journeys.End.S01E20.DUBBED.1080p.WEB.H264-SKYANiME'
+2025-02-26 09:13:37.7|Debug|Parser|Episode Parsed. Frieren Beyond Journeys End - S01E20 
+2025-02-26 09:13:37.7|Debug|Parser|Languages parsed: Unknown
+2025-02-26 09:13:37.7|Debug|QualityParser|Trying to parse quality for 'Frieren.Beyond.Journeys.End.S01E20.DUBBED.1080p.WEB.H264-SKYANiME'
+2025-02-26 09:13:37.7|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-02-26 09:13:37.7|Debug|Parser|Release Group parsed: SKYANiME
+2025-02-26 09:13:37.7|Debug|ParsingService|No matching series Frieren Beyond Journeys End
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Release 'Frieren.Beyond.Journeys.End.S01E20.DUBBED.1080p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Processing release 'Frieren.Beyond.Journeys.End.S01E21.720p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string 'Frieren.Beyond.Journeys.End.S01E21.720p.WEB.H264-SKYANiME'
+2025-02-26 09:13:37.7|Debug|Parser|Episode Parsed. Frieren Beyond Journeys End - S01E21 
+2025-02-26 09:13:37.7|Debug|Parser|Languages parsed: Unknown
+2025-02-26 09:13:37.7|Debug|QualityParser|Trying to parse quality for 'Frieren.Beyond.Journeys.End.S01E21.720p.WEB.H264-SKYANiME'
+2025-02-26 09:13:37.7|Debug|Parser|Quality parsed: WEBDL-720p v1
+2025-02-26 09:13:37.7|Debug|Parser|Release Group parsed: SKYANiME
+2025-02-26 09:13:37.7|Debug|ParsingService|No matching series Frieren Beyond Journeys End
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Release 'Frieren.Beyond.Journeys.End.S01E21.720p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Processing release 'Frieren.Beyond.Journeys.End.S01E20.DUBBED.720p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string 'Frieren.Beyond.Journeys.End.S01E20.DUBBED.720p.WEB.H264-SKYANiME'
+2025-02-26 09:13:37.7|Debug|Parser|Episode Parsed. Frieren Beyond Journeys End - S01E20 
+2025-02-26 09:13:37.7|Debug|Parser|Languages parsed: Unknown
+2025-02-26 09:13:37.7|Debug|QualityParser|Trying to parse quality for 'Frieren.Beyond.Journeys.End.S01E20.DUBBED.720p.WEB.H264-SKYANiME'
+2025-02-26 09:13:37.7|Debug|Parser|Quality parsed: WEBDL-720p v1
+2025-02-26 09:13:37.7|Debug|Parser|Release Group parsed: SKYANiME
+2025-02-26 09:13:37.7|Debug|ParsingService|No matching series Frieren Beyond Journeys End
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Release 'Frieren.Beyond.Journeys.End.S01E20.DUBBED.720p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Processing release 'Frieren.Beyond.Journeys.End.S01E14.1080p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string 'Frieren.Beyond.Journeys.End.S01E14.1080p.WEB.H264-SKYANiME'
+2025-02-26 09:13:37.7|Debug|Parser|Episode Parsed. Frieren Beyond Journeys End - S01E14 
+2025-02-26 09:13:37.7|Debug|Parser|Languages parsed: Unknown
+2025-02-26 09:13:37.7|Debug|QualityParser|Trying to parse quality for 'Frieren.Beyond.Journeys.End.S01E14.1080p.WEB.H264-SKYANiME'
+2025-02-26 09:13:37.7|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-02-26 09:13:37.7|Debug|Parser|Release Group parsed: SKYANiME
+2025-02-26 09:13:37.7|Debug|ParsingService|No matching series Frieren Beyond Journeys End
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Release 'Frieren.Beyond.Journeys.End.S01E14.1080p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Processing release 'Frieren.Beyond.Journeys.End.S01E20.720p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string 'Frieren.Beyond.Journeys.End.S01E20.720p.WEB.H264-SKYANiME'
+2025-02-26 09:13:37.7|Debug|Parser|Episode Parsed. Frieren Beyond Journeys End - S01E20 
+2025-02-26 09:13:37.7|Debug|Parser|Languages parsed: Unknown
+2025-02-26 09:13:37.7|Debug|QualityParser|Trying to parse quality for 'Frieren.Beyond.Journeys.End.S01E20.720p.WEB.H264-SKYANiME'
+2025-02-26 09:13:37.7|Debug|Parser|Quality parsed: WEBDL-720p v1
+2025-02-26 09:13:37.7|Debug|Parser|Release Group parsed: SKYANiME
+2025-02-26 09:13:37.7|Debug|ParsingService|No matching series Frieren Beyond Journeys End
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Release 'Frieren.Beyond.Journeys.End.S01E20.720p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Processing release 'Frieren.Beyond.Journeys.End.S01E10.1080p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string 'Frieren.Beyond.Journeys.End.S01E10.1080p.WEB.H264-SKYANiME'
+2025-02-26 09:13:37.7|Debug|Parser|Episode Parsed. Frieren Beyond Journeys End - S01E10 
+2025-02-26 09:13:37.7|Debug|Parser|Languages parsed: Unknown
+2025-02-26 09:13:37.7|Debug|QualityParser|Trying to parse quality for 'Frieren.Beyond.Journeys.End.S01E10.1080p.WEB.H264-SKYANiME'
+2025-02-26 09:13:37.7|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-02-26 09:13:37.7|Debug|Parser|Release Group parsed: SKYANiME
+2025-02-26 09:13:37.7|Debug|ParsingService|No matching series Frieren Beyond Journeys End
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Release 'Frieren.Beyond.Journeys.End.S01E10.1080p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Processing release 'Kitchen Nightmares US S09E08 1080p HEVC x265-MeGusta' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string 'Kitchen Nightmares US S09E08 1080p HEVC x265-MeGusta'
+2025-02-26 09:13:37.7|Debug|Parser|Episode Parsed. Kitchen Nightmares US - S09E08 
+2025-02-26 09:13:37.7|Debug|Parser|Languages parsed: Unknown
+2025-02-26 09:13:37.7|Debug|QualityParser|Trying to parse quality for 'Kitchen Nightmares US S09E08 1080p HEVC x265-MeGusta'
+2025-02-26 09:13:37.7|Debug|Parser|Quality parsed: HDTV-1080p v1
+2025-02-26 09:13:37.7|Debug|Parser|Release Group parsed: MeGusta
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string 'Kitchen Nightmares US S09E08 1080p HEVC x265-MeGusta'
+2025-02-26 09:13:37.7|Debug|SceneMappingService|Found scene mapping for: Kitchen Nightmares US. TVDB ID for mapping: 80552
+2025-02-26 09:13:37.7|Debug|ParsingService|No matching series Kitchen Nightmares US
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string 'Kitchen Nightmares US S09E08 1080p HEVC x265-MeGusta'
+2025-02-26 09:13:37.7|Debug|SceneMappingService|Found scene mapping for: Kitchen Nightmares US. TVDB ID for mapping: 80552
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Release 'Kitchen Nightmares US S09E08 1080p HEVC x265-MeGusta' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Kitchen Nightmares US matches an alias for series with TVDB ID: 80552
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Processing release 'Frieren.Beyond.Journeys.End.S01E18.DUBBED.720p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string 'Frieren.Beyond.Journeys.End.S01E18.DUBBED.720p.WEB.H264-SKYANiME'
+2025-02-26 09:13:37.7|Debug|Parser|Episode Parsed. Frieren Beyond Journeys End - S01E18 
+2025-02-26 09:13:37.7|Debug|Parser|Languages parsed: Unknown
+2025-02-26 09:13:37.7|Debug|QualityParser|Trying to parse quality for 'Frieren.Beyond.Journeys.End.S01E18.DUBBED.720p.WEB.H264-SKYANiME'
+2025-02-26 09:13:37.7|Debug|Parser|Quality parsed: WEBDL-720p v1
+2025-02-26 09:13:37.7|Debug|Parser|Release Group parsed: SKYANiME
+2025-02-26 09:13:37.7|Debug|ParsingService|No matching series Frieren Beyond Journeys End
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Release 'Frieren.Beyond.Journeys.End.S01E18.DUBBED.720p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Processing release 'Frieren.Beyond.Journeys.End.S01E17.DUBBED.1080p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string 'Frieren.Beyond.Journeys.End.S01E17.DUBBED.1080p.WEB.H264-SKYANiME'
+2025-02-26 09:13:37.7|Debug|Parser|Episode Parsed. Frieren Beyond Journeys End - S01E17 
+2025-02-26 09:13:37.7|Debug|Parser|Languages parsed: Unknown
+2025-02-26 09:13:37.7|Debug|QualityParser|Trying to parse quality for 'Frieren.Beyond.Journeys.End.S01E17.DUBBED.1080p.WEB.H264-SKYANiME'
+2025-02-26 09:13:37.7|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-02-26 09:13:37.7|Debug|Parser|Release Group parsed: SKYANiME
+2025-02-26 09:13:37.7|Debug|ParsingService|No matching series Frieren Beyond Journeys End
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Release 'Frieren.Beyond.Journeys.End.S01E17.DUBBED.1080p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Processing release 'Frieren.Beyond.Journeys.End.S01E16.DUBBED.1080p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string 'Frieren.Beyond.Journeys.End.S01E16.DUBBED.1080p.WEB.H264-SKYANiME'
+2025-02-26 09:13:37.7|Debug|Parser|Episode Parsed. Frieren Beyond Journeys End - S01E16 
+2025-02-26 09:13:37.7|Debug|Parser|Languages parsed: Unknown
+2025-02-26 09:13:37.7|Debug|QualityParser|Trying to parse quality for 'Frieren.Beyond.Journeys.End.S01E16.DUBBED.1080p.WEB.H264-SKYANiME'
+2025-02-26 09:13:37.7|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-02-26 09:13:37.7|Debug|Parser|Release Group parsed: SKYANiME
+2025-02-26 09:13:37.7|Debug|ParsingService|No matching series Frieren Beyond Journeys End
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Release 'Frieren.Beyond.Journeys.End.S01E16.DUBBED.1080p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Processing release 'Frieren.Beyond.Journeys.End.S01E17.DUBBED.720p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string 'Frieren.Beyond.Journeys.End.S01E17.DUBBED.720p.WEB.H264-SKYANiME'
+2025-02-26 09:13:37.7|Debug|Parser|Episode Parsed. Frieren Beyond Journeys End - S01E17 
+2025-02-26 09:13:37.7|Debug|Parser|Languages parsed: Unknown
+2025-02-26 09:13:37.7|Debug|QualityParser|Trying to parse quality for 'Frieren.Beyond.Journeys.End.S01E17.DUBBED.720p.WEB.H264-SKYANiME'
+2025-02-26 09:13:37.7|Debug|Parser|Quality parsed: WEBDL-720p v1
+2025-02-26 09:13:37.7|Debug|Parser|Release Group parsed: SKYANiME
+2025-02-26 09:13:37.7|Debug|ParsingService|No matching series Frieren Beyond Journeys End
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Release 'Frieren.Beyond.Journeys.End.S01E17.DUBBED.720p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Processing release 'Frieren.Beyond.Journeys.End.S01E18.720p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string 'Frieren.Beyond.Journeys.End.S01E18.720p.WEB.H264-SKYANiME'
+2025-02-26 09:13:37.7|Debug|Parser|Episode Parsed. Frieren Beyond Journeys End - S01E18 
+2025-02-26 09:13:37.7|Debug|Parser|Languages parsed: Unknown
+2025-02-26 09:13:37.7|Debug|QualityParser|Trying to parse quality for 'Frieren.Beyond.Journeys.End.S01E18.720p.WEB.H264-SKYANiME'
+2025-02-26 09:13:37.7|Debug|Parser|Quality parsed: WEBDL-720p v1
+2025-02-26 09:13:37.7|Debug|Parser|Release Group parsed: SKYANiME
+2025-02-26 09:13:37.7|Debug|ParsingService|No matching series Frieren Beyond Journeys End
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Release 'Frieren.Beyond.Journeys.End.S01E18.720p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Processing release 'Frieren.Beyond.Journeys.End.S01E15.1080p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string 'Frieren.Beyond.Journeys.End.S01E15.1080p.WEB.H264-SKYANiME'
+2025-02-26 09:13:37.7|Debug|Parser|Episode Parsed. Frieren Beyond Journeys End - S01E15 
+2025-02-26 09:13:37.7|Debug|Parser|Languages parsed: Unknown
+2025-02-26 09:13:37.7|Debug|QualityParser|Trying to parse quality for 'Frieren.Beyond.Journeys.End.S01E15.1080p.WEB.H264-SKYANiME'
+2025-02-26 09:13:37.7|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-02-26 09:13:37.7|Debug|Parser|Release Group parsed: SKYANiME
+2025-02-26 09:13:37.7|Debug|ParsingService|No matching series Frieren Beyond Journeys End
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Release 'Frieren.Beyond.Journeys.End.S01E15.1080p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Processing release 'FBI.Most.Wanted.S06E13.1080p.WEB.h264-ETHEL' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string 'FBI.Most.Wanted.S06E13.1080p.WEB.h264-ETHEL'
+2025-02-26 09:13:37.7|Debug|Parser|Episode Parsed. FBI Most Wanted - S06E13 
+2025-02-26 09:13:37.7|Debug|Parser|Languages parsed: Unknown
+2025-02-26 09:13:37.7|Debug|QualityParser|Trying to parse quality for 'FBI.Most.Wanted.S06E13.1080p.WEB.h264-ETHEL'
+2025-02-26 09:13:37.7|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-02-26 09:13:37.7|Debug|Parser|Release Group parsed: ETHEL
+2025-02-26 09:13:37.7|Debug|ParsingService|No matching series FBI Most Wanted
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Release 'FBI.Most.Wanted.S06E13.1080p.WEB.h264-ETHEL' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Processing release 'Eyes.on.the.Prize.III.We.Who.Believe.in.Freedom.Cannot.Rest.S01E03.1080p.WE' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string 'Eyes.on.the.Prize.III.We.Who.Believe.in.Freedom.Cannot.Rest.S01E03.1080p.WE'
+2025-02-26 09:13:37.7|Debug|Parser|Episode Parsed. Eyes on the Prize III We Who Believe in Freedom Cannot Rest - S01E03 
+2025-02-26 09:13:37.7|Debug|Parser|Languages parsed: Unknown
+2025-02-26 09:13:37.7|Debug|QualityParser|Trying to parse quality for 'Eyes.on.the.Prize.III.We.Who.Believe.in.Freedom.Cannot.Rest.S01E03.1080p.WE'
+2025-02-26 09:13:37.7|Debug|Parser|Quality parsed: HDTV-1080p v1
+2025-02-26 09:13:37.7|Debug|Parser|Release Group parsed: 
+2025-02-26 09:13:37.7|Debug|ParsingService|No matching series Eyes on the Prize III We Who Believe in Freedom Cannot Rest
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Release 'Eyes.on.the.Prize.III.We.Who.Believe.in.Freedom.Cannot.Rest.S01E03.1080p.WE' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Processing release 'Frieren.Beyond.Journeys.End.S01E14.DUBBED.1080p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string 'Frieren.Beyond.Journeys.End.S01E14.DUBBED.1080p.WEB.H264-SKYANiME'
+2025-02-26 09:13:37.7|Debug|Parser|Episode Parsed. Frieren Beyond Journeys End - S01E14 
+2025-02-26 09:13:37.7|Debug|Parser|Languages parsed: Unknown
+2025-02-26 09:13:37.7|Debug|QualityParser|Trying to parse quality for 'Frieren.Beyond.Journeys.End.S01E14.DUBBED.1080p.WEB.H264-SKYANiME'
+2025-02-26 09:13:37.7|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-02-26 09:13:37.7|Debug|Parser|Release Group parsed: SKYANiME
+2025-02-26 09:13:37.7|Debug|ParsingService|No matching series Frieren Beyond Journeys End
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Release 'Frieren.Beyond.Journeys.End.S01E14.DUBBED.1080p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Processing release 'Kitchen.Nightmares.2023.S02E08.Grumpy.George.1080p.HEVC.x265-MeGusta' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string 'Kitchen.Nightmares.2023.S02E08.Grumpy.George.1080p.HEVC.x265-MeGusta'
+2025-02-26 09:13:37.7|Debug|Parser|Episode Parsed. Kitchen Nightmares 2023 - S02E08 
+2025-02-26 09:13:37.7|Debug|Parser|Languages parsed: Unknown
+2025-02-26 09:13:37.7|Debug|QualityParser|Trying to parse quality for 'Kitchen.Nightmares.2023.S02E08.Grumpy.George.1080p.HEVC.x265-MeGusta'
+2025-02-26 09:13:37.7|Debug|Parser|Quality parsed: HDTV-1080p v1
+2025-02-26 09:13:37.7|Debug|Parser|Release Group parsed: MeGusta
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string 'Kitchen.Nightmares.2023.S02E08.Grumpy.George.1080p.HEVC.x265-MeGusta'
+2025-02-26 09:13:37.7|Debug|SceneMappingService|Found scene mapping for: Kitchen Nightmares 2023. TVDB ID for mapping: 80552
+2025-02-26 09:13:37.7|Debug|ParsingService|No matching series Kitchen Nightmares 2023
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string 'Kitchen.Nightmares.2023.S02E08.Grumpy.George.1080p.HEVC.x265-MeGusta'
+2025-02-26 09:13:37.7|Debug|SceneMappingService|Found scene mapping for: Kitchen Nightmares 2023. TVDB ID for mapping: 80552
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Release 'Kitchen.Nightmares.2023.S02E08.Grumpy.George.1080p.HEVC.x265-MeGusta' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Kitchen Nightmares 2023 matches an alias for series with TVDB ID: 80552
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Processing release 'Frieren.Beyond.Journeys.End.S01E14.DUBBED.720p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string 'Frieren.Beyond.Journeys.End.S01E14.DUBBED.720p.WEB.H264-SKYANiME'
+2025-02-26 09:13:37.7|Debug|Parser|Episode Parsed. Frieren Beyond Journeys End - S01E14 
+2025-02-26 09:13:37.7|Debug|Parser|Languages parsed: Unknown
+2025-02-26 09:13:37.7|Debug|QualityParser|Trying to parse quality for 'Frieren.Beyond.Journeys.End.S01E14.DUBBED.720p.WEB.H264-SKYANiME'
+2025-02-26 09:13:37.7|Debug|Parser|Quality parsed: WEBDL-720p v1
+2025-02-26 09:13:37.7|Debug|Parser|Release Group parsed: SKYANiME
+2025-02-26 09:13:37.7|Debug|ParsingService|No matching series Frieren Beyond Journeys End
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Release 'Frieren.Beyond.Journeys.End.S01E14.DUBBED.720p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Processing release 'Frieren.Beyond.Journeys.End.S01E07.720p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string 'Frieren.Beyond.Journeys.End.S01E07.720p.WEB.H264-SKYANiME'
+2025-02-26 09:13:37.7|Debug|Parser|Episode Parsed. Frieren Beyond Journeys End - S01E07 
+2025-02-26 09:13:37.7|Debug|Parser|Languages parsed: Unknown
+2025-02-26 09:13:37.7|Debug|QualityParser|Trying to parse quality for 'Frieren.Beyond.Journeys.End.S01E07.720p.WEB.H264-SKYANiME'
+2025-02-26 09:13:37.7|Debug|Parser|Quality parsed: WEBDL-720p v1
+2025-02-26 09:13:37.7|Debug|Parser|Release Group parsed: SKYANiME
+2025-02-26 09:13:37.7|Debug|ParsingService|No matching series Frieren Beyond Journeys End
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Release 'Frieren.Beyond.Journeys.End.S01E07.720p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Processing release 'Frieren.Beyond.Journeys.End.S01E12.DUBBED.1080p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string 'Frieren.Beyond.Journeys.End.S01E12.DUBBED.1080p.WEB.H264-SKYANiME'
+2025-02-26 09:13:37.7|Debug|Parser|Episode Parsed. Frieren Beyond Journeys End - S01E12 
+2025-02-26 09:13:37.7|Debug|Parser|Languages parsed: Unknown
+2025-02-26 09:13:37.7|Debug|QualityParser|Trying to parse quality for 'Frieren.Beyond.Journeys.End.S01E12.DUBBED.1080p.WEB.H264-SKYANiME'
+2025-02-26 09:13:37.7|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-02-26 09:13:37.7|Debug|Parser|Release Group parsed: SKYANiME
+2025-02-26 09:13:37.7|Debug|ParsingService|No matching series Frieren Beyond Journeys End
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Release 'Frieren.Beyond.Journeys.End.S01E12.DUBBED.1080p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Processing release 'Frieren.Beyond.Journeys.End.S01E11.DUBBED.1080p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string 'Frieren.Beyond.Journeys.End.S01E11.DUBBED.1080p.WEB.H264-SKYANiME'
+2025-02-26 09:13:37.7|Debug|Parser|Episode Parsed. Frieren Beyond Journeys End - S01E11 
+2025-02-26 09:13:37.7|Debug|Parser|Languages parsed: Unknown
+2025-02-26 09:13:37.7|Debug|QualityParser|Trying to parse quality for 'Frieren.Beyond.Journeys.End.S01E11.DUBBED.1080p.WEB.H264-SKYANiME'
+2025-02-26 09:13:37.7|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-02-26 09:13:37.7|Debug|Parser|Release Group parsed: SKYANiME
+2025-02-26 09:13:37.7|Debug|ParsingService|No matching series Frieren Beyond Journeys End
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Release 'Frieren.Beyond.Journeys.End.S01E11.DUBBED.1080p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Processing release 'Eyes.on.the.Prize.III.We.Who.Believe.in.Freedom.Cannot.Rest.S01E02.1080p.WE' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string 'Eyes.on.the.Prize.III.We.Who.Believe.in.Freedom.Cannot.Rest.S01E02.1080p.WE'
+2025-02-26 09:13:37.7|Debug|Parser|Episode Parsed. Eyes on the Prize III We Who Believe in Freedom Cannot Rest - S01E02 
+2025-02-26 09:13:37.7|Debug|Parser|Languages parsed: Unknown
+2025-02-26 09:13:37.7|Debug|QualityParser|Trying to parse quality for 'Eyes.on.the.Prize.III.We.Who.Believe.in.Freedom.Cannot.Rest.S01E02.1080p.WE'
+2025-02-26 09:13:37.7|Debug|Parser|Quality parsed: HDTV-1080p v1
+2025-02-26 09:13:37.7|Debug|Parser|Release Group parsed: 
+2025-02-26 09:13:37.7|Debug|ParsingService|No matching series Eyes on the Prize III We Who Believe in Freedom Cannot Rest
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Release 'Eyes.on.the.Prize.III.We.Who.Believe.in.Freedom.Cannot.Rest.S01E02.1080p.WE' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Processing release 'Frieren.Beyond.Journeys.End.S01E05.720p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string 'Frieren.Beyond.Journeys.End.S01E05.720p.WEB.H264-SKYANiME'
+2025-02-26 09:13:37.7|Debug|Parser|Episode Parsed. Frieren Beyond Journeys End - S01E05 
+2025-02-26 09:13:37.7|Debug|Parser|Languages parsed: Unknown
+2025-02-26 09:13:37.7|Debug|QualityParser|Trying to parse quality for 'Frieren.Beyond.Journeys.End.S01E05.720p.WEB.H264-SKYANiME'
+2025-02-26 09:13:37.7|Debug|Parser|Quality parsed: WEBDL-720p v1
+2025-02-26 09:13:37.7|Debug|Parser|Release Group parsed: SKYANiME
+2025-02-26 09:13:37.7|Debug|ParsingService|No matching series Frieren Beyond Journeys End
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Release 'Frieren.Beyond.Journeys.End.S01E05.720p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Processing release 'FBI.International.S04E13.Youve.Been.Greenlit.1080p.HEVC.x265-MeGusta' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string 'FBI.International.S04E13.Youve.Been.Greenlit.1080p.HEVC.x265-MeGusta'
+2025-02-26 09:13:37.7|Debug|Parser|Episode Parsed. FBI International - S04E13 
+2025-02-26 09:13:37.7|Debug|Parser|Languages parsed: Unknown
+2025-02-26 09:13:37.7|Debug|QualityParser|Trying to parse quality for 'FBI.International.S04E13.Youve.Been.Greenlit.1080p.HEVC.x265-MeGusta'
+2025-02-26 09:13:37.7|Debug|Parser|Quality parsed: HDTV-1080p v1
+2025-02-26 09:13:37.7|Debug|Parser|Release Group parsed: MeGusta
+2025-02-26 09:13:37.7|Debug|ParsingService|No matching series FBI International
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Release 'FBI.International.S04E13.Youve.Been.Greenlit.1080p.HEVC.x265-MeGusta' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Processing release 'Frieren.Beyond.Journeys.End.S01E04.DUBBED.720p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string 'Frieren.Beyond.Journeys.End.S01E04.DUBBED.720p.WEB.H264-SKYANiME'
+2025-02-26 09:13:37.7|Debug|Parser|Episode Parsed. Frieren Beyond Journeys End - S01E04 
+2025-02-26 09:13:37.7|Debug|Parser|Languages parsed: Unknown
+2025-02-26 09:13:37.7|Debug|QualityParser|Trying to parse quality for 'Frieren.Beyond.Journeys.End.S01E04.DUBBED.720p.WEB.H264-SKYANiME'
+2025-02-26 09:13:37.7|Debug|Parser|Quality parsed: WEBDL-720p v1
+2025-02-26 09:13:37.7|Debug|Parser|Release Group parsed: SKYANiME
+2025-02-26 09:13:37.7|Debug|ParsingService|No matching series Frieren Beyond Journeys End
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Release 'Frieren.Beyond.Journeys.End.S01E04.DUBBED.720p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Processing release 'Frieren.Beyond.Journeys.End.S01E12.DUBBED.720p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string 'Frieren.Beyond.Journeys.End.S01E12.DUBBED.720p.WEB.H264-SKYANiME'
+2025-02-26 09:13:37.7|Debug|Parser|Episode Parsed. Frieren Beyond Journeys End - S01E12 
+2025-02-26 09:13:37.7|Debug|Parser|Languages parsed: Unknown
+2025-02-26 09:13:37.7|Debug|QualityParser|Trying to parse quality for 'Frieren.Beyond.Journeys.End.S01E12.DUBBED.720p.WEB.H264-SKYANiME'
+2025-02-26 09:13:37.7|Debug|Parser|Quality parsed: WEBDL-720p v1
+2025-02-26 09:13:37.7|Debug|Parser|Release Group parsed: SKYANiME
+2025-02-26 09:13:37.7|Debug|ParsingService|No matching series Frieren Beyond Journeys End
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Release 'Frieren.Beyond.Journeys.End.S01E12.DUBBED.720p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Processing release 'Frieren.Beyond.Journeys.End.S01E13.720p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string 'Frieren.Beyond.Journeys.End.S01E13.720p.WEB.H264-SKYANiME'
+2025-02-26 09:13:37.7|Debug|Parser|Episode Parsed. Frieren Beyond Journeys End - S01E13 
+2025-02-26 09:13:37.7|Debug|Parser|Languages parsed: Unknown
+2025-02-26 09:13:37.7|Debug|QualityParser|Trying to parse quality for 'Frieren.Beyond.Journeys.End.S01E13.720p.WEB.H264-SKYANiME'
+2025-02-26 09:13:37.7|Debug|Parser|Quality parsed: WEBDL-720p v1
+2025-02-26 09:13:37.7|Debug|Parser|Release Group parsed: SKYANiME
+2025-02-26 09:13:37.7|Debug|ParsingService|No matching series Frieren Beyond Journeys End
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Release 'Frieren.Beyond.Journeys.End.S01E13.720p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Processing release 'Frieren.Beyond.Journeys.End.S01E11.DUBBED.720p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string 'Frieren.Beyond.Journeys.End.S01E11.DUBBED.720p.WEB.H264-SKYANiME'
+2025-02-26 09:13:37.7|Debug|Parser|Episode Parsed. Frieren Beyond Journeys End - S01E11 
+2025-02-26 09:13:37.7|Debug|Parser|Languages parsed: Unknown
+2025-02-26 09:13:37.7|Debug|QualityParser|Trying to parse quality for 'Frieren.Beyond.Journeys.End.S01E11.DUBBED.720p.WEB.H264-SKYANiME'
+2025-02-26 09:13:37.7|Debug|Parser|Quality parsed: WEBDL-720p v1
+2025-02-26 09:13:37.7|Debug|Parser|Release Group parsed: SKYANiME
+2025-02-26 09:13:37.7|Debug|ParsingService|No matching series Frieren Beyond Journeys End
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Release 'Frieren.Beyond.Journeys.End.S01E11.DUBBED.720p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Processing release 'FBI International S04E13 Youve Been Greenlit 1080p HEVC x265-MeGusta' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string 'FBI International S04E13 Youve Been Greenlit 1080p HEVC x265-MeGusta'
+2025-02-26 09:13:37.7|Debug|Parser|Episode Parsed. FBI International - S04E13 
+2025-02-26 09:13:37.7|Debug|Parser|Languages parsed: Unknown
+2025-02-26 09:13:37.7|Debug|QualityParser|Trying to parse quality for 'FBI International S04E13 Youve Been Greenlit 1080p HEVC x265-MeGusta'
+2025-02-26 09:13:37.7|Debug|Parser|Quality parsed: HDTV-1080p v1
+2025-02-26 09:13:37.7|Debug|Parser|Release Group parsed: MeGusta
+2025-02-26 09:13:37.7|Debug|ParsingService|No matching series FBI International
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Release 'FBI International S04E13 Youve Been Greenlit 1080p HEVC x265-MeGusta' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Processing release 'The Irrational S02E15 Conversation Games 1080p HEVC x265-MeGusta' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string 'The Irrational S02E15 Conversation Games 1080p HEVC x265-MeGusta'
+2025-02-26 09:13:37.7|Debug|Parser|Episode Parsed. The Irrational - S02E15 
+2025-02-26 09:13:37.7|Debug|Parser|Languages parsed: Unknown
+2025-02-26 09:13:37.7|Debug|QualityParser|Trying to parse quality for 'The Irrational S02E15 Conversation Games 1080p HEVC x265-MeGusta'
+2025-02-26 09:13:37.7|Debug|Parser|Quality parsed: HDTV-1080p v1
+2025-02-26 09:13:37.7|Debug|Parser|Release Group parsed: MeGusta
+2025-02-26 09:13:37.7|Debug|ParsingService|No matching series The Irrational
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Release 'The Irrational S02E15 Conversation Games 1080p HEVC x265-MeGusta' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Processing release 'Night Court 2023 S03E11 Abracadabra Alaka-Dan 720p AMZN WEB-DL H264-FLUX' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string 'Night Court 2023 S03E11 Abracadabra Alaka-Dan 720p AMZN WEB-DL H264-FLUX'
+2025-02-26 09:13:37.7|Debug|Parser|Episode Parsed. Night Court 2023 - S03E11 
+2025-02-26 09:13:37.7|Debug|Parser|Languages parsed: Unknown
+2025-02-26 09:13:37.7|Debug|QualityParser|Trying to parse quality for 'Night Court 2023 S03E11 Abracadabra Alaka-Dan 720p AMZN WEB-DL H264-FLUX'
+2025-02-26 09:13:37.7|Debug|Parser|Quality parsed: WEBDL-720p v1
+2025-02-26 09:13:37.7|Debug|Parser|Release Group parsed: FLUX
+2025-02-26 09:13:37.7|Debug|ParsingService|No matching series Night Court 2023
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Release 'Night Court 2023 S03E11 Abracadabra Alaka-Dan 720p AMZN WEB-DL H264-FLUX' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Processing release 'Frieren.Beyond.Journeys.End.S01E05.DUBBED.720p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string 'Frieren.Beyond.Journeys.End.S01E05.DUBBED.720p.WEB.H264-SKYANiME'
+2025-02-26 09:13:37.7|Debug|Parser|Episode Parsed. Frieren Beyond Journeys End - S01E05 
+2025-02-26 09:13:37.7|Debug|Parser|Languages parsed: Unknown
+2025-02-26 09:13:37.7|Debug|QualityParser|Trying to parse quality for 'Frieren.Beyond.Journeys.End.S01E05.DUBBED.720p.WEB.H264-SKYANiME'
+2025-02-26 09:13:37.7|Debug|Parser|Quality parsed: WEBDL-720p v1
+2025-02-26 09:13:37.7|Debug|Parser|Release Group parsed: SKYANiME
+2025-02-26 09:13:37.7|Debug|ParsingService|No matching series Frieren Beyond Journeys End
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Release 'Frieren.Beyond.Journeys.End.S01E05.DUBBED.720p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Processing release 'Frieren.Beyond.Journeys.End.S01E05.DUBBED.1080p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string 'Frieren.Beyond.Journeys.End.S01E05.DUBBED.1080p.WEB.H264-SKYANiME'
+2025-02-26 09:13:37.7|Debug|Parser|Episode Parsed. Frieren Beyond Journeys End - S01E05 
+2025-02-26 09:13:37.7|Debug|Parser|Languages parsed: Unknown
+2025-02-26 09:13:37.7|Debug|QualityParser|Trying to parse quality for 'Frieren.Beyond.Journeys.End.S01E05.DUBBED.1080p.WEB.H264-SKYANiME'
+2025-02-26 09:13:37.7|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-02-26 09:13:37.7|Debug|Parser|Release Group parsed: SKYANiME
+2025-02-26 09:13:37.7|Debug|ParsingService|No matching series Frieren Beyond Journeys End
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Release 'Frieren.Beyond.Journeys.End.S01E05.DUBBED.1080p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Processing release 'Frieren.Beyond.Journeys.End.S01E11.1080p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string 'Frieren.Beyond.Journeys.End.S01E11.1080p.WEB.H264-SKYANiME'
+2025-02-26 09:13:37.7|Debug|Parser|Episode Parsed. Frieren Beyond Journeys End - S01E11 
+2025-02-26 09:13:37.7|Debug|Parser|Languages parsed: Unknown
+2025-02-26 09:13:37.7|Debug|QualityParser|Trying to parse quality for 'Frieren.Beyond.Journeys.End.S01E11.1080p.WEB.H264-SKYANiME'
+2025-02-26 09:13:37.7|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-02-26 09:13:37.7|Debug|Parser|Release Group parsed: SKYANiME
+2025-02-26 09:13:37.7|Debug|ParsingService|No matching series Frieren Beyond Journeys End
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Release 'Frieren.Beyond.Journeys.End.S01E11.1080p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Processing release 'Frieren.Beyond.Journeys.End.S01E10.DUBBED.1080p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string 'Frieren.Beyond.Journeys.End.S01E10.DUBBED.1080p.WEB.H264-SKYANiME'
+2025-02-26 09:13:37.7|Debug|Parser|Episode Parsed. Frieren Beyond Journeys End - S01E10 
+2025-02-26 09:13:37.7|Debug|Parser|Languages parsed: Unknown
+2025-02-26 09:13:37.7|Debug|QualityParser|Trying to parse quality for 'Frieren.Beyond.Journeys.End.S01E10.DUBBED.1080p.WEB.H264-SKYANiME'
+2025-02-26 09:13:37.7|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-02-26 09:13:37.7|Debug|Parser|Release Group parsed: SKYANiME
+2025-02-26 09:13:37.7|Debug|ParsingService|No matching series Frieren Beyond Journeys End
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Release 'Frieren.Beyond.Journeys.End.S01E10.DUBBED.1080p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Processing release 'Bone.Detectives.Britains.Buried.Secrets.S02E05.1080p.WEB.h264-VOYAGES' from 'The Pirate Bay (Prowlarr)'
+2025-02-26 09:13:37.7|Debug|Parser|Parsing string 'Bone.Detectives.Britains.Buried.Secrets.S02E05.1080p.WEB.h264-VOYAGES'
+2025-02-26 09:13:37.7|Debug|Parser|Episode Parsed. Bone Detectives Britains Buried Secrets - S02E05 
+2025-02-26 09:13:37.7|Debug|Parser|Languages parsed: Unknown
+2025-02-26 09:13:37.7|Debug|QualityParser|Trying to parse quality for 'Bone.Detectives.Britains.Buried.Secrets.S02E05.1080p.WEB.h264-VOYAGES'
+2025-02-26 09:13:37.7|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-02-26 09:13:37.7|Debug|Parser|Release Group parsed: VOYAGES
+2025-02-26 09:13:37.7|Debug|ParsingService|No matching series Bone Detectives Britains Buried Secrets
+2025-02-26 09:13:37.7|Debug|DownloadDecisionMaker|Release 'Bone.Detectives.Britains.Buried.Secrets.S02E05.1080p.WEB.h264-VOYAGES' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-02-26 09:13:37.7|Info|RssSyncService|RSS Sync Completed. Reports found: 60, Reports grabbed: 0
+2025-02-26 09:13:37.7|Debug|PendingReleaseService|Removing failed releases from pending
+2025-02-26 09:19:05.6|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-02-26 09:24:05.7|Debug|ImportListSyncService|No import lists with automatic add enabled

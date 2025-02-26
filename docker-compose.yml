@@ -179,4 +179,24 @@ services:
       start_period: 15s
     env_file:
       - '.env'
+# portainerq
+  portainer:
+    image: portainer/portainer-ce:latest
+    container_name: portainer
+    hostname: portainer
+    command: -H unix:///var/run/docker.sock
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+      - ${ARRPATH}Portainer/data:/data
+    ports:
+      - "9000:9000"
+    restart: unless-stopped
 
+# flaresolverr
+
+  flaresolverr:
+    image: ghcr.io/flaresolverr/flaresolverr:latest
+    container_name: flaresolverr
+    ports:
+      - "8191:8191"
+    restart: unless-stopped
