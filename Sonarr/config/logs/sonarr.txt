@@ -5380,3 +5380,572 @@
 2025-02-26 09:13:36.8|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 02/26/2025 05:30:12 and 02/26/2025 06:52:37 UTC. Search may be required.
 2025-02-26 09:13:36.9|Info|DownloadDecisionMaker|Processing 60 releases
 2025-02-26 09:13:37.7|Info|RssSyncService|RSS Sync Completed. Reports found: 60, Reports grabbed: 0
+2025-02-26 09:29:05.7|Info|RssSyncService|Starting RSS Sync
+2025-02-26 09:29:06.1|Info|DownloadDecisionMaker|Processing 60 releases
+2025-02-26 09:29:06.2|Info|RssSyncService|RSS Sync Completed. Reports found: 60, Reports grabbed: 0
+2025-02-26 09:44:22.9|Info|Microsoft.Hosting.Lifetime|Application is shutting down...
+2025-02-26 09:44:23.0|Info|ConsoleApp|Exiting main.
+2025-02-26 09:44:56.9|Info|Bootstrap|Starting Sonarr - /app/sonarr/bin/Sonarr - Version 4.0.13.2932
+2025-02-26 09:44:57.1|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 09:44:57.2|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 09:44:58.1|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 09:44:58.7|Info|MigrationController|*** Migrating data source=/config/sonarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-02-26 09:44:59.1|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-02-26 09:44:59.1|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-02-26 09:44:59.1|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-02-26 09:44:59.3|Info|DatabaseEngineVersionCheck|SQLite 3.48.0
+2025-02-26 09:44:59.3|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1304411s
+2025-02-26 09:44:59.3|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-02-26 09:44:59.3|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1376669s
+2025-02-26 09:44:59.4|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-02-26 09:44:59.4|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-02-26 09:44:59.4|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-02-26 09:44:59.4|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-02-26 09:44:59.4|Info|DatabaseEngineVersionCheck|SQLite 3.48.0
+2025-02-26 09:44:59.4|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0033386s
+2025-02-26 09:44:59.4|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-02-26 09:44:59.4|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0039823s
+2025-02-26 09:45:01.1|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:8989
+2025-02-26 09:45:02.4|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2025-02-26 09:45:02.4|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2025-02-26 09:45:02.4|Info|Microsoft.Hosting.Lifetime|Content root path: /app/sonarr/bin
+2025-02-26 09:45:02.8|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2025-02-26 09:45:32.3|Info|RssSyncService|Starting RSS Sync
+2025-02-26 09:45:33.4|Info|DownloadDecisionMaker|Processing 60 releases
+2025-02-26 09:45:35.1|Info|RssSyncService|RSS Sync Completed. Reports found: 60, Reports grabbed: 0
+2025-02-26 09:48:29.7|Info|Microsoft.Hosting.Lifetime|Application is shutting down...
+2025-02-26 09:48:29.7|Info|ConsoleApp|Exiting main.
+2025-02-26 09:48:34.9|Info|Bootstrap|Starting Sonarr - /app/sonarr/bin/Sonarr - Version 4.0.13.2932
+2025-02-26 09:48:35.0|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 09:48:35.0|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 09:48:35.7|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 09:48:36.1|Info|MigrationController|*** Migrating data source=/config/sonarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-02-26 09:48:36.3|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-02-26 09:48:36.3|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-02-26 09:48:36.3|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-02-26 09:48:36.4|Info|DatabaseEngineVersionCheck|SQLite 3.48.0
+2025-02-26 09:48:36.4|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0999927s
+2025-02-26 09:48:36.4|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-02-26 09:48:36.4|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1054877s
+2025-02-26 09:48:36.5|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-02-26 09:48:36.6|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-02-26 09:48:36.6|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-02-26 09:48:36.6|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-02-26 09:48:36.6|Info|DatabaseEngineVersionCheck|SQLite 3.48.0
+2025-02-26 09:48:36.6|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0025908s
+2025-02-26 09:48:36.6|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-02-26 09:48:36.6|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0029986s
+2025-02-26 09:48:37.6|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:8989
+2025-02-26 09:48:38.3|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2025-02-26 09:48:38.3|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2025-02-26 09:48:38.3|Info|Microsoft.Hosting.Lifetime|Content root path: /app/sonarr/bin
+2025-02-26 09:48:38.8|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2025-02-26 09:51:15.8|Info|Microsoft.Hosting.Lifetime|Application is shutting down...
+2025-02-26 09:51:15.9|Info|ConsoleApp|Exiting main.
+2025-02-26 09:51:26.6|Info|Bootstrap|Starting Sonarr - /app/sonarr/bin/Sonarr - Version 4.0.13.2932
+2025-02-26 09:51:27.1|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 09:51:27.2|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 09:51:29.2|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 09:51:30.2|Info|MigrationController|*** Migrating data source=/config/sonarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-02-26 09:51:30.7|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-02-26 09:51:30.8|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-02-26 09:51:30.8|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-02-26 09:51:31.0|Info|DatabaseEngineVersionCheck|SQLite 3.48.0
+2025-02-26 09:51:31.0|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1874873s
+2025-02-26 09:51:31.0|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-02-26 09:51:31.0|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1933702s
+2025-02-26 09:51:31.1|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-02-26 09:51:31.1|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-02-26 09:51:31.1|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-02-26 09:51:31.1|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-02-26 09:51:31.1|Info|DatabaseEngineVersionCheck|SQLite 3.48.0
+2025-02-26 09:51:31.1|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0045322s
+2025-02-26 09:51:31.1|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-02-26 09:51:31.1|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0057185s
+2025-02-26 09:51:33.0|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:8989
+2025-02-26 09:51:34.4|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2025-02-26 09:51:34.4|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2025-02-26 09:51:34.4|Info|Microsoft.Hosting.Lifetime|Content root path: /app/sonarr/bin
+2025-02-26 09:51:34.7|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2025-02-26 09:52:45.0|Info|Microsoft.Hosting.Lifetime|Application is shutting down...
+2025-02-26 09:52:45.1|Info|ConsoleApp|Exiting main.
+2025-02-26 09:52:50.1|Info|Bootstrap|Starting Sonarr - /app/sonarr/bin/Sonarr - Version 4.0.13.2932
+2025-02-26 09:52:50.2|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 09:52:50.3|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 09:52:51.0|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 09:52:51.4|Info|MigrationController|*** Migrating data source=/config/sonarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-02-26 09:52:51.7|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-02-26 09:52:51.7|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-02-26 09:52:51.7|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-02-26 09:52:51.8|Info|DatabaseEngineVersionCheck|SQLite 3.48.0
+2025-02-26 09:52:51.8|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1068501s
+2025-02-26 09:52:51.8|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-02-26 09:52:51.8|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1108514s
+2025-02-26 09:52:51.9|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-02-26 09:52:52.0|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-02-26 09:52:52.0|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-02-26 09:52:52.0|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-02-26 09:52:52.0|Info|DatabaseEngineVersionCheck|SQLite 3.48.0
+2025-02-26 09:52:52.0|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0041004s
+2025-02-26 09:52:52.0|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-02-26 09:52:52.0|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0049428s
+2025-02-26 09:52:53.5|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:8989
+2025-02-26 09:52:54.9|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2025-02-26 09:52:54.9|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2025-02-26 09:52:54.9|Info|Microsoft.Hosting.Lifetime|Content root path: /app/sonarr/bin
+2025-02-26 09:52:55.3|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2025-02-26 09:55:35.3|Info|Microsoft.Hosting.Lifetime|Application is shutting down...
+2025-02-26 09:55:35.4|Info|ConsoleApp|Exiting main.
+2025-02-26 09:55:40.4|Info|Bootstrap|Starting Sonarr - /app/sonarr/bin/Sonarr - Version 4.0.13.2932
+2025-02-26 09:55:40.6|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 09:55:40.6|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 09:55:41.4|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 09:55:42.0|Info|MigrationController|*** Migrating data source=/config/sonarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-02-26 09:55:42.3|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-02-26 09:55:42.3|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-02-26 09:55:42.3|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-02-26 09:55:42.5|Info|DatabaseEngineVersionCheck|SQLite 3.48.0
+2025-02-26 09:55:42.5|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1586781s
+2025-02-26 09:55:42.5|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-02-26 09:55:42.5|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1697114s
+2025-02-26 09:55:42.6|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-02-26 09:55:42.7|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-02-26 09:55:42.7|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-02-26 09:55:42.7|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-02-26 09:55:42.7|Info|DatabaseEngineVersionCheck|SQLite 3.48.0
+2025-02-26 09:55:42.7|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0096358s
+2025-02-26 09:55:42.7|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-02-26 09:55:42.7|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0101688s
+2025-02-26 09:55:44.5|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:8989
+2025-02-26 09:55:46.3|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2025-02-26 09:55:46.3|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2025-02-26 09:55:46.3|Info|Microsoft.Hosting.Lifetime|Content root path: /app/sonarr/bin
+2025-02-26 09:55:46.7|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2025-02-26 09:59:03.1|Info|Microsoft.Hosting.Lifetime|Application is shutting down...
+2025-02-26 09:59:03.1|Info|ConsoleApp|Exiting main.
+2025-02-26 09:59:08.4|Info|Bootstrap|Starting Sonarr - /app/sonarr/bin/Sonarr - Version 4.0.13.2932
+2025-02-26 09:59:08.6|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 09:59:08.6|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 09:59:09.3|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 09:59:09.6|Info|MigrationController|*** Migrating data source=/config/sonarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-02-26 09:59:09.8|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-02-26 09:59:09.8|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-02-26 09:59:09.8|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-02-26 09:59:10.0|Info|DatabaseEngineVersionCheck|SQLite 3.48.0
+2025-02-26 09:59:10.0|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1232341s
+2025-02-26 09:59:10.0|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-02-26 09:59:10.0|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1275528s
+2025-02-26 09:59:10.1|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-02-26 09:59:10.1|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-02-26 09:59:10.1|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-02-26 09:59:10.1|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-02-26 09:59:10.1|Info|DatabaseEngineVersionCheck|SQLite 3.48.0
+2025-02-26 09:59:10.1|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0020212s
+2025-02-26 09:59:10.1|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-02-26 09:59:10.1|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0023164s
+2025-02-26 09:59:11.3|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:8989
+2025-02-26 09:59:12.1|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2025-02-26 09:59:12.1|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2025-02-26 09:59:12.1|Info|Microsoft.Hosting.Lifetime|Content root path: /app/sonarr/bin
+2025-02-26 09:59:12.5|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2025-02-26 10:00:41.9|Info|RssSyncService|Starting RSS Sync
+2025-02-26 10:00:42.7|Info|DownloadDecisionMaker|Processing 62 releases
+2025-02-26 10:00:44.1|Info|RssSyncService|RSS Sync Completed. Reports found: 62, Reports grabbed: 0
+2025-02-26 10:16:12.0|Info|RssSyncService|Starting RSS Sync
+2025-02-26 10:16:12.2|Info|DownloadDecisionMaker|Processing 62 releases
+2025-02-26 10:16:12.4|Info|RssSyncService|RSS Sync Completed. Reports found: 62, Reports grabbed: 0
+2025-02-26 10:31:42.2|Info|RssSyncService|Starting RSS Sync
+2025-02-26 10:31:42.4|Info|DownloadDecisionMaker|Processing 62 releases
+2025-02-26 10:31:42.5|Info|RssSyncService|RSS Sync Completed. Reports found: 62, Reports grabbed: 0
+2025-02-26 10:47:12.3|Info|RssSyncService|Starting RSS Sync
+2025-02-26 10:47:12.5|Info|DownloadDecisionMaker|Processing 62 releases
+2025-02-26 10:47:12.6|Info|RssSyncService|RSS Sync Completed. Reports found: 62, Reports grabbed: 0
+2025-02-26 11:02:42.4|Info|RssSyncService|Starting RSS Sync
+2025-02-26 11:02:42.6|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 02/26/2025 07:29:32 and 02/26/2025 08:55:02 UTC. Search may be required.
+2025-02-26 11:02:42.7|Info|DownloadDecisionMaker|Processing 56 releases
+2025-02-26 11:02:42.8|Info|RssSyncService|RSS Sync Completed. Reports found: 56, Reports grabbed: 0
+2025-02-26 11:18:12.5|Info|RssSyncService|Starting RSS Sync
+2025-02-26 11:18:12.7|Info|DownloadDecisionMaker|Processing 56 releases
+2025-02-26 11:18:12.8|Info|RssSyncService|RSS Sync Completed. Reports found: 56, Reports grabbed: 0
+2025-02-26 11:18:42.6|Info|RefreshSeriesService|Updating Bref.
+2025-02-26 11:18:42.9|Info|RefreshEpisodeService|Starting episode info refresh for: [251562][Bref.]
+2025-02-26 11:18:43.1|Info|RefreshEpisodeService|Finished episode refresh for series: [251562][Bref.].
+2025-02-26 11:18:43.2|Warn|DiskScanService|Series' root folder (/data/tvshows) is empty.
+2025-02-26 11:18:43.2|Info|RefreshSeriesService|Skipping refresh of series: Naruto
+2025-02-26 11:18:43.2|Warn|DiskScanService|Series' root folder (/data/tvshows) is empty.
+2025-02-26 11:18:43.2|Info|RefreshSeriesService|Skipping refresh of series: Suits
+2025-02-26 11:18:43.2|Warn|DiskScanService|Series' root folder (/data/tvshows) is empty.
+2025-02-26 11:33:42.6|Info|RssSyncService|Starting RSS Sync
+2025-02-26 11:33:43.0|Info|DownloadDecisionMaker|Processing 56 releases
+2025-02-26 11:33:43.0|Info|RssSyncService|RSS Sync Completed. Reports found: 56, Reports grabbed: 0
+2025-02-26 11:42:42.7|Info|SceneMappingService|Updating Scene mappings
+2025-02-26 11:49:12.7|Info|RssSyncService|Starting RSS Sync
+2025-02-26 11:49:13.1|Info|DownloadDecisionMaker|Processing 55 releases
+2025-02-26 11:49:13.2|Info|RssSyncService|RSS Sync Completed. Reports found: 55, Reports grabbed: 0
+2025-02-26 12:04:42.9|Info|RssSyncService|Starting RSS Sync
+2025-02-26 12:04:43.2|Info|DownloadDecisionMaker|Processing 54 releases
+2025-02-26 12:04:43.3|Info|RssSyncService|RSS Sync Completed. Reports found: 54, Reports grabbed: 0
+2025-02-26 12:20:13.1|Info|RssSyncService|Starting RSS Sync
+2025-02-26 12:20:13.4|Info|DownloadDecisionMaker|Processing 54 releases
+2025-02-26 12:20:13.5|Info|RssSyncService|RSS Sync Completed. Reports found: 54, Reports grabbed: 0
+2025-02-26 12:35:43.2|Info|RssSyncService|Starting RSS Sync
+2025-02-26 12:35:43.5|Info|DownloadDecisionMaker|Processing 55 releases
+2025-02-26 12:35:43.6|Info|RssSyncService|RSS Sync Completed. Reports found: 55, Reports grabbed: 0
+2025-02-26 12:51:13.3|Info|RssSyncService|Starting RSS Sync
+2025-02-26 12:51:13.6|Info|DownloadDecisionMaker|Processing 55 releases
+2025-02-26 12:51:13.7|Info|RssSyncService|RSS Sync Completed. Reports found: 55, Reports grabbed: 0
+2025-02-26 13:06:43.4|Info|RssSyncService|Starting RSS Sync
+2025-02-26 13:06:43.6|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 02/26/2025 09:20:02 and 02/26/2025 10:54:37 UTC. Search may be required.
+2025-02-26 13:06:43.7|Info|DownloadDecisionMaker|Processing 61 releases
+2025-02-26 13:06:43.8|Info|RssSyncService|RSS Sync Completed. Reports found: 61, Reports grabbed: 0
+2025-02-26 13:10:18.4|Info|Microsoft.Hosting.Lifetime|Application is shutting down...
+2025-02-26 13:10:18.4|Info|ConsoleApp|Exiting main.
+2025-02-26 13:10:23.6|Info|Bootstrap|Starting Sonarr - /app/sonarr/bin/Sonarr - Version 4.0.13.2932
+2025-02-26 13:10:23.8|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 13:10:23.8|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 13:10:24.9|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 13:10:25.3|Info|MigrationController|*** Migrating data source=/config/sonarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-02-26 13:10:25.5|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-02-26 13:10:25.5|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-02-26 13:10:25.5|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-02-26 13:10:25.6|Info|DatabaseEngineVersionCheck|SQLite 3.48.0
+2025-02-26 13:10:25.6|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0982234s
+2025-02-26 13:10:25.6|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-02-26 13:10:25.6|Info|FluentMigrator.Runner.MigrationRunner|=> 0.102569s
+2025-02-26 13:10:25.7|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-02-26 13:10:25.8|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-02-26 13:10:25.8|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-02-26 13:10:25.8|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-02-26 13:10:25.8|Info|DatabaseEngineVersionCheck|SQLite 3.48.0
+2025-02-26 13:10:25.8|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0041441s
+2025-02-26 13:10:25.8|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-02-26 13:10:25.8|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0045788s
+2025-02-26 13:10:26.7|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:8989
+2025-02-26 13:10:27.4|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2025-02-26 13:10:27.4|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2025-02-26 13:10:27.4|Info|Microsoft.Hosting.Lifetime|Content root path: /app/sonarr/bin
+2025-02-26 13:10:27.8|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2025-02-26 13:21:57.3|Info|RssSyncService|Starting RSS Sync
+2025-02-26 13:21:57.9|Info|DownloadDecisionMaker|Processing 61 releases
+2025-02-26 13:21:59.2|Info|RssSyncService|RSS Sync Completed. Reports found: 61, Reports grabbed: 0
+2025-02-26 13:25:34.8|Info|Microsoft.Hosting.Lifetime|Application is shutting down...
+2025-02-26 13:25:34.8|Info|ConsoleApp|Exiting main.
+2025-02-26 13:25:39.9|Info|Bootstrap|Starting Sonarr - /app/sonarr/bin/Sonarr - Version 4.0.13.2932
+2025-02-26 13:25:40.1|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 13:25:40.2|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 13:25:41.0|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 13:25:41.5|Info|MigrationController|*** Migrating data source=/config/sonarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-02-26 13:25:41.8|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-02-26 13:25:41.8|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-02-26 13:25:41.8|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-02-26 13:25:41.9|Info|DatabaseEngineVersionCheck|SQLite 3.48.0
+2025-02-26 13:25:42.0|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1390067s
+2025-02-26 13:25:42.0|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-02-26 13:25:42.0|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1471946s
+2025-02-26 13:25:42.1|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-02-26 13:25:42.1|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-02-26 13:25:42.1|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-02-26 13:25:42.1|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-02-26 13:25:42.1|Info|DatabaseEngineVersionCheck|SQLite 3.48.0
+2025-02-26 13:25:42.1|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0068322s
+2025-02-26 13:25:42.1|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-02-26 13:25:42.1|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0076258s
+2025-02-26 13:25:43.9|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:8989
+2025-02-26 13:25:45.2|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2025-02-26 13:25:45.2|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2025-02-26 13:25:45.2|Info|Microsoft.Hosting.Lifetime|Content root path: /app/sonarr/bin
+2025-02-26 13:25:45.5|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2025-02-26 13:37:14.8|Info|RssSyncService|Starting RSS Sync
+2025-02-26 13:37:15.8|Info|DownloadDecisionMaker|Processing 60 releases
+2025-02-26 13:37:17.7|Info|RssSyncService|RSS Sync Completed. Reports found: 60, Reports grabbed: 0
+2025-02-26 13:52:44.9|Info|RssSyncService|Starting RSS Sync
+2025-02-26 13:52:45.3|Info|DownloadDecisionMaker|Processing 60 releases
+2025-02-26 13:52:45.4|Info|RssSyncService|RSS Sync Completed. Reports found: 60, Reports grabbed: 0
+2025-02-26 14:08:15.0|Info|RssSyncService|Starting RSS Sync
+2025-02-26 14:08:15.4|Warn|Torznab|Indexer Anime Time (Prowlarr) rss sync didn't cover the period between 02/26/2025 11:39:34 and 02/26/2025 11:55:36 UTC. Search may be required.
+2025-02-26 14:08:15.4|Info|DownloadDecisionMaker|Processing 56 releases
+2025-02-26 14:08:15.5|Info|RssSyncService|RSS Sync Completed. Reports found: 56, Reports grabbed: 0
+2025-02-26 14:23:45.1|Info|RssSyncService|Starting RSS Sync
+2025-02-26 14:23:45.5|Info|DownloadDecisionMaker|Processing 55 releases
+2025-02-26 14:23:45.5|Info|RssSyncService|RSS Sync Completed. Reports found: 55, Reports grabbed: 0
+2025-02-26 14:39:15.3|Info|RssSyncService|Starting RSS Sync
+2025-02-26 14:39:15.6|Info|DownloadDecisionMaker|Processing 56 releases
+2025-02-26 14:39:15.6|Info|RssSyncService|RSS Sync Completed. Reports found: 56, Reports grabbed: 0
+2025-02-26 14:42:45.3|Info|SceneMappingService|Updating Scene mappings
+2025-02-26 14:54:45.4|Info|RssSyncService|Starting RSS Sync
+2025-02-26 14:54:45.8|Info|DownloadDecisionMaker|Processing 56 releases
+2025-02-26 14:54:45.8|Info|RssSyncService|RSS Sync Completed. Reports found: 56, Reports grabbed: 0
+2025-02-26 15:10:15.6|Info|RssSyncService|Starting RSS Sync
+2025-02-26 15:10:15.8|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 02/26/2025 11:29:54 and 02/26/2025 12:55:01 UTC. Search may be required.
+2025-02-26 15:10:28.1|Info|DownloadDecisionMaker|Processing 30 releases
+2025-02-26 15:10:28.2|Info|RssSyncService|RSS Sync Completed. Reports found: 30, Reports grabbed: 0
+2025-02-26 15:25:45.8|Info|RssSyncService|Starting RSS Sync
+2025-02-26 15:25:46.1|Info|DownloadDecisionMaker|Processing 37 releases
+2025-02-26 15:25:46.2|Info|RssSyncService|RSS Sync Completed. Reports found: 37, Reports grabbed: 0
+2025-02-26 15:41:15.9|Info|RssSyncService|Starting RSS Sync
+2025-02-26 15:41:16.2|Info|DownloadDecisionMaker|Processing 41 releases
+2025-02-26 15:41:16.3|Info|RssSyncService|RSS Sync Completed. Reports found: 41, Reports grabbed: 0
+2025-02-26 15:56:46.0|Info|RssSyncService|Starting RSS Sync
+2025-02-26 15:56:46.3|Info|DownloadDecisionMaker|Processing 41 releases
+2025-02-26 15:56:46.3|Info|RssSyncService|RSS Sync Completed. Reports found: 41, Reports grabbed: 0
+2025-02-26 16:12:16.1|Info|RssSyncService|Starting RSS Sync
+2025-02-26 16:12:16.4|Info|DownloadDecisionMaker|Processing 41 releases
+2025-02-26 16:12:16.5|Info|RssSyncService|RSS Sync Completed. Reports found: 41, Reports grabbed: 0
+2025-02-26 16:27:46.2|Info|RssSyncService|Starting RSS Sync
+2025-02-26 16:27:46.5|Info|DownloadDecisionMaker|Processing 41 releases
+2025-02-26 16:27:46.5|Info|RssSyncService|RSS Sync Completed. Reports found: 41, Reports grabbed: 0
+2025-02-26 16:43:16.3|Info|RssSyncService|Starting RSS Sync
+2025-02-26 16:43:16.6|Info|DownloadDecisionMaker|Processing 40 releases
+2025-02-26 16:43:16.7|Info|RssSyncService|RSS Sync Completed. Reports found: 40, Reports grabbed: 0
+2025-02-26 16:58:46.4|Info|RssSyncService|Starting RSS Sync
+2025-02-26 16:58:46.7|Info|DownloadDecisionMaker|Processing 40 releases
+2025-02-26 16:58:46.8|Info|RssSyncService|RSS Sync Completed. Reports found: 40, Reports grabbed: 0
+2025-02-26 17:14:16.6|Info|RssSyncService|Starting RSS Sync
+2025-02-26 17:14:16.8|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 02/26/2025 13:29:24 and 02/26/2025 14:35:01 UTC. Search may be required.
+2025-02-26 17:14:16.9|Info|DownloadDecisionMaker|Processing 69 releases
+2025-02-26 17:14:17.0|Info|RssSyncService|RSS Sync Completed. Reports found: 69, Reports grabbed: 0
+2025-02-26 17:29:46.7|Info|RssSyncService|Starting RSS Sync
+2025-02-26 17:29:47.0|Info|DownloadDecisionMaker|Processing 69 releases
+2025-02-26 17:29:47.1|Info|RssSyncService|RSS Sync Completed. Reports found: 69, Reports grabbed: 0
+2025-02-26 17:42:46.8|Info|SceneMappingService|Updating Scene mappings
+2025-02-26 17:45:16.9|Info|RssSyncService|Starting RSS Sync
+2025-02-26 17:45:17.1|Info|DownloadDecisionMaker|Processing 69 releases
+2025-02-26 17:45:17.2|Info|RssSyncService|RSS Sync Completed. Reports found: 69, Reports grabbed: 0
+2025-02-26 18:00:47.0|Info|RssSyncService|Starting RSS Sync
+2025-02-26 18:00:51.1|Info|DownloadDecisionMaker|Processing 69 releases
+2025-02-26 18:00:51.2|Info|RssSyncService|RSS Sync Completed. Reports found: 69, Reports grabbed: 0
+2025-02-26 18:16:17.2|Info|RssSyncService|Starting RSS Sync
+2025-02-26 18:16:17.4|Warn|Torznab|Indexer Anime Time (Prowlarr) rss sync didn't cover the period between 02/26/2025 15:59:29 and 02/26/2025 15:59:44 UTC. Search may be required.
+2025-02-26 18:16:17.4|Info|DownloadDecisionMaker|Processing 69 releases
+2025-02-26 18:16:17.5|Info|RssSyncService|RSS Sync Completed. Reports found: 69, Reports grabbed: 0
+2025-02-26 18:31:47.3|Info|RssSyncService|Starting RSS Sync
+2025-02-26 18:31:47.7|Info|DownloadDecisionMaker|Processing 69 releases
+2025-02-26 18:31:47.8|Info|RssSyncService|RSS Sync Completed. Reports found: 69, Reports grabbed: 0
+2025-02-26 18:47:17.5|Info|RssSyncService|Starting RSS Sync
+2025-02-26 18:47:17.6|Info|DownloadDecisionMaker|Processing 68 releases
+2025-02-26 18:47:17.7|Info|RssSyncService|RSS Sync Completed. Reports found: 68, Reports grabbed: 0
+2025-02-26 19:02:47.6|Info|RssSyncService|Starting RSS Sync
+2025-02-26 19:02:47.8|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 02/26/2025 15:28:57 and 02/26/2025 16:58:49 UTC. Search may be required.
+2025-02-26 19:02:47.9|Info|DownloadDecisionMaker|Processing 52 releases
+2025-02-26 19:02:48.0|Info|RssSyncService|RSS Sync Completed. Reports found: 52, Reports grabbed: 0
+2025-02-26 19:18:17.7|Info|RssSyncService|Starting RSS Sync
+2025-02-26 19:18:17.9|Info|DownloadDecisionMaker|Processing 52 releases
+2025-02-26 19:18:18.0|Info|RssSyncService|RSS Sync Completed. Reports found: 52, Reports grabbed: 0
+2025-02-26 19:33:47.8|Info|RssSyncService|Starting RSS Sync
+2025-02-26 19:33:48.1|Info|DownloadDecisionMaker|Processing 52 releases
+2025-02-26 19:33:48.2|Info|RssSyncService|RSS Sync Completed. Reports found: 52, Reports grabbed: 0
+2025-02-26 19:49:18.0|Info|RssSyncService|Starting RSS Sync
+2025-02-26 19:49:18.2|Info|DownloadDecisionMaker|Processing 54 releases
+2025-02-26 19:49:18.3|Info|RssSyncService|RSS Sync Completed. Reports found: 54, Reports grabbed: 0
+2025-02-26 20:04:48.1|Info|RssSyncService|Starting RSS Sync
+2025-02-26 20:04:48.4|Info|DownloadDecisionMaker|Processing 54 releases
+2025-02-26 20:04:48.4|Info|RssSyncService|RSS Sync Completed. Reports found: 54, Reports grabbed: 0
+2025-02-26 20:20:18.2|Info|RssSyncService|Starting RSS Sync
+2025-02-26 20:20:18.4|Info|DownloadDecisionMaker|Processing 54 releases
+2025-02-26 20:20:18.4|Info|RssSyncService|RSS Sync Completed. Reports found: 54, Reports grabbed: 0
+2025-02-26 20:35:48.3|Info|RssSyncService|Starting RSS Sync
+2025-02-26 20:35:48.6|Info|DownloadDecisionMaker|Processing 54 releases
+2025-02-26 20:35:48.7|Info|RssSyncService|RSS Sync Completed. Reports found: 54, Reports grabbed: 0
+2025-02-26 20:42:48.4|Info|SceneMappingService|Updating Scene mappings
+2025-02-26 20:51:18.5|Info|RssSyncService|Starting RSS Sync
+2025-02-26 20:51:18.8|Info|DownloadDecisionMaker|Processing 52 releases
+2025-02-26 20:51:18.8|Info|RssSyncService|RSS Sync Completed. Reports found: 52, Reports grabbed: 0
+2025-02-26 21:06:48.6|Info|RssSyncService|Starting RSS Sync
+2025-02-26 21:06:48.7|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 02/26/2025 17:29:56 and 02/26/2025 18:54:37 UTC. Search may be required.
+2025-02-26 21:06:48.9|Info|DownloadDecisionMaker|Processing 60 releases
+2025-02-26 21:06:49.0|Info|RssSyncService|RSS Sync Completed. Reports found: 60, Reports grabbed: 0
+2025-02-26 21:22:18.7|Info|RssSyncService|Starting RSS Sync
+2025-02-26 21:22:19.0|Info|DownloadDecisionMaker|Processing 60 releases
+2025-02-26 21:22:19.1|Info|RssSyncService|RSS Sync Completed. Reports found: 60, Reports grabbed: 0
+2025-02-26 21:37:48.8|Info|RssSyncService|Starting RSS Sync
+2025-02-26 21:37:49.2|Info|DownloadDecisionMaker|Processing 60 releases
+2025-02-26 21:37:49.3|Info|RssSyncService|RSS Sync Completed. Reports found: 60, Reports grabbed: 0
+2025-02-26 21:53:19.0|Info|RssSyncService|Starting RSS Sync
+2025-02-26 21:53:19.3|Info|DownloadDecisionMaker|Processing 60 releases
+2025-02-26 21:53:19.3|Info|RssSyncService|RSS Sync Completed. Reports found: 60, Reports grabbed: 0
+2025-02-26 22:08:49.2|Info|RssSyncService|Starting RSS Sync
+2025-02-26 22:08:49.5|Info|DownloadDecisionMaker|Processing 60 releases
+2025-02-26 22:08:49.6|Info|RssSyncService|RSS Sync Completed. Reports found: 60, Reports grabbed: 0
+2025-02-26 22:24:19.4|Info|RssSyncService|Starting RSS Sync
+2025-02-26 22:24:19.7|Info|DownloadDecisionMaker|Processing 60 releases
+2025-02-26 22:24:19.8|Info|RssSyncService|RSS Sync Completed. Reports found: 60, Reports grabbed: 0
+2025-02-26 22:39:49.5|Info|RssSyncService|Starting RSS Sync
+2025-02-26 22:39:49.8|Info|DownloadDecisionMaker|Processing 60 releases
+2025-02-26 22:39:49.9|Info|RssSyncService|RSS Sync Completed. Reports found: 60, Reports grabbed: 0
+2025-02-26 22:55:19.7|Info|RssSyncService|Starting RSS Sync
+2025-02-26 22:55:20.0|Info|DownloadDecisionMaker|Processing 60 releases
+2025-02-26 22:55:20.1|Info|RssSyncService|RSS Sync Completed. Reports found: 60, Reports grabbed: 0
+2025-02-26 23:10:49.8|Info|RssSyncService|Starting RSS Sync
+2025-02-26 23:10:50.0|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 02/26/2025 19:29:57 and 02/26/2025 21:08:42 UTC. Search may be required.
+2025-02-26 23:10:50.1|Info|DownloadDecisionMaker|Processing 64 releases
+2025-02-26 23:10:50.2|Info|RssSyncService|RSS Sync Completed. Reports found: 64, Reports grabbed: 0
+2025-02-26 23:18:49.9|Info|HousekeepingService|Running housecleaning tasks
+2025-02-26 23:18:49.9|Info|RecycleBinProvider|Recycle Bin has not been configured, cannot cleanup.
+2025-02-26 23:18:49.9|Info|RefreshSeriesService|Updating Bref.
+2025-02-26 23:18:50.0|Info|Database|Vacuuming Log database
+2025-02-26 23:18:50.0|Info|Database|Log database compressed
+2025-02-26 23:18:50.0|Info|Database|Vacuuming Main database
+2025-02-26 23:18:50.0|Info|Database|Main database compressed
+2025-02-26 23:18:50.3|Info|RefreshEpisodeService|Starting episode info refresh for: [251562][Bref.]
+2025-02-26 23:18:50.5|Info|RefreshEpisodeService|Finished episode refresh for series: [251562][Bref.].
+2025-02-26 23:18:50.6|Warn|DiskScanService|Series' root folder (/data/tvshows) is empty.
+2025-02-26 23:18:50.6|Info|RefreshSeriesService|Skipping refresh of series: Naruto
+2025-02-26 23:18:50.6|Warn|DiskScanService|Series' root folder (/data/tvshows) is empty.
+2025-02-26 23:18:50.6|Info|RefreshSeriesService|Skipping refresh of series: Suits
+2025-02-26 23:18:50.6|Warn|DiskScanService|Series' root folder (/data/tvshows) is empty.
+2025-02-26 23:26:20.0|Info|RssSyncService|Starting RSS Sync
+2025-02-26 23:26:20.3|Info|DownloadDecisionMaker|Processing 66 releases
+2025-02-26 23:26:20.4|Info|RssSyncService|RSS Sync Completed. Reports found: 66, Reports grabbed: 0
+2025-02-26 23:41:50.1|Info|RssSyncService|Starting RSS Sync
+2025-02-26 23:41:50.5|Info|DownloadDecisionMaker|Processing 66 releases
+2025-02-26 23:41:50.6|Info|RssSyncService|RSS Sync Completed. Reports found: 66, Reports grabbed: 0
+2025-02-26 23:42:50.1|Info|SceneMappingService|Updating Scene mappings
+2025-02-26 23:57:20.2|Info|RssSyncService|Starting RSS Sync
+2025-02-26 23:57:20.6|Info|DownloadDecisionMaker|Processing 66 releases
+2025-02-26 23:57:20.6|Info|RssSyncService|RSS Sync Completed. Reports found: 66, Reports grabbed: 0
+2025-02-27 00:12:50.3|Info|RssSyncService|Starting RSS Sync
+2025-02-27 00:12:50.7|Info|DownloadDecisionMaker|Processing 66 releases
+2025-02-27 00:12:50.8|Info|RssSyncService|RSS Sync Completed. Reports found: 66, Reports grabbed: 0
+2025-02-27 00:28:20.5|Info|RssSyncService|Starting RSS Sync
+2025-02-27 00:28:20.8|Info|DownloadDecisionMaker|Processing 66 releases
+2025-02-27 00:28:20.9|Info|RssSyncService|RSS Sync Completed. Reports found: 66, Reports grabbed: 0
+2025-02-27 00:43:50.6|Info|RssSyncService|Starting RSS Sync
+2025-02-27 00:43:50.9|Info|DownloadDecisionMaker|Processing 66 releases
+2025-02-27 00:43:51.0|Info|RssSyncService|RSS Sync Completed. Reports found: 66, Reports grabbed: 0
+2025-02-27 00:59:20.7|Info|RssSyncService|Starting RSS Sync
+2025-02-27 00:59:21.0|Info|DownloadDecisionMaker|Processing 66 releases
+2025-02-27 00:59:21.1|Info|RssSyncService|RSS Sync Completed. Reports found: 66, Reports grabbed: 0
+2025-02-27 01:14:50.9|Info|RssSyncService|Starting RSS Sync
+2025-02-27 01:14:51.1|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 02/26/2025 21:29:22 and 02/26/2025 22:54:18 UTC. Search may be required.
+2025-02-27 01:14:51.2|Info|DownloadDecisionMaker|Processing 63 releases
+2025-02-27 01:14:51.3|Info|RssSyncService|RSS Sync Completed. Reports found: 63, Reports grabbed: 0
+2025-02-27 01:30:21.1|Info|RssSyncService|Starting RSS Sync
+2025-02-27 01:30:26.4|Info|DownloadDecisionMaker|Processing 63 releases
+2025-02-27 01:30:26.5|Info|RssSyncService|RSS Sync Completed. Reports found: 63, Reports grabbed: 0
+2025-02-27 01:45:51.2|Info|RssSyncService|Starting RSS Sync
+2025-02-27 01:45:53.3|Info|DownloadDecisionMaker|Processing 63 releases
+2025-02-27 01:45:53.4|Info|RssSyncService|RSS Sync Completed. Reports found: 63, Reports grabbed: 0
+2025-02-27 02:01:21.4|Info|RssSyncService|Starting RSS Sync
+2025-02-27 02:01:21.7|Info|DownloadDecisionMaker|Processing 63 releases
+2025-02-27 02:01:21.9|Info|RssSyncService|RSS Sync Completed. Reports found: 63, Reports grabbed: 0
+2025-02-27 02:16:51.5|Info|RssSyncService|Starting RSS Sync
+2025-02-27 02:16:51.7|Info|DownloadDecisionMaker|Processing 60 releases
+2025-02-27 02:16:51.8|Info|RssSyncService|RSS Sync Completed. Reports found: 60, Reports grabbed: 0
+2025-02-27 02:32:21.6|Info|RssSyncService|Starting RSS Sync
+2025-02-27 02:32:21.9|Info|DownloadDecisionMaker|Processing 60 releases
+2025-02-27 02:32:22.1|Info|RssSyncService|RSS Sync Completed. Reports found: 60, Reports grabbed: 0
+2025-02-27 02:42:51.7|Info|SceneMappingService|Updating Scene mappings
+2025-02-27 02:47:51.8|Info|RssSyncService|Starting RSS Sync
+2025-02-27 02:47:52.0|Info|DownloadDecisionMaker|Processing 60 releases
+2025-02-27 02:47:52.1|Info|RssSyncService|RSS Sync Completed. Reports found: 60, Reports grabbed: 0
+2025-02-27 03:03:21.9|Info|RssSyncService|Starting RSS Sync
+2025-02-27 03:03:22.1|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 02/26/2025 23:28:59 and 02/27/2025 00:49:24 UTC. Search may be required.
+2025-02-27 03:03:22.2|Info|DownloadDecisionMaker|Processing 62 releases
+2025-02-27 03:03:22.3|Info|RssSyncService|RSS Sync Completed. Reports found: 62, Reports grabbed: 0
+2025-02-27 03:18:52.0|Info|RssSyncService|Starting RSS Sync
+2025-02-27 03:18:52.2|Info|DownloadDecisionMaker|Processing 61 releases
+2025-02-27 03:18:52.3|Info|RssSyncService|RSS Sync Completed. Reports found: 61, Reports grabbed: 0
+2025-02-27 03:34:22.1|Info|RssSyncService|Starting RSS Sync
+2025-02-27 03:34:22.5|Info|DownloadDecisionMaker|Processing 61 releases
+2025-02-27 03:34:22.5|Info|RssSyncService|RSS Sync Completed. Reports found: 61, Reports grabbed: 0
+2025-02-27 03:49:52.4|Info|RssSyncService|Starting RSS Sync
+2025-02-27 03:49:52.5|Info|DownloadDecisionMaker|Processing 61 releases
+2025-02-27 03:49:52.6|Info|RssSyncService|RSS Sync Completed. Reports found: 61, Reports grabbed: 0
+2025-02-27 04:05:22.5|Info|RssSyncService|Starting RSS Sync
+2025-02-27 04:05:25.0|Info|DownloadDecisionMaker|Processing 61 releases
+2025-02-27 04:05:25.1|Info|RssSyncService|RSS Sync Completed. Reports found: 61, Reports grabbed: 0
+2025-02-27 04:12:33.1|Info|Microsoft.Hosting.Lifetime|Application is shutting down...
+2025-02-27 04:12:33.2|Info|ConsoleApp|Exiting main.
+2025-03-02 23:36:13.9|Info|Bootstrap|Starting Sonarr - /app/sonarr/bin/Sonarr - Version 4.0.13.2932
+2025-03-02 23:36:14.1|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-03-02 23:36:14.2|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-03-02 23:36:15.2|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-03-02 23:36:16.1|Info|MigrationController|*** Migrating data source=/config/sonarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-03-02 23:36:16.4|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-03-02 23:36:16.5|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-03-02 23:36:16.5|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-03-02 23:36:16.6|Info|DatabaseEngineVersionCheck|SQLite 3.48.0
+2025-03-02 23:36:16.6|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1594409s
+2025-03-02 23:36:16.6|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-03-02 23:36:16.6|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1643315s
+2025-03-02 23:36:16.8|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-03-02 23:36:16.9|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-03-02 23:36:16.9|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-03-02 23:36:16.9|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-03-02 23:36:16.9|Info|DatabaseEngineVersionCheck|SQLite 3.48.0
+2025-03-02 23:36:16.9|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0089528s
+2025-03-02 23:36:16.9|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-03-02 23:36:16.9|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0093364s
+2025-03-02 23:36:18.5|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:8989
+2025-03-02 23:36:19.4|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2025-03-02 23:36:19.4|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2025-03-02 23:36:19.4|Info|Microsoft.Hosting.Lifetime|Content root path: /app/sonarr/bin
+2025-03-02 23:36:19.8|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2025-03-02 23:36:56.0|Info|SceneMappingService|Updating Scene mappings
+2025-03-02 23:36:56.0|Info|RefreshSeriesService|Updating Bref.
+2025-03-02 23:36:56.3|Info|RssSyncService|Starting RSS Sync
+2025-03-02 23:36:57.6|Info|RefreshEpisodeService|Starting episode info refresh for: [251562][Bref.]
+2025-03-02 23:36:58.2|Warn|Torznab|Indexer Anime Time (Prowlarr) rss sync didn't cover the period between 02/27/2025 02:04:35 and 03/02/2025 19:45:47 UTC. Search may be required.
+2025-03-02 23:36:58.8|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 02/27/2025 01:25:03 and 03/02/2025 20:35:01 UTC. Search may be required.
+2025-03-02 23:36:59.4|Info|RefreshEpisodeService|Finished episode refresh for series: [251562][Bref.].
+2025-03-02 23:36:59.5|Info|DownloadDecisionMaker|Processing 65 releases
+2025-03-02 23:36:59.6|Warn|DiskScanService|Series' root folder (/data/tvshows) is empty.
+2025-03-02 23:36:59.6|Info|HousekeepingService|Running housecleaning tasks
+2025-03-02 23:36:59.6|Info|RefreshSeriesService|Skipping refresh of series: Naruto
+2025-03-02 23:36:59.6|Warn|DiskScanService|Series' root folder (/data/tvshows) is empty.
+2025-03-02 23:36:59.6|Info|RefreshSeriesService|Skipping refresh of series: Suits
+2025-03-02 23:36:59.6|Warn|DiskScanService|Series' root folder (/data/tvshows) is empty.
+2025-03-02 23:36:59.8|Info|RecycleBinProvider|Recycle Bin has not been configured, cannot cleanup.
+2025-03-02 23:36:59.8|Info|Database|Vacuuming Log database
+2025-03-02 23:36:59.9|Info|Database|Log database compressed
+2025-03-02 23:36:59.9|Info|Database|Vacuuming Main database
+2025-03-02 23:36:59.9|Info|Database|Main database compressed
+2025-03-02 23:37:03.7|Info|RssSyncService|RSS Sync Completed. Reports found: 65, Reports grabbed: 0
+2025-03-02 23:52:25.8|Info|RssSyncService|Starting RSS Sync
+2025-03-02 23:52:26.0|Info|DownloadDecisionMaker|Processing 65 releases
+2025-03-02 23:52:26.2|Info|RssSyncService|RSS Sync Completed. Reports found: 65, Reports grabbed: 0
+2025-03-03 00:07:56.0|Info|RssSyncService|Starting RSS Sync
+2025-03-03 00:07:56.3|Info|DownloadDecisionMaker|Processing 65 releases
+2025-03-03 00:07:56.4|Info|RssSyncService|RSS Sync Completed. Reports found: 65, Reports grabbed: 0
+2025-03-03 00:23:26.2|Info|RssSyncService|Starting RSS Sync
+2025-03-03 00:23:26.5|Info|DownloadDecisionMaker|Processing 65 releases
+2025-03-03 00:23:26.7|Info|RssSyncService|RSS Sync Completed. Reports found: 65, Reports grabbed: 0
+2025-03-03 14:36:47.4|Info|Bootstrap|Starting Sonarr - /app/sonarr/bin/Sonarr - Version 4.0.13.2932
+2025-03-03 14:36:47.6|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-03-03 14:36:47.6|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-03-03 14:36:48.2|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-03-03 14:36:48.4|Info|MigrationController|*** Migrating data source=/config/sonarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-03-03 14:36:48.5|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-03-03 14:36:48.5|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-03-03 14:36:48.5|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-03-03 14:36:48.6|Info|DatabaseEngineVersionCheck|SQLite 3.48.0
+2025-03-03 14:36:48.6|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0635732s
+2025-03-03 14:36:48.6|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-03-03 14:36:48.6|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0661618s
+2025-03-03 14:36:48.7|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-03-03 14:36:48.7|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-03-03 14:36:48.7|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-03-03 14:36:48.7|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-03-03 14:36:48.7|Info|DatabaseEngineVersionCheck|SQLite 3.48.0
+2025-03-03 14:36:48.7|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0016299s
+2025-03-03 14:36:48.7|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-03-03 14:36:48.7|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0018086s
+2025-03-03 14:36:49.3|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:8989
+2025-03-03 14:36:50.1|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2025-03-03 14:36:50.1|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2025-03-03 14:36:50.1|Info|Microsoft.Hosting.Lifetime|Content root path: /app/sonarr/bin
+2025-03-03 14:36:50.3|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2025-03-03 14:37:20.4|Info|RssSyncService|Starting RSS Sync
+2025-03-03 14:37:20.7|Info|RefreshSeriesService|Updating Bref.
+2025-03-03 14:37:20.8|Info|SceneMappingService|Updating Scene mappings
+2025-03-03 14:37:21.8|Info|RefreshEpisodeService|Starting episode info refresh for: [251562][Bref.]
+2025-03-03 14:37:21.8|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 03/02/2025 21:27:37 and 03/03/2025 10:56:15 UTC. Search may be required.
+2025-03-03 14:37:22.3|Warn|Torznab|Indexer Anime Time (Prowlarr) rss sync didn't cover the period between 03/02/2025 21:59:37 and 03/03/2025 09:58:39 UTC. Search may be required.
+2025-03-03 14:37:22.9|Info|DownloadDecisionMaker|Processing 48 releases
+2025-03-03 14:37:23.0|Info|RefreshEpisodeService|Finished episode refresh for series: [251562][Bref.].
+2025-03-03 14:37:23.1|Warn|DiskScanService|Series' root folder (/data/tvshows) is empty.
+2025-03-03 14:37:23.1|Info|RefreshSeriesService|Skipping refresh of series: Naruto
+2025-03-03 14:37:23.1|Warn|DiskScanService|Series' root folder (/data/tvshows) is empty.
+2025-03-03 14:37:23.1|Info|RefreshSeriesService|Skipping refresh of series: Suits
+2025-03-03 14:37:23.1|Warn|DiskScanService|Series' root folder (/data/tvshows) is empty.
+2025-03-03 14:37:25.4|Info|RssSyncService|RSS Sync Completed. Reports found: 48, Reports grabbed: 0

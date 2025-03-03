@@ -4080,3 +4080,425 @@
 2025-02-26 09:13:05.5|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 02/26/2025 05:19:09 and 02/26/2025 06:51:55 UTC. Search may be required.
 2025-02-26 09:13:05.5|Info|DownloadDecisionMaker|Processing 5 releases
 2025-02-26 09:13:05.5|Info|RssSyncService|RSS Sync Completed. Reports found: 5, Reports grabbed: 0
+2025-02-26 09:43:05.7|Info|RssSyncService|Starting RSS Sync
+2025-02-26 09:43:06.0|Info|DownloadDecisionMaker|Processing 5 releases
+2025-02-26 09:43:06.0|Info|RssSyncService|RSS Sync Completed. Reports found: 5, Reports grabbed: 0
+2025-02-26 09:44:22.9|Info|Microsoft.Hosting.Lifetime|Application is shutting down...
+2025-02-26 09:44:23.0|Info|ConsoleApp|Exiting main.
+2025-02-26 09:44:56.9|Info|Bootstrap|Starting Radarr - /app/radarr/bin/Radarr - Version 5.19.3.9730
+2025-02-26 09:44:57.1|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 09:44:57.2|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 09:44:58.0|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 09:44:58.5|Info|MigrationController|*** Migrating data source=/config/radarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-02-26 09:44:58.9|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-02-26 09:44:59.0|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-02-26 09:44:59.0|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-02-26 09:44:59.1|Info|DatabaseEngineVersionCheck|SQLite 3.48.0
+2025-02-26 09:44:59.1|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1424868s
+2025-02-26 09:44:59.1|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-02-26 09:44:59.1|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1499978s
+2025-02-26 09:44:59.3|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-02-26 09:44:59.3|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-02-26 09:44:59.3|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-02-26 09:44:59.3|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-02-26 09:44:59.3|Info|DatabaseEngineVersionCheck|SQLite 3.48.0
+2025-02-26 09:44:59.3|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0048256s
+2025-02-26 09:44:59.3|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-02-26 09:44:59.3|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0053182s
+2025-02-26 09:45:00.8|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:7878
+2025-02-26 09:45:01.7|Info|CommandExecutor|Starting 2 threads for tasks.
+2025-02-26 09:45:02.1|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2025-02-26 09:45:02.1|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2025-02-26 09:45:02.1|Info|Microsoft.Hosting.Lifetime|Content root path: /app/radarr/bin
+2025-02-26 09:45:02.3|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2025-02-26 09:48:29.7|Info|Microsoft.Hosting.Lifetime|Application is shutting down...
+2025-02-26 09:48:29.8|Info|ConsoleApp|Exiting main.
+2025-02-26 09:48:34.8|Info|Bootstrap|Starting Radarr - /app/radarr/bin/Radarr - Version 5.19.3.9730
+2025-02-26 09:48:35.0|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 09:48:35.1|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 09:48:35.8|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 09:48:36.1|Info|MigrationController|*** Migrating data source=/config/radarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-02-26 09:48:36.3|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-02-26 09:48:36.3|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-02-26 09:48:36.3|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-02-26 09:48:36.4|Info|DatabaseEngineVersionCheck|SQLite 3.48.0
+2025-02-26 09:48:36.4|Info|FluentMigrator.Runner.MigrationRunner|=> 0.092039s
+2025-02-26 09:48:36.4|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-02-26 09:48:36.4|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0958097s
+2025-02-26 09:48:36.5|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-02-26 09:48:36.5|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-02-26 09:48:36.5|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-02-26 09:48:36.5|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-02-26 09:48:36.5|Info|DatabaseEngineVersionCheck|SQLite 3.48.0
+2025-02-26 09:48:36.5|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0045832s
+2025-02-26 09:48:36.5|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-02-26 09:48:36.5|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0049914s
+2025-02-26 09:48:37.4|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:7878
+2025-02-26 09:48:38.0|Info|CommandExecutor|Starting 2 threads for tasks.
+2025-02-26 09:48:38.1|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2025-02-26 09:48:38.1|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2025-02-26 09:48:38.1|Info|Microsoft.Hosting.Lifetime|Content root path: /app/radarr/bin
+2025-02-26 09:48:38.3|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2025-02-26 09:51:15.9|Info|Microsoft.Hosting.Lifetime|Application is shutting down...
+2025-02-26 09:51:16.0|Info|ConsoleApp|Exiting main.
+2025-02-26 09:51:26.8|Info|Bootstrap|Starting Radarr - /app/radarr/bin/Radarr - Version 5.19.3.9730
+2025-02-26 09:51:27.3|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 09:51:27.3|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 09:51:29.4|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 09:51:30.8|Info|MigrationController|*** Migrating data source=/config/radarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-02-26 09:51:31.3|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-02-26 09:51:31.4|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-02-26 09:51:31.4|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-02-26 09:51:31.5|Info|DatabaseEngineVersionCheck|SQLite 3.48.0
+2025-02-26 09:51:31.5|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1426467s
+2025-02-26 09:51:31.5|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-02-26 09:51:31.5|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1573082s
+2025-02-26 09:51:31.8|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-02-26 09:51:31.9|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-02-26 09:51:31.9|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-02-26 09:51:31.9|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-02-26 09:51:31.9|Info|DatabaseEngineVersionCheck|SQLite 3.48.0
+2025-02-26 09:51:31.9|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0194246s
+2025-02-26 09:51:31.9|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-02-26 09:51:31.9|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0200238s
+2025-02-26 09:51:33.7|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:7878
+2025-02-26 09:51:34.8|Info|CommandExecutor|Starting 2 threads for tasks.
+2025-02-26 09:51:35.2|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2025-02-26 09:51:35.2|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2025-02-26 09:51:35.2|Info|Microsoft.Hosting.Lifetime|Content root path: /app/radarr/bin
+2025-02-26 09:51:35.7|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2025-02-26 09:52:45.0|Info|Microsoft.Hosting.Lifetime|Application is shutting down...
+2025-02-26 09:52:45.1|Info|ConsoleApp|Exiting main.
+2025-02-26 09:52:50.5|Info|Bootstrap|Starting Radarr - /app/radarr/bin/Radarr - Version 5.19.3.9730
+2025-02-26 09:52:50.7|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 09:52:50.7|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 09:52:51.6|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 09:52:52.1|Info|MigrationController|*** Migrating data source=/config/radarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-02-26 09:52:52.6|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-02-26 09:52:52.7|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-02-26 09:52:52.7|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-02-26 09:52:52.8|Info|DatabaseEngineVersionCheck|SQLite 3.48.0
+2025-02-26 09:52:52.8|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1138169s
+2025-02-26 09:52:52.8|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-02-26 09:52:52.8|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1176344s
+2025-02-26 09:52:52.9|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-02-26 09:52:52.9|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-02-26 09:52:52.9|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-02-26 09:52:52.9|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-02-26 09:52:53.0|Info|DatabaseEngineVersionCheck|SQLite 3.48.0
+2025-02-26 09:52:53.0|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0153379s
+2025-02-26 09:52:53.0|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-02-26 09:52:53.0|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0168462s
+2025-02-26 09:52:54.0|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:7878
+2025-02-26 09:52:55.1|Info|CommandExecutor|Starting 2 threads for tasks.
+2025-02-26 09:52:55.5|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2025-02-26 09:52:55.5|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2025-02-26 09:52:55.5|Info|Microsoft.Hosting.Lifetime|Content root path: /app/radarr/bin
+2025-02-26 09:52:55.8|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2025-02-26 09:55:35.4|Info|Microsoft.Hosting.Lifetime|Application is shutting down...
+2025-02-26 09:55:35.5|Info|ConsoleApp|Exiting main.
+2025-02-26 09:55:40.6|Info|Bootstrap|Starting Radarr - /app/radarr/bin/Radarr - Version 5.19.3.9730
+2025-02-26 09:55:40.8|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 09:55:40.9|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 09:55:42.0|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 09:55:42.8|Info|MigrationController|*** Migrating data source=/config/radarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-02-26 09:55:43.0|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-02-26 09:55:43.1|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-02-26 09:55:43.1|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-02-26 09:55:43.3|Info|DatabaseEngineVersionCheck|SQLite 3.48.0
+2025-02-26 09:55:43.3|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1803565s
+2025-02-26 09:55:43.3|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-02-26 09:55:43.3|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1853393s
+2025-02-26 09:55:43.4|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-02-26 09:55:43.4|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-02-26 09:55:43.4|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-02-26 09:55:43.4|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-02-26 09:55:43.4|Info|DatabaseEngineVersionCheck|SQLite 3.48.0
+2025-02-26 09:55:43.4|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0058985s
+2025-02-26 09:55:43.4|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-02-26 09:55:43.4|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0066013s
+2025-02-26 09:55:45.1|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:7878
+2025-02-26 09:55:46.4|Info|CommandExecutor|Starting 2 threads for tasks.
+2025-02-26 09:55:46.8|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2025-02-26 09:55:46.8|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2025-02-26 09:55:46.8|Info|Microsoft.Hosting.Lifetime|Content root path: /app/radarr/bin
+2025-02-26 09:55:47.1|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2025-02-26 09:59:03.1|Info|Microsoft.Hosting.Lifetime|Application is shutting down...
+2025-02-26 09:59:03.2|Info|ConsoleApp|Exiting main.
+2025-02-26 09:59:08.5|Info|Bootstrap|Starting Radarr - /app/radarr/bin/Radarr - Version 5.19.3.9730
+2025-02-26 09:59:08.7|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 09:59:08.8|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 09:59:09.4|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 09:59:09.8|Info|MigrationController|*** Migrating data source=/config/radarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-02-26 09:59:10.0|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-02-26 09:59:10.0|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-02-26 09:59:10.0|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-02-26 09:59:10.1|Info|DatabaseEngineVersionCheck|SQLite 3.48.0
+2025-02-26 09:59:10.1|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0930264s
+2025-02-26 09:59:10.1|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-02-26 09:59:10.1|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0986229s
+2025-02-26 09:59:10.2|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-02-26 09:59:10.2|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-02-26 09:59:10.2|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-02-26 09:59:10.2|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-02-26 09:59:10.3|Info|DatabaseEngineVersionCheck|SQLite 3.48.0
+2025-02-26 09:59:10.3|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0043446s
+2025-02-26 09:59:10.3|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-02-26 09:59:10.3|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0046777s
+2025-02-26 09:59:11.2|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:7878
+2025-02-26 09:59:11.7|Info|CommandExecutor|Starting 2 threads for tasks.
+2025-02-26 09:59:11.9|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2025-02-26 09:59:11.9|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2025-02-26 09:59:11.9|Info|Microsoft.Hosting.Lifetime|Content root path: /app/radarr/bin
+2025-02-26 09:59:12.1|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2025-02-26 10:13:12.0|Info|RssSyncService|Starting RSS Sync
+2025-02-26 10:13:12.4|Info|DownloadDecisionMaker|Processing 5 releases
+2025-02-26 10:13:12.8|Info|RssSyncService|RSS Sync Completed. Reports found: 5, Reports grabbed: 0
+2025-02-26 10:43:42.3|Info|RssSyncService|Starting RSS Sync
+2025-02-26 10:43:42.5|Info|DownloadDecisionMaker|Processing 5 releases
+2025-02-26 10:43:42.5|Info|RssSyncService|RSS Sync Completed. Reports found: 5, Reports grabbed: 0
+2025-02-26 11:13:42.5|Info|RssSyncService|Starting RSS Sync
+2025-02-26 11:13:42.7|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 02/26/2025 07:29:12 and 02/26/2025 09:07:50 UTC. Search may be required.
+2025-02-26 11:13:42.7|Info|DownloadDecisionMaker|Processing 7 releases
+2025-02-26 11:13:42.7|Info|RssSyncService|RSS Sync Completed. Reports found: 7, Reports grabbed: 0
+2025-02-26 11:43:42.7|Info|RssSyncService|Starting RSS Sync
+2025-02-26 11:43:42.9|Info|DownloadDecisionMaker|Processing 7 releases
+2025-02-26 11:43:42.9|Info|RssSyncService|RSS Sync Completed. Reports found: 7, Reports grabbed: 0
+2025-02-26 12:13:43.0|Info|RssSyncService|Starting RSS Sync
+2025-02-26 12:13:43.2|Info|DownloadDecisionMaker|Processing 7 releases
+2025-02-26 12:13:43.2|Info|RssSyncService|RSS Sync Completed. Reports found: 7, Reports grabbed: 0
+2025-02-26 12:43:43.3|Info|RssSyncService|Starting RSS Sync
+2025-02-26 12:43:43.5|Info|DownloadDecisionMaker|Processing 7 releases
+2025-02-26 12:43:43.5|Info|RssSyncService|RSS Sync Completed. Reports found: 7, Reports grabbed: 0
+2025-02-26 13:10:18.4|Info|Microsoft.Hosting.Lifetime|Application is shutting down...
+2025-02-26 13:10:18.5|Info|ConsoleApp|Exiting main.
+2025-02-26 13:10:23.2|Info|Bootstrap|Starting Radarr - /app/radarr/bin/Radarr - Version 5.19.3.9730
+2025-02-26 13:10:23.5|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 13:10:23.5|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 13:10:24.3|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 13:10:24.8|Info|MigrationController|*** Migrating data source=/config/radarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-02-26 13:10:25.0|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-02-26 13:10:25.0|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-02-26 13:10:25.0|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-02-26 13:10:25.1|Info|DatabaseEngineVersionCheck|SQLite 3.48.0
+2025-02-26 13:10:25.1|Info|FluentMigrator.Runner.MigrationRunner|=> 0.091122s
+2025-02-26 13:10:25.1|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-02-26 13:10:25.1|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0947512s
+2025-02-26 13:10:25.2|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-02-26 13:10:25.2|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-02-26 13:10:25.2|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-02-26 13:10:25.2|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-02-26 13:10:25.2|Info|DatabaseEngineVersionCheck|SQLite 3.48.0
+2025-02-26 13:10:25.2|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0049988s
+2025-02-26 13:10:25.2|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-02-26 13:10:25.2|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0054206s
+2025-02-26 13:10:26.1|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:7878
+2025-02-26 13:10:26.5|Info|CommandExecutor|Starting 2 threads for tasks.
+2025-02-26 13:10:26.7|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2025-02-26 13:10:26.7|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2025-02-26 13:10:26.7|Info|Microsoft.Hosting.Lifetime|Content root path: /app/radarr/bin
+2025-02-26 13:10:26.9|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2025-02-26 13:13:56.7|Info|RssSyncService|Starting RSS Sync
+2025-02-26 13:13:57.2|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 02/26/2025 09:29:55 and 02/26/2025 11:03:22 UTC. Search may be required.
+2025-02-26 13:13:57.2|Info|DownloadDecisionMaker|Processing 5 releases
+2025-02-26 13:13:57.7|Info|RssSyncService|RSS Sync Completed. Reports found: 5, Reports grabbed: 0
+2025-02-26 13:25:34.8|Info|Microsoft.Hosting.Lifetime|Application is shutting down...
+2025-02-26 13:25:34.9|Info|ConsoleApp|Exiting main.
+2025-02-26 13:25:40.2|Info|Bootstrap|Starting Radarr - /app/radarr/bin/Radarr - Version 5.19.3.9730
+2025-02-26 13:25:40.4|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 13:25:40.4|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 13:25:41.1|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 13:25:41.5|Info|MigrationController|*** Migrating data source=/config/radarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-02-26 13:25:41.8|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-02-26 13:25:41.8|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-02-26 13:25:41.8|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-02-26 13:25:42.0|Info|DatabaseEngineVersionCheck|SQLite 3.48.0
+2025-02-26 13:25:42.0|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1499956s
+2025-02-26 13:25:42.0|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-02-26 13:25:42.0|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1549121s
+2025-02-26 13:25:42.1|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-02-26 13:25:42.1|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-02-26 13:25:42.1|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-02-26 13:25:42.1|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-02-26 13:25:42.1|Info|DatabaseEngineVersionCheck|SQLite 3.48.0
+2025-02-26 13:25:42.1|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0065497s
+2025-02-26 13:25:42.1|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-02-26 13:25:42.1|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0069103s
+2025-02-26 13:25:43.5|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:7878
+2025-02-26 13:25:44.6|Info|CommandExecutor|Starting 2 threads for tasks.
+2025-02-26 13:25:44.9|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2025-02-26 13:25:44.9|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2025-02-26 13:25:44.9|Info|Microsoft.Hosting.Lifetime|Content root path: /app/radarr/bin
+2025-02-26 13:25:45.3|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2025-02-26 13:44:14.9|Info|RssSyncService|Starting RSS Sync
+2025-02-26 13:44:15.1|Info|DownloadDecisionMaker|Processing 5 releases
+2025-02-26 13:44:15.6|Info|RssSyncService|RSS Sync Completed. Reports found: 5, Reports grabbed: 0
+2025-02-26 14:14:45.1|Info|RssSyncService|Starting RSS Sync
+2025-02-26 14:14:45.3|Info|DownloadDecisionMaker|Processing 5 releases
+2025-02-26 14:14:45.3|Info|RssSyncService|RSS Sync Completed. Reports found: 5, Reports grabbed: 0
+2025-02-26 14:44:45.3|Info|RssSyncService|Starting RSS Sync
+2025-02-26 14:44:45.6|Info|DownloadDecisionMaker|Processing 5 releases
+2025-02-26 14:44:45.6|Info|RssSyncService|RSS Sync Completed. Reports found: 5, Reports grabbed: 0
+2025-02-26 15:14:45.6|Info|RssSyncService|Starting RSS Sync
+2025-02-26 15:14:45.8|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 02/26/2025 11:28:11 and 02/26/2025 13:00:29 UTC. Search may be required.
+2025-02-26 15:14:45.8|Info|DownloadDecisionMaker|Processing 6 releases
+2025-02-26 15:14:45.9|Info|RssSyncService|RSS Sync Completed. Reports found: 6, Reports grabbed: 0
+2025-02-26 15:44:45.9|Info|RssSyncService|Starting RSS Sync
+2025-02-26 15:44:46.0|Info|DownloadDecisionMaker|Processing 6 releases
+2025-02-26 15:44:46.1|Info|RssSyncService|RSS Sync Completed. Reports found: 6, Reports grabbed: 0
+2025-02-26 16:14:46.2|Info|RssSyncService|Starting RSS Sync
+2025-02-26 16:14:46.3|Info|DownloadDecisionMaker|Processing 6 releases
+2025-02-26 16:14:46.3|Info|RssSyncService|RSS Sync Completed. Reports found: 6, Reports grabbed: 0
+2025-02-26 16:44:46.4|Info|RssSyncService|Starting RSS Sync
+2025-02-26 16:44:46.5|Info|DownloadDecisionMaker|Processing 6 releases
+2025-02-26 16:44:46.5|Info|RssSyncService|RSS Sync Completed. Reports found: 6, Reports grabbed: 0
+2025-02-26 17:14:46.6|Info|RssSyncService|Starting RSS Sync
+2025-02-26 17:14:46.6|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 02/26/2025 13:24:07 and 02/26/2025 14:36:50 UTC. Search may be required.
+2025-02-26 17:14:46.6|Info|DownloadDecisionMaker|Processing 6 releases
+2025-02-26 17:14:46.7|Info|RssSyncService|RSS Sync Completed. Reports found: 6, Reports grabbed: 0
+2025-02-26 17:44:46.8|Info|RssSyncService|Starting RSS Sync
+2025-02-26 17:44:47.2|Info|DownloadDecisionMaker|Processing 6 releases
+2025-02-26 17:44:47.2|Info|RssSyncService|RSS Sync Completed. Reports found: 6, Reports grabbed: 0
+2025-02-26 18:15:17.2|Info|RssSyncService|Starting RSS Sync
+2025-02-26 18:15:17.3|Info|DownloadDecisionMaker|Processing 6 releases
+2025-02-26 18:15:17.4|Info|RssSyncService|RSS Sync Completed. Reports found: 6, Reports grabbed: 0
+2025-02-26 18:45:17.5|Info|RssSyncService|Starting RSS Sync
+2025-02-26 18:45:17.6|Info|DownloadDecisionMaker|Processing 6 releases
+2025-02-26 18:45:17.6|Info|RssSyncService|RSS Sync Completed. Reports found: 6, Reports grabbed: 0
+2025-02-26 19:15:17.7|Info|RssSyncService|Starting RSS Sync
+2025-02-26 19:15:17.9|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 02/26/2025 15:28:25 and 02/26/2025 16:59:15 UTC. Search may be required.
+2025-02-26 19:15:17.9|Info|DownloadDecisionMaker|Processing 6 releases
+2025-02-26 19:15:17.9|Info|RssSyncService|RSS Sync Completed. Reports found: 6, Reports grabbed: 0
+2025-02-26 19:45:17.9|Info|RssSyncService|Starting RSS Sync
+2025-02-26 19:45:18.1|Info|DownloadDecisionMaker|Processing 6 releases
+2025-02-26 19:45:18.1|Info|RssSyncService|RSS Sync Completed. Reports found: 6, Reports grabbed: 0
+2025-02-26 20:15:48.1|Info|RssSyncService|Starting RSS Sync
+2025-02-26 20:15:48.3|Info|DownloadDecisionMaker|Processing 6 releases
+2025-02-26 20:15:48.3|Info|RssSyncService|RSS Sync Completed. Reports found: 6, Reports grabbed: 0
+2025-02-26 20:45:48.4|Info|RssSyncService|Starting RSS Sync
+2025-02-26 20:45:48.5|Info|DownloadDecisionMaker|Processing 6 releases
+2025-02-26 20:45:48.5|Info|RssSyncService|RSS Sync Completed. Reports found: 6, Reports grabbed: 0
+2025-02-26 21:15:48.7|Info|RssSyncService|Starting RSS Sync
+2025-02-26 21:15:48.9|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 02/26/2025 17:30:14 and 02/26/2025 19:18:01 UTC. Search may be required.
+2025-02-26 21:15:48.9|Info|DownloadDecisionMaker|Processing 2 releases
+2025-02-26 21:15:48.9|Info|RssSyncService|RSS Sync Completed. Reports found: 2, Reports grabbed: 0
+2025-02-26 21:45:48.9|Info|RssSyncService|Starting RSS Sync
+2025-02-26 21:45:49.1|Info|DownloadDecisionMaker|Processing 2 releases
+2025-02-26 21:45:49.1|Info|RssSyncService|RSS Sync Completed. Reports found: 2, Reports grabbed: 0
+2025-02-26 22:15:49.2|Info|RssSyncService|Starting RSS Sync
+2025-02-26 22:15:49.4|Info|DownloadDecisionMaker|Processing 2 releases
+2025-02-26 22:15:49.4|Info|RssSyncService|RSS Sync Completed. Reports found: 2, Reports grabbed: 0
+2025-02-26 22:45:49.6|Info|RssSyncService|Starting RSS Sync
+2025-02-26 22:45:49.8|Info|DownloadDecisionMaker|Processing 2 releases
+2025-02-26 22:45:49.8|Info|RssSyncService|RSS Sync Completed. Reports found: 2, Reports grabbed: 0
+2025-02-26 23:15:49.8|Info|RssSyncService|Starting RSS Sync
+2025-02-26 23:15:49.9|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 02/26/2025 19:27:06 and 02/26/2025 21:09:57 UTC. Search may be required.
+2025-02-26 23:15:49.9|Info|DownloadDecisionMaker|Processing 4 releases
+2025-02-26 23:15:49.9|Info|RssSyncService|RSS Sync Completed. Reports found: 4, Reports grabbed: 0
+2025-02-26 23:18:49.9|Info|HousekeepingService|Running housecleaning tasks
+2025-02-26 23:18:49.9|Info|RecycleBinProvider|Recycle Bin has not been configured, cannot cleanup.
+2025-02-26 23:18:49.9|Warn|DiskScanService|Movie's root folder (/data/movies/) is empty. Rescan will not update movies as a failsafe.
+2025-02-26 23:18:50.0|Info|Database|Vacuuming Log database
+2025-02-26 23:18:50.0|Info|Database|Log database compressed
+2025-02-26 23:18:50.0|Info|Database|Vacuuming Main database
+2025-02-26 23:18:50.0|Info|Database|Main database compressed
+2025-02-26 23:45:50.1|Info|RssSyncService|Starting RSS Sync
+2025-02-26 23:45:50.3|Info|DownloadDecisionMaker|Processing 4 releases
+2025-02-26 23:45:50.3|Info|RssSyncService|RSS Sync Completed. Reports found: 4, Reports grabbed: 0
+2025-02-27 00:15:50.4|Info|RssSyncService|Starting RSS Sync
+2025-02-27 00:15:50.5|Info|DownloadDecisionMaker|Processing 4 releases
+2025-02-27 00:15:50.5|Info|RssSyncService|RSS Sync Completed. Reports found: 4, Reports grabbed: 0
+2025-02-27 00:45:50.6|Info|RssSyncService|Starting RSS Sync
+2025-02-27 00:45:50.8|Info|DownloadDecisionMaker|Processing 4 releases
+2025-02-27 00:45:50.8|Info|RssSyncService|RSS Sync Completed. Reports found: 4, Reports grabbed: 0
+2025-02-27 01:15:50.9|Info|RssSyncService|Starting RSS Sync
+2025-02-27 01:15:51.0|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 02/26/2025 21:29:00 and 02/26/2025 23:10:13 UTC. Search may be required.
+2025-02-27 01:15:51.0|Info|DownloadDecisionMaker|Processing 2 releases
+2025-02-27 01:15:51.0|Info|RssSyncService|RSS Sync Completed. Reports found: 2, Reports grabbed: 0
+2025-02-27 01:45:51.2|Info|RssSyncService|Starting RSS Sync
+2025-02-27 01:45:51.5|Info|DownloadDecisionMaker|Processing 2 releases
+2025-02-27 01:45:51.5|Info|RssSyncService|RSS Sync Completed. Reports found: 2, Reports grabbed: 0
+2025-02-27 02:16:21.4|Info|RssSyncService|Starting RSS Sync
+2025-02-27 02:16:21.6|Info|DownloadDecisionMaker|Processing 2 releases
+2025-02-27 02:16:21.6|Info|RssSyncService|RSS Sync Completed. Reports found: 2, Reports grabbed: 0
+2025-02-27 02:46:21.7|Info|RssSyncService|Starting RSS Sync
+2025-02-27 02:46:21.8|Info|DownloadDecisionMaker|Processing 2 releases
+2025-02-27 02:46:21.8|Info|RssSyncService|RSS Sync Completed. Reports found: 2, Reports grabbed: 0
+2025-02-27 03:16:22.0|Info|RssSyncService|Starting RSS Sync
+2025-02-27 03:16:22.2|Info|DownloadDecisionMaker|No results found
+2025-02-27 03:16:22.2|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-02-27 03:46:22.4|Info|RssSyncService|Starting RSS Sync
+2025-02-27 03:46:22.5|Info|DownloadDecisionMaker|No results found
+2025-02-27 03:46:22.5|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-02-27 04:12:33.0|Info|Microsoft.Hosting.Lifetime|Application is shutting down...
+2025-02-27 04:12:33.2|Info|ConsoleApp|Exiting main.
+2025-03-02 23:36:13.8|Info|Bootstrap|Starting Radarr - /app/radarr/bin/Radarr - Version 5.19.3.9730
+2025-03-02 23:36:14.0|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-03-02 23:36:14.1|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-03-02 23:36:15.1|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-03-02 23:36:15.6|Info|MigrationController|*** Migrating data source=/config/radarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-03-02 23:36:15.9|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-03-02 23:36:16.0|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-03-02 23:36:16.0|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-03-02 23:36:16.2|Info|DatabaseEngineVersionCheck|SQLite 3.48.0
+2025-03-02 23:36:16.3|Info|FluentMigrator.Runner.MigrationRunner|=> 0.2482076s
+2025-03-02 23:36:16.3|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-03-02 23:36:16.3|Info|FluentMigrator.Runner.MigrationRunner|=> 0.2531682s
+2025-03-02 23:36:16.4|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-03-02 23:36:16.4|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-03-02 23:36:16.4|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-03-02 23:36:16.4|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-03-02 23:36:16.4|Info|DatabaseEngineVersionCheck|SQLite 3.48.0
+2025-03-02 23:36:16.4|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0106805s
+2025-03-02 23:36:16.4|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-03-02 23:36:16.4|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0114551s
+2025-03-02 23:36:17.8|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:7878
+2025-03-02 23:36:18.8|Info|CommandExecutor|Starting 2 threads for tasks.
+2025-03-02 23:36:19.0|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2025-03-02 23:36:19.0|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2025-03-02 23:36:19.0|Info|Microsoft.Hosting.Lifetime|Content root path: /app/radarr/bin
+2025-03-02 23:36:19.4|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2025-03-02 23:36:54.9|Info|RecycleBinProvider|Recycle Bin has not been configured, cannot cleanup.
+2025-03-02 23:36:55.3|Info|RssSyncService|Starting RSS Sync
+2025-03-02 23:36:55.9|Info|HousekeepingService|Running housecleaning tasks
+2025-03-02 23:36:56.3|Warn|DiskScanService|Movie's root folder (/data/movies/) is empty. Rescan will not update movies as a failsafe.
+2025-03-02 23:36:56.3|Info|Database|Vacuuming Log database
+2025-03-02 23:36:56.3|Info|Database|Log database compressed
+2025-03-02 23:36:56.3|Info|Database|Vacuuming Main database
+2025-03-02 23:36:56.4|Info|Database|Main database compressed
+2025-03-02 23:36:57.2|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 02/26/2025 23:25:17 and 03/02/2025 20:55:07 UTC. Search may be required.
+2025-03-02 23:36:57.3|Info|DownloadDecisionMaker|Processing 2 releases
+2025-03-02 23:36:59.5|Info|RssSyncService|RSS Sync Completed. Reports found: 2, Reports grabbed: 0
+2025-03-03 00:07:25.6|Info|RssSyncService|Starting RSS Sync
+2025-03-03 00:07:27.5|Info|DownloadDecisionMaker|Processing 2 releases
+2025-03-03 00:07:27.5|Info|RssSyncService|RSS Sync Completed. Reports found: 2, Reports grabbed: 0
+2025-03-03 14:36:47.7|Info|Bootstrap|Starting Radarr - /app/radarr/bin/Radarr - Version 5.19.3.9730
+2025-03-03 14:36:47.8|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-03-03 14:36:47.8|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-03-03 14:36:48.4|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-03-03 14:36:48.7|Info|MigrationController|*** Migrating data source=/config/radarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-03-03 14:36:48.8|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-03-03 14:36:48.9|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-03-03 14:36:48.9|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-03-03 14:36:48.9|Info|DatabaseEngineVersionCheck|SQLite 3.48.0
+2025-03-03 14:36:48.9|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0720302s
+2025-03-03 14:36:48.9|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-03-03 14:36:48.9|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0742756s
+2025-03-03 14:36:49.0|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-03-03 14:36:49.0|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-03-03 14:36:49.0|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-03-03 14:36:49.0|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-03-03 14:36:49.0|Info|DatabaseEngineVersionCheck|SQLite 3.48.0
+2025-03-03 14:36:49.0|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0022264s
+2025-03-03 14:36:49.0|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-03-03 14:36:49.0|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0024321s
+2025-03-03 14:36:49.5|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:7878
+2025-03-03 14:36:50.1|Info|CommandExecutor|Starting 2 threads for tasks.
+2025-03-03 14:36:50.3|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2025-03-03 14:36:50.3|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2025-03-03 14:36:50.3|Info|Microsoft.Hosting.Lifetime|Content root path: /app/radarr/bin
+2025-03-03 14:36:50.5|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2025-03-03 14:37:20.8|Info|RssSyncService|Starting RSS Sync
+2025-03-03 14:37:23.5|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 03/02/2025 21:25:16 and 03/03/2025 10:59:46 UTC. Search may be required.
+2025-03-03 14:37:23.5|Info|DownloadDecisionMaker|Processing 7 releases
+2025-03-03 14:37:24.6|Info|RssSyncService|RSS Sync Completed. Reports found: 7, Reports grabbed: 0

@@ -1757,3 +1757,573 @@
 2025-02-26 09:13:05.3|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020, 2040, 2060, 2030, 2045]
 2025-02-26 09:13:35.9|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
 2025-02-26 09:13:35.9|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-26 09:29:05.8|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-26 09:29:05.8|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-26 09:43:05.7|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020, 2040, 2060, 2030, 2045]
+2025-02-26 09:44:22.9|Info|Microsoft.Hosting.Lifetime|Application is shutting down...
+2025-02-26 09:44:23.0|Info|ConsoleApp|Exiting main.
+2025-02-26 09:44:56.7|Info|Bootstrap|Starting Prowlarr - /app/prowlarr/bin/Prowlarr - Version 1.31.2.4975
+2025-02-26 09:44:57.0|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 09:44:57.1|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 09:44:57.8|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 09:44:58.3|Info|MigrationController|*** Migrating data source=/config/prowlarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-02-26 09:44:58.5|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-02-26 09:44:58.6|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-02-26 09:44:58.6|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-02-26 09:44:58.7|Info|DatabaseEngineVersionCheck|SQLite 3.48.0
+2025-02-26 09:44:58.7|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1215857s
+2025-02-26 09:44:58.7|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-02-26 09:44:58.7|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1268154s
+2025-02-26 09:44:58.8|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-02-26 09:44:58.8|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-02-26 09:44:58.8|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-02-26 09:44:58.8|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-02-26 09:44:58.9|Info|DatabaseEngineVersionCheck|SQLite 3.48.0
+2025-02-26 09:44:58.9|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0132341s
+2025-02-26 09:44:58.9|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-02-26 09:44:58.9|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0136616s
+2025-02-26 09:44:59.8|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:9696
+2025-02-26 09:45:00.5|Info|CommandExecutor|Starting 3 threads for tasks.
+2025-02-26 09:45:01.1|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2025-02-26 09:45:02.0|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2025-02-26 09:45:02.0|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2025-02-26 09:45:02.0|Info|Microsoft.Hosting.Lifetime|Content root path: /app/prowlarr/bin
+2025-02-26 09:45:32.7|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-26 09:45:32.7|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-26 09:48:29.7|Info|Microsoft.Hosting.Lifetime|Application is shutting down...
+2025-02-26 09:48:29.8|Info|ConsoleApp|Exiting main.
+2025-02-26 09:48:35.0|Info|Bootstrap|Starting Prowlarr - /app/prowlarr/bin/Prowlarr - Version 1.31.2.4975
+2025-02-26 09:48:35.3|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 09:48:35.4|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 09:48:36.0|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 09:48:36.4|Info|MigrationController|*** Migrating data source=/config/prowlarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-02-26 09:48:36.6|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-02-26 09:48:36.6|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-02-26 09:48:36.6|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-02-26 09:48:36.7|Info|DatabaseEngineVersionCheck|SQLite 3.48.0
+2025-02-26 09:48:36.7|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0924976s
+2025-02-26 09:48:36.7|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-02-26 09:48:36.7|Info|FluentMigrator.Runner.MigrationRunner|=> 0.098126s
+2025-02-26 09:48:36.8|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-02-26 09:48:36.8|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-02-26 09:48:36.8|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-02-26 09:48:36.8|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-02-26 09:48:36.8|Info|DatabaseEngineVersionCheck|SQLite 3.48.0
+2025-02-26 09:48:36.8|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0065814s
+2025-02-26 09:48:36.8|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-02-26 09:48:36.8|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0072887s
+2025-02-26 09:48:37.4|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:9696
+2025-02-26 09:48:37.8|Info|CommandExecutor|Starting 3 threads for tasks.
+2025-02-26 09:48:38.2|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2025-02-26 09:48:39.0|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2025-02-26 09:48:39.0|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2025-02-26 09:48:39.0|Info|Microsoft.Hosting.Lifetime|Content root path: /app/prowlarr/bin
+2025-02-26 09:51:15.8|Info|Microsoft.Hosting.Lifetime|Application is shutting down...
+2025-02-26 09:51:16.0|Info|ConsoleApp|Exiting main.
+2025-02-26 09:51:27.7|Info|Bootstrap|Starting Prowlarr - /app/prowlarr/bin/Prowlarr - Version 1.31.2.4975
+2025-02-26 09:51:28.1|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 09:51:28.1|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 09:51:29.9|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 09:51:31.1|Info|MigrationController|*** Migrating data source=/config/prowlarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-02-26 09:51:31.4|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-02-26 09:51:31.5|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-02-26 09:51:31.5|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-02-26 09:51:31.6|Info|DatabaseEngineVersionCheck|SQLite 3.48.0
+2025-02-26 09:51:31.6|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1316834s
+2025-02-26 09:51:31.6|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-02-26 09:51:31.6|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1369189s
+2025-02-26 09:51:31.7|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-02-26 09:51:31.8|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-02-26 09:51:31.8|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-02-26 09:51:31.8|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-02-26 09:51:31.8|Info|DatabaseEngineVersionCheck|SQLite 3.48.0
+2025-02-26 09:51:31.8|Info|FluentMigrator.Runner.MigrationRunner|=> 0.015456s
+2025-02-26 09:51:31.8|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-02-26 09:51:31.8|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0175182s
+2025-02-26 09:51:33.3|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:9696
+2025-02-26 09:51:33.6|Info|CommandExecutor|Starting 3 threads for tasks.
+2025-02-26 09:51:34.2|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2025-02-26 09:51:36.0|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2025-02-26 09:51:36.0|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2025-02-26 09:51:36.0|Info|Microsoft.Hosting.Lifetime|Content root path: /app/prowlarr/bin
+2025-02-26 09:52:45.0|Info|Microsoft.Hosting.Lifetime|Application is shutting down...
+2025-02-26 09:52:45.1|Info|ConsoleApp|Exiting main.
+2025-02-26 09:52:50.4|Info|Bootstrap|Starting Prowlarr - /app/prowlarr/bin/Prowlarr - Version 1.31.2.4975
+2025-02-26 09:52:50.7|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 09:52:50.7|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 09:52:51.3|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 09:52:51.9|Info|MigrationController|*** Migrating data source=/config/prowlarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-02-26 09:52:52.1|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-02-26 09:52:52.2|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-02-26 09:52:52.2|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-02-26 09:52:52.3|Info|DatabaseEngineVersionCheck|SQLite 3.48.0
+2025-02-26 09:52:52.3|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1739742s
+2025-02-26 09:52:52.3|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-02-26 09:52:52.3|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1873838s
+2025-02-26 09:52:52.5|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-02-26 09:52:52.5|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-02-26 09:52:52.5|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-02-26 09:52:52.5|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-02-26 09:52:52.5|Info|DatabaseEngineVersionCheck|SQLite 3.48.0
+2025-02-26 09:52:52.5|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0082892s
+2025-02-26 09:52:52.5|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-02-26 09:52:52.5|Info|FluentMigrator.Runner.MigrationRunner|=> 0.010227s
+2025-02-26 09:52:53.3|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:9696
+2025-02-26 09:52:53.6|Info|CommandExecutor|Starting 3 threads for tasks.
+2025-02-26 09:52:54.1|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2025-02-26 09:52:55.9|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2025-02-26 09:52:55.9|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2025-02-26 09:52:55.9|Info|Microsoft.Hosting.Lifetime|Content root path: /app/prowlarr/bin
+2025-02-26 09:55:35.3|Info|Microsoft.Hosting.Lifetime|Application is shutting down...
+2025-02-26 09:55:35.5|Info|ConsoleApp|Exiting main.
+2025-02-26 09:55:40.7|Info|Bootstrap|Starting Prowlarr - /app/prowlarr/bin/Prowlarr - Version 1.31.2.4975
+2025-02-26 09:55:41.0|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 09:55:41.0|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 09:55:42.0|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 09:55:42.6|Info|MigrationController|*** Migrating data source=/config/prowlarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-02-26 09:55:42.9|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-02-26 09:55:43.0|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-02-26 09:55:43.0|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-02-26 09:55:43.1|Info|DatabaseEngineVersionCheck|SQLite 3.48.0
+2025-02-26 09:55:43.2|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1498653s
+2025-02-26 09:55:43.2|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-02-26 09:55:43.2|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1587151s
+2025-02-26 09:55:43.3|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-02-26 09:55:43.3|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-02-26 09:55:43.3|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-02-26 09:55:43.3|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-02-26 09:55:43.3|Info|DatabaseEngineVersionCheck|SQLite 3.48.0
+2025-02-26 09:55:43.3|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0079813s
+2025-02-26 09:55:43.3|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-02-26 09:55:43.3|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0135451s
+2025-02-26 09:55:44.2|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:9696
+2025-02-26 09:55:45.5|Info|CommandExecutor|Starting 3 threads for tasks.
+2025-02-26 09:55:46.3|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2025-02-26 09:55:47.5|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2025-02-26 09:55:47.5|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2025-02-26 09:55:47.5|Info|Microsoft.Hosting.Lifetime|Content root path: /app/prowlarr/bin
+2025-02-26 09:59:03.1|Info|Microsoft.Hosting.Lifetime|Application is shutting down...
+2025-02-26 09:59:03.2|Info|ConsoleApp|Exiting main.
+2025-02-26 09:59:08.6|Info|Bootstrap|Starting Prowlarr - /app/prowlarr/bin/Prowlarr - Version 1.31.2.4975
+2025-02-26 09:59:08.9|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 09:59:08.9|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 09:59:09.5|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 09:59:09.9|Info|MigrationController|*** Migrating data source=/config/prowlarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-02-26 09:59:10.0|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-02-26 09:59:10.1|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-02-26 09:59:10.1|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-02-26 09:59:10.2|Info|DatabaseEngineVersionCheck|SQLite 3.48.0
+2025-02-26 09:59:10.2|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0898321s
+2025-02-26 09:59:10.2|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-02-26 09:59:10.2|Info|FluentMigrator.Runner.MigrationRunner|=> 0.094407s
+2025-02-26 09:59:10.3|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-02-26 09:59:10.3|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-02-26 09:59:10.3|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-02-26 09:59:10.3|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-02-26 09:59:10.3|Info|DatabaseEngineVersionCheck|SQLite 3.48.0
+2025-02-26 09:59:10.3|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0051425s
+2025-02-26 09:59:10.3|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-02-26 09:59:10.3|Info|FluentMigrator.Runner.MigrationRunner|=> 0.008696s
+2025-02-26 09:59:10.9|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:9696
+2025-02-26 09:59:11.2|Info|CommandExecutor|Starting 3 threads for tasks.
+2025-02-26 09:59:11.6|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2025-02-26 09:59:12.5|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2025-02-26 09:59:12.5|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2025-02-26 09:59:12.5|Info|Microsoft.Hosting.Lifetime|Content root path: /app/prowlarr/bin
+2025-02-26 10:00:42.1|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-26 10:00:42.1|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-26 10:13:12.1|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020, 2040, 2060, 2030, 2045]
+2025-02-26 10:16:12.1|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-26 10:16:12.1|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-26 10:31:42.2|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-26 10:31:42.2|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-26 10:43:42.3|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020, 2040, 2060, 2030, 2045]
+2025-02-26 10:47:12.3|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-26 10:47:12.3|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-26 11:02:42.4|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-26 11:02:42.4|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-26 11:13:42.5|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020, 2040, 2060, 2030, 2045]
+2025-02-26 11:18:12.5|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-26 11:18:12.5|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-26 11:33:42.6|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-26 11:33:42.6|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-26 11:43:42.7|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020, 2040, 2060, 2030, 2045]
+2025-02-26 11:49:12.8|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-26 11:49:12.8|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-26 12:04:42.9|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-26 12:04:42.9|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-26 12:13:43.0|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020, 2040, 2060, 2030, 2045]
+2025-02-26 12:20:13.1|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-26 12:20:13.1|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-26 12:35:43.2|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-26 12:35:43.2|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-26 12:43:43.3|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020, 2040, 2060, 2030, 2045]
+2025-02-26 12:51:13.3|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-26 12:51:13.3|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-26 13:06:43.4|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-26 13:06:43.4|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-26 13:10:18.4|Info|Microsoft.Hosting.Lifetime|Application is shutting down...
+2025-02-26 13:10:18.5|Info|ConsoleApp|Exiting main.
+2025-02-26 13:10:23.7|Info|Bootstrap|Starting Prowlarr - /app/prowlarr/bin/Prowlarr - Version 1.31.2.4975
+2025-02-26 13:10:24.0|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 13:10:24.1|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 13:10:24.9|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 13:10:25.3|Info|MigrationController|*** Migrating data source=/config/prowlarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-02-26 13:10:25.5|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-02-26 13:10:25.5|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-02-26 13:10:25.5|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-02-26 13:10:25.6|Info|DatabaseEngineVersionCheck|SQLite 3.48.0
+2025-02-26 13:10:25.6|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0977216s
+2025-02-26 13:10:25.6|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-02-26 13:10:25.6|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1021565s
+2025-02-26 13:10:25.7|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-02-26 13:10:25.7|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-02-26 13:10:25.7|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-02-26 13:10:25.7|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-02-26 13:10:25.7|Info|DatabaseEngineVersionCheck|SQLite 3.48.0
+2025-02-26 13:10:25.7|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0056725s
+2025-02-26 13:10:25.7|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-02-26 13:10:25.7|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0063708s
+2025-02-26 13:10:26.3|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:9696
+2025-02-26 13:10:26.6|Info|CommandExecutor|Starting 3 threads for tasks.
+2025-02-26 13:10:26.9|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2025-02-26 13:10:27.9|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2025-02-26 13:10:27.9|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2025-02-26 13:10:27.9|Info|Microsoft.Hosting.Lifetime|Content root path: /app/prowlarr/bin
+2025-02-26 13:13:56.8|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020, 2040, 2060, 2030, 2045]
+2025-02-26 13:21:57.4|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-26 13:21:57.4|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-26 13:25:34.8|Info|Microsoft.Hosting.Lifetime|Application is shutting down...
+2025-02-26 13:25:34.9|Info|ConsoleApp|Exiting main.
+2025-02-26 13:25:40.4|Info|Bootstrap|Starting Prowlarr - /app/prowlarr/bin/Prowlarr - Version 1.31.2.4975
+2025-02-26 13:25:40.8|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 13:25:40.8|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 13:25:41.6|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-02-26 13:25:42.2|Info|MigrationController|*** Migrating data source=/config/prowlarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-02-26 13:25:42.4|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-02-26 13:25:42.5|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-02-26 13:25:42.5|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-02-26 13:25:42.7|Info|DatabaseEngineVersionCheck|SQLite 3.48.0
+2025-02-26 13:25:42.7|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1491218s
+2025-02-26 13:25:42.7|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-02-26 13:25:42.7|Info|FluentMigrator.Runner.MigrationRunner|=> 0.163988s
+2025-02-26 13:25:42.8|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-02-26 13:25:42.8|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-02-26 13:25:42.8|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-02-26 13:25:42.8|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-02-26 13:25:42.8|Info|DatabaseEngineVersionCheck|SQLite 3.48.0
+2025-02-26 13:25:42.8|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0051212s
+2025-02-26 13:25:42.9|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-02-26 13:25:42.9|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0061041s
+2025-02-26 13:25:43.9|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:9696
+2025-02-26 13:25:44.4|Info|CommandExecutor|Starting 3 threads for tasks.
+2025-02-26 13:25:44.7|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2025-02-26 13:25:46.6|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2025-02-26 13:25:46.6|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2025-02-26 13:25:46.6|Info|Microsoft.Hosting.Lifetime|Content root path: /app/prowlarr/bin
+2025-02-26 13:37:15.0|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-26 13:37:15.0|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-26 13:44:15.0|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020, 2040, 2060, 2030, 2045]
+2025-02-26 13:52:44.9|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-26 13:52:44.9|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-26 14:08:15.1|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-26 14:08:15.1|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-26 14:14:45.1|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020, 2040, 2060, 2030, 2045]
+2025-02-26 14:23:45.2|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-26 14:23:45.2|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-26 14:39:15.3|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-26 14:39:15.3|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-26 14:44:45.4|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020, 2040, 2060, 2030, 2045]
+2025-02-26 14:54:45.5|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-26 14:54:45.5|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-26 15:10:15.6|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-26 15:10:15.6|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-26 15:14:45.7|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020, 2040, 2060, 2030, 2045]
+2025-02-26 15:25:45.8|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-26 15:25:45.8|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-26 15:41:15.9|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-26 15:41:15.9|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-26 15:44:45.9|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020, 2040, 2060, 2030, 2045]
+2025-02-26 15:56:46.0|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-26 15:56:46.0|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-26 16:12:16.1|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-26 16:12:16.1|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-26 16:14:46.2|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020, 2040, 2060, 2030, 2045]
+2025-02-26 16:27:46.2|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-26 16:27:46.2|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-26 16:43:16.3|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-26 16:43:16.3|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-26 16:44:46.4|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020, 2040, 2060, 2030, 2045]
+2025-02-26 16:58:46.4|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-26 16:58:46.4|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-26 17:14:16.6|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-26 17:14:16.6|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-26 17:14:46.6|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020, 2040, 2060, 2030, 2045]
+2025-02-26 17:29:46.7|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-26 17:29:46.7|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-26 17:44:46.9|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020, 2040, 2060, 2030, 2045]
+2025-02-26 17:45:16.9|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-26 17:45:16.9|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-26 18:00:47.0|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-26 18:00:47.0|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-26 18:15:17.2|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020, 2040, 2060, 2030, 2045]
+2025-02-26 18:16:17.2|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-26 18:16:17.2|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-26 18:31:47.3|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-26 18:31:47.3|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-26 18:45:17.5|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020, 2040, 2060, 2030, 2045]
+2025-02-26 18:47:17.5|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-26 18:47:17.5|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-26 19:02:47.6|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-26 19:02:47.6|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-26 19:15:17.7|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020, 2040, 2060, 2030, 2045]
+2025-02-26 19:18:17.7|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-26 19:18:17.7|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-26 19:33:47.9|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-26 19:33:47.9|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-26 19:45:17.9|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020, 2040, 2060, 2030, 2045]
+2025-02-26 19:49:18.0|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-26 19:49:18.0|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-26 20:04:48.1|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-26 20:04:48.1|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-26 20:15:48.2|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020, 2040, 2060, 2030, 2045]
+2025-02-26 20:20:18.2|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-26 20:20:18.2|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-26 20:35:48.3|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-26 20:35:48.3|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-26 20:45:48.4|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020, 2040, 2060, 2030, 2045]
+2025-02-26 20:51:18.5|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-26 20:51:18.5|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-26 21:06:48.6|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-26 21:06:48.6|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-26 21:15:48.7|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020, 2040, 2060, 2030, 2045]
+2025-02-26 21:22:18.7|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-26 21:22:18.7|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-26 21:37:48.9|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-26 21:37:48.9|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-26 21:45:48.9|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020, 2040, 2060, 2030, 2045]
+2025-02-26 21:53:19.0|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-26 21:53:19.0|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-26 22:08:49.2|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-26 22:08:49.2|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-26 22:15:49.3|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020, 2040, 2060, 2030, 2045]
+2025-02-26 22:24:19.4|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-26 22:24:19.4|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-26 22:39:49.5|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-26 22:39:49.5|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-26 22:45:49.6|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020, 2040, 2060, 2030, 2045]
+2025-02-26 22:55:19.7|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-26 22:55:19.7|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-26 23:10:49.8|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-26 23:10:49.8|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-26 23:15:49.8|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020, 2040, 2060, 2030, 2045]
+2025-02-26 23:18:46.7|Info|HistoryService|Removing items older than 30 days from history
+2025-02-26 23:18:46.7|Info|HousekeepingService|Running housecleaning tasks
+2025-02-26 23:18:46.7|Info|Database|Vacuuming Log database
+2025-02-26 23:18:46.7|Info|Database|Log database compressed
+2025-02-26 23:18:46.7|Info|Database|Vacuuming Main database
+2025-02-26 23:18:46.7|Info|Database|Main database compressed
+2025-02-26 23:26:20.0|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-26 23:26:20.0|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-26 23:41:50.2|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-26 23:41:50.2|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-26 23:45:50.2|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020, 2040, 2060, 2030, 2045]
+2025-02-26 23:57:20.3|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-26 23:57:20.3|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-27 00:12:50.4|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-27 00:12:50.4|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-27 00:15:50.4|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020, 2040, 2060, 2030, 2045]
+2025-02-27 00:28:20.5|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-27 00:28:20.5|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-27 00:43:50.6|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-27 00:43:50.6|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-27 00:45:50.7|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020, 2040, 2060, 2030, 2045]
+2025-02-27 00:59:20.7|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-27 00:59:20.7|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-27 01:14:50.9|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-27 01:14:50.9|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-27 01:15:50.9|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020, 2040, 2060, 2030, 2045]
+2025-02-27 01:30:21.1|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-27 01:30:21.1|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-27 01:45:51.2|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-27 01:45:51.2|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020, 2040, 2060, 2030, 2045]
+2025-02-27 01:45:51.2|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-27 02:01:21.4|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-27 02:01:21.4|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-27 02:16:21.5|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020, 2040, 2060, 2030, 2045]
+2025-02-27 02:16:51.5|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-27 02:16:51.5|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-27 02:32:21.6|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-27 02:32:21.6|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-27 02:46:21.7|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020, 2040, 2060, 2030, 2045]
+2025-02-27 02:47:51.8|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-27 02:47:51.8|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-27 03:03:21.9|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-27 03:03:21.9|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-27 03:16:22.0|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020, 2040, 2060, 2030, 2045]
+2025-02-27 03:18:52.0|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-27 03:18:52.0|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-27 03:34:22.2|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-27 03:34:22.2|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-27 03:46:22.4|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020, 2040, 2060, 2030, 2045]
+2025-02-27 03:49:52.4|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-27 03:49:52.4|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-27 04:05:22.5|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-02-27 04:05:22.5|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-02-27 04:12:33.2|Info|Microsoft.Hosting.Lifetime|Application is shutting down...
+2025-02-27 04:12:33.4|Info|ConsoleApp|Exiting main.
+2025-03-02 23:36:14.1|Info|Bootstrap|Starting Prowlarr - /app/prowlarr/bin/Prowlarr - Version 1.31.2.4975
+2025-03-02 23:36:14.4|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-03-02 23:36:14.5|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-03-02 23:36:15.6|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-03-02 23:36:16.3|Info|MigrationController|*** Migrating data source=/config/prowlarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-03-02 23:36:16.5|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-03-02 23:36:16.5|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-03-02 23:36:16.5|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-03-02 23:36:16.7|Info|DatabaseEngineVersionCheck|SQLite 3.48.0
+2025-03-02 23:36:16.7|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1806796s
+2025-03-02 23:36:16.7|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-03-02 23:36:16.7|Info|FluentMigrator.Runner.MigrationRunner|=> 0.1863593s
+2025-03-02 23:36:16.9|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-03-02 23:36:16.9|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-03-02 23:36:16.9|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-03-02 23:36:16.9|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-03-02 23:36:16.9|Info|DatabaseEngineVersionCheck|SQLite 3.48.0
+2025-03-02 23:36:16.9|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0114576s
+2025-03-02 23:36:16.9|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-03-02 23:36:16.9|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0122238s
+2025-03-02 23:36:18.0|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:9696
+2025-03-02 23:36:18.6|Info|CommandExecutor|Starting 3 threads for tasks.
+2025-03-02 23:36:19.1|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2025-03-02 23:36:20.5|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2025-03-02 23:36:20.5|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2025-03-02 23:36:20.5|Info|Microsoft.Hosting.Lifetime|Content root path: /app/prowlarr/bin
+2025-03-02 23:36:54.7|Info|HistoryService|Removing items older than 30 days from history
+2025-03-02 23:36:55.1|Info|HousekeepingService|Running housecleaning tasks
+2025-03-02 23:36:55.3|Info|Database|Vacuuming Log database
+2025-03-02 23:36:55.3|Info|Database|Log database compressed
+2025-03-02 23:36:55.4|Info|Database|Vacuuming Main database
+2025-03-02 23:36:55.4|Info|Database|Main database compressed
+2025-03-02 23:36:56.1|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020, 2040, 2060, 2030, 2045]
+2025-03-02 23:36:56.7|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-03-02 23:36:56.7|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-03-02 23:52:25.1|Error|FlareSolverr|Proxy validation failed
+
+[v1.31.2.4975] System.Net.Http.HttpRequestException: Connection refused (192.168.1.21:8191)
+ ---> System.Net.Sockets.SocketException (111): Connection refused
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.attemptConnection(AddressFamily addressFamily, SocketsHttpConnectionContext context, CancellationToken cancellationToken) in ./Prowlarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 355
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.onConnect(SocketsHttpConnectionContext context, CancellationToken cancellationToken) in ./Prowlarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 341
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(HttpRequestMessage request)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponseAsync(HttpRequest request, CookieContainer cookies) in ./Prowlarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 120
+   at NzbDrone.Common.Http.HttpClient.ExecuteRequestAsync(HttpRequest request, CookieContainer cookieContainer) in ./Prowlarr.Common/Http/HttpClient.cs:line 171
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 70
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 137
+   at NzbDrone.Core.IndexerProxies.FlareSolverr.FlareSolverr.Test() in ./Prowlarr.Core/IndexerProxies/FlareSolverr/FlareSolverr.cs:line 189
+
+
+2025-03-02 23:52:25.8|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-03-02 23:52:25.8|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-03-03 00:07:26.0|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020, 2040, 2060, 2030, 2045]
+2025-03-03 00:07:56.0|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-03-03 00:07:56.0|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-03-03 00:23:26.2|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-03-03 00:23:26.2|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-03-03 14:36:47.6|Info|Bootstrap|Starting Prowlarr - /app/prowlarr/bin/Prowlarr - Version 1.31.2.4975
+2025-03-03 14:36:47.8|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-03-03 14:36:47.8|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-03-03 14:36:48.4|Info|AppFolderInfo|Data directory is being overridden to [/config]
+2025-03-03 14:36:48.7|Info|MigrationController|*** Migrating data source=/config/prowlarr.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-03-03 14:36:48.9|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-03-03 14:36:48.9|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-03-03 14:36:48.9|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-03-03 14:36:49.0|Info|DatabaseEngineVersionCheck|SQLite 3.48.0
+2025-03-03 14:36:49.0|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0886934s
+2025-03-03 14:36:49.0|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-03-03 14:36:49.0|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0922141s
+2025-03-03 14:36:49.1|Info|MigrationController|*** Migrating data source=/config/logs.db;cache size=-20000;datetimekind=Utc;journal mode=Wal;pooling=True;version=3;busytimeout=100 ***
+2025-03-03 14:36:49.1|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrating
+2025-03-03 14:36:49.1|Info|FluentMigrator.Runner.MigrationRunner|PerformDBOperation 
+2025-03-03 14:36:49.1|Info|NzbDrone.Core.Datastore.Migration.Framework.NzbDroneSQLiteProcessor|Performing DB Operation
+2025-03-03 14:36:49.1|Info|DatabaseEngineVersionCheck|SQLite 3.48.0
+2025-03-03 14:36:49.1|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0030205s
+2025-03-03 14:36:49.1|Info|FluentMigrator.Runner.MigrationRunner|DatabaseEngineVersionCheck migrated
+2025-03-03 14:36:49.1|Info|FluentMigrator.Runner.MigrationRunner|=> 0.0034105s
+2025-03-03 14:36:49.5|Info|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:9696
+2025-03-03 14:36:49.9|Info|CommandExecutor|Starting 3 threads for tasks.
+2025-03-03 14:36:50.2|Info|ManagedHttpDispatcher|IPv4 is available: True, IPv6 will be disabled
+2025-03-03 14:36:50.8|Info|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2025-03-03 14:36:50.8|Info|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2025-03-03 14:36:50.8|Info|Microsoft.Hosting.Lifetime|Content root path: /app/prowlarr/bin
+2025-03-03 14:36:51.6|Error|FlareSolverr|Proxy validation failed
+
+[v1.31.2.4975] System.Net.Http.HttpRequestException: Connection refused (192.168.1.21:8191)
+ ---> System.Net.Sockets.SocketException (111): Connection refused
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.attemptConnection(AddressFamily addressFamily, SocketsHttpConnectionContext context, CancellationToken cancellationToken) in ./Prowlarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 355
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.onConnect(SocketsHttpConnectionContext context, CancellationToken cancellationToken) in ./Prowlarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 341
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(HttpRequestMessage request)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponseAsync(HttpRequest request, CookieContainer cookies) in ./Prowlarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 120
+   at NzbDrone.Common.Http.HttpClient.ExecuteRequestAsync(HttpRequest request, CookieContainer cookieContainer) in ./Prowlarr.Common/Http/HttpClient.cs:line 171
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 70
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 137
+   at NzbDrone.Core.IndexerProxies.FlareSolverr.FlareSolverr.Test() in ./Prowlarr.Core/IndexerProxies/FlareSolverr/FlareSolverr.cs:line 189
+
+
+2025-03-03 14:37:20.5|Error|FlareSolverr|Proxy validation failed
+
+[v1.31.2.4975] System.Net.Http.HttpRequestException: Connection refused (192.168.1.21:8191)
+ ---> System.Net.Sockets.SocketException (111): Connection refused
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.attemptConnection(AddressFamily addressFamily, SocketsHttpConnectionContext context, CancellationToken cancellationToken) in ./Prowlarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 355
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.onConnect(SocketsHttpConnectionContext context, CancellationToken cancellationToken) in ./Prowlarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 341
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(HttpRequestMessage request)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponseAsync(HttpRequest request, CookieContainer cookies) in ./Prowlarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 120
+   at NzbDrone.Common.Http.HttpClient.ExecuteRequestAsync(HttpRequest request, CookieContainer cookieContainer) in ./Prowlarr.Common/Http/HttpClient.cs:line 171
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 70
+   at NzbDrone.Common.Http.HttpClient.Execute(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 137
+   at NzbDrone.Core.IndexerProxies.FlareSolverr.FlareSolverr.Test() in ./Prowlarr.Core/IndexerProxies/FlareSolverr/FlareSolverr.cs:line 189
+
+
+2025-03-03 14:37:21.1|Info|ReleaseSearchService|Searching indexer(s): [Anime Time] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-03-03 14:37:21.1|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-03-03 14:37:21.1|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020, 2040, 2060, 2030, 2045]

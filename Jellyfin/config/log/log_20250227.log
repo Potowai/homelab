@@ -1,0 +1,20 @@
+[2025-02-27 01:26:47.057 +01:00] [INF] [32] Emby.Server.Implementations.Library.LibraryManager: Validating media library
+[2025-02-27 01:26:47.060 +01:00] [INF] [29] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Analyse des segments de média" Completed after 0 minute(s) and 0 seconds
+[2025-02-27 01:26:47.261 +01:00] [WRN] [32] MediaBrowser.Controller.Entities.BaseItem: Library folder "/data/Movies" is inaccessible or empty, skipping
+[2025-02-27 01:26:47.262 +01:00] [WRN] [32] MediaBrowser.Controller.Entities.BaseItem: Library folder "/data/TVShows" is inaccessible or empty, skipping
+[2025-02-27 01:26:47.263 +01:00] [WRN] [32] MediaBrowser.Controller.Entities.BaseItem: Library folder "/config/data/data/playlists" is inaccessible or empty, skipping
+[2025-02-27 01:26:47.307 +01:00] [WRN] [3] MediaBrowser.Controller.Entities.BaseItem: Library folder "/data/Movies" is inaccessible or empty, skipping
+[2025-02-27 01:26:47.307 +01:00] [WRN] [3] MediaBrowser.Controller.Entities.BaseItem: Library folder "/data/TVShows" is inaccessible or empty, skipping
+[2025-02-27 01:26:47.307 +01:00] [WRN] [3] MediaBrowser.Controller.Entities.BaseItem: Library folder "/config/data/data/playlists" is inaccessible or empty, skipping
+[2025-02-27 01:26:47.322 +01:00] [INF] [3] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Analyser la médiathèque" Completed after 0 minute(s) and 0 seconds
+[2025-02-27 02:00:00.006 +01:00] [INF] [121] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Extraire les images de chapitre" Completed after 0 minute(s) and 0 seconds
+[2025-02-27 02:00:00.999 +01:00] [INF] [119] Emby.Server.Implementations.ScheduledTasks.TaskManager: Daily trigger for "Extraire les images de chapitre" set to fire at 2025-02-28 02:00:00.000 +01:00, which is 23:59:59.0000846 from now.
+[2025-02-27 03:00:00.005 +01:00] [INF] [122] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Générer des images Trickplay" Completed after 0 minute(s) and 0 seconds
+[2025-02-27 03:00:01.001 +01:00] [INF] [132] Emby.Server.Implementations.ScheduledTasks.TaskManager: Daily trigger for "Générer des images Trickplay" set to fire at 2025-02-28 03:00:00.000 +01:00, which is 23:59:58.9986030 from now.
+[2025-02-27 04:12:33.286 +01:00] [INF] [141] Emby.Server.Implementations.Session.SessionManager: Sending shutdown notifications
+[2025-02-27 04:12:33.355 +01:00] [INF] [138] Jellyfin.Networking.PortForwardingHost: Stopping NAT discovery
+[2025-02-27 04:12:33.382 +01:00] [INF] [139] Main: Running query planner optimizations in the database... This might take a while
+[2025-02-27 04:12:33.443 +01:00] [INF] [139] Emby.Server.Implementations.ApplicationHost: Disposing "CoreAppHost"
+[2025-02-27 04:12:33.443 +01:00] [INF] [139] Emby.Server.Implementations.ApplicationHost: Disposing "MusicBrainzArtistProvider"
+[2025-02-27 04:12:33.444 +01:00] [INF] [139] Emby.Server.Implementations.ApplicationHost: Disposing "MusicBrainzAlbumProvider"
+[2025-02-27 04:12:33.444 +01:00] [INF] [139] Emby.Server.Implementations.ApplicationHost: Disposing "PluginManager"

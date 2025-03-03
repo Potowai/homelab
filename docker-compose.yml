@@ -1,12 +1,5 @@
 services:       
-
-# ██████╗ ██████╗  ██████╗ ██╗    ██╗██╗      █████╗ ██████╗ ██████╗ 
-# ██╔══██╗██╔══██╗██╔═══██╗██║    ██║██║     ██╔══██╗██╔══██╗██╔══██╗
-# ██████╔╝██████╔╝██║   ██║██║ █╗ ██║██║     ███████║██████╔╝██████╔╝
-# ██╔═══╝ ██╔══██╗██║   ██║██║███╗██║██║     ██╔══██║██╔══██╗██╔══██╗
-# ██║     ██║  ██║╚██████╔╝╚███╔███╔╝███████╗██║  ██║██║  ██║██║  ██║
-# ╚═╝     ╚═╝  ╚═╝ ╚═════╝  ╚══╝╚══╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═
-                              
+  # ██████╗ ██████╗  ██████╗ ██╗    ██╗██╗      █████╗ ██████╗ ██████╗ 
   prowlarr:
     image: linuxserver/prowlarr:latest
     container_name: prowlarr
@@ -21,13 +14,7 @@ services:
     env_file:
       - '.env'
       
-# ███████╗ ██████╗ ███╗   ██╗ █████╗ ██████╗ ██████╗ 
-# ██╔════╝██╔═══██╗████╗  ██║██╔══██╗██╔══██╗██╔══██╗
-# ███████╗██║   ██║██╔██╗ ██║███████║██████╔╝██████╔╝
-# ╚════██║██║   ██║██║╚██╗██║██╔══██║██╔══██╗██╔══██╗
-# ███████║╚██████╔╝██║ ╚████║██║  ██║██║  ██║██║  ██║
-# ╚══════╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝                                                 
-      
+  # ███████╗ ██████╗ ███╗   ██╗ █████╗ ██████╗ ██████╗ 
   sonarr:
     image: linuxserver/sonarr:latest
     container_name: sonarr
@@ -43,13 +30,7 @@ services:
     env_file:
       - '.env'
       
-# ██████╗  █████╗ ██████╗  █████╗ ██████╗ ██████╗ 
-# ██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔══██╗
-# ██████╔╝███████║██║  ██║███████║██████╔╝██████╔╝
-# ██╔══██╗██╔══██║██║  ██║██╔══██║██╔══██╗██╔══██╗
-# ██║  ██║██║  ██║██████╔╝██║  ██║██║  ██║██║  ██║
-# ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝                                              
-
+  # ██████╗  █████╗ ██████╗  █████╗ ██████╗ ██████╗ 
   radarr:
     image: linuxserver/radarr:latest
     container_name: radarr
@@ -65,13 +46,7 @@ services:
     env_file:
       - '.env'
       
-# ██╗     ██╗██████╗  █████╗ ██████╗ ██████╗ 
-# ██║     ██║██╔══██╗██╔══██╗██╔══██╗██╔══██╗
-# ██║     ██║██║  ██║███████║██████╔╝██████╔╝
-# ██║     ██║██║  ██║██╔══██║██╔══██╗██╔══██╗
-# ███████╗██║██████╔╝██║  ██║██║  ██║██║  ██║
-# ╚══════╝╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
-                                             
+  # ██╗     ██╗██████╗  █████╗ ██████╗ ██████╗ 
   lidarr:
     image: linuxserver/lidarr:latest
     container_name: lidarr
@@ -86,13 +61,7 @@ services:
     env_file:
       - '.env'
       
-# ██████╗ ███████╗ █████╗ ██████╗  █████╗ ██████╗ ██████╗ 
-# ██╔══██╗██╔════╝██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔══██╗
-# ██████╔╝█████╗  ███████║██║  ██║███████║██████╔╝██████╔╝
-# ██╔══██╗██╔══╝  ██╔══██║██║  ██║██╔══██║██╔══██╗██╔══██╗
-# ██║  ██║███████╗██║  ██║██████╔╝██║  ██║██║  ██║██║  ██║
-# ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
-                                                                                                                   
+  # ███████╗ ███████╗ █████╗ ██████╗  
   readarr:
     image: linuxserver/readarr:develop
     container_name: readarr
@@ -107,13 +76,7 @@ services:
     env_file:
       - '.env'
 
-# ██╗  ██╗ ██████╗ ███╗   ███╗ █████╗ ██████╗ ██████╗ 
-# ██║  ██║██╔═══██╗████╗ ████║██╔══██╗██╔══██╗██╔══██╗
-# ███████║██║   ██║██╔████╔██║███████║██████╔╝██████╔╝
-# ██╔══██║██║   ██║██║╚██╔╝██║██╔══██║██╔══██╗██╔══██╗
-# ██║  ██║╚██████╔╝██║ ╚═╝ ██║██║  ██║██║  ██║██║  ██║
-# ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
-        
+  # ██╗  ██╗ ██████╗ ███╗   ███╗ █████╗ ██████╗ 
   homarr:
     container_name: homarr
     image: ghcr.io/ajnart/homarr:latest
@@ -127,20 +90,14 @@ services:
     env_file:
       - '.env'
 
-#      ██╗███████╗██╗     ██╗  ██╗   ██╗███████╗██╗███╗   ██╗
-#      ██║██╔════╝██║     ██║  ╚██╗ ██╔╝██╔════╝██║████╗  ██║
-#      ██║█████╗  ██║     ██║   ╚████╔╝ █████╗  ██║██╔██╗ ██║
-# ██   ██║██╔══╝  ██║     ██║    ╚██╔╝  ██╔══╝  ██║██║╚██╗██║
-# ╚█████╔╝███████╗███████╗███████╗██║   ██║     ██║██║ ╚████║
-#  ╚════╝ ╚══════╝╚══════╝╚══════╝╚═╝   ╚═╝     ╚═╝╚═╝  ╚═══╝
-     
+  # ██████╗ ███████╗ █████╗ ██████╗ 
   jellyfin:
     image: linuxserver/jellyfin
     container_name: jellyfin
     ports:
-      - '8096:8096/tcp'   # Jellyfin web interface
-      - '7359:7359/udp'   # Network discovery
-      - '1900:1900/udp'   # DLNA port
+      - '8096:8096/tcp'   # Interface web Jellyfin
+      - '7359:7359/udp'   # Découverte réseau
+      - '1900:1900/udp'   # Port DLNA
     volumes:
       - ${ARRPATH}Jellyfin/config:/config
       - ${ARRPATH}Radarr/movies:/data/Movies
@@ -151,13 +108,7 @@ services:
       - '.env'
     restart: unless-stopped
           
-#  ██████╗ ██████╗ ██╗████████╗████████╗ ██████╗ ██████╗ ██████╗ ███████╗███╗   ██╗████████╗
-# ██╔═══██╗██╔══██╗██║╚══██╔══╝╚══██╔══╝██╔═══██╗██╔══██╗██╔══██╗██╔════╝████╗  ██║╚══██╔══╝
-# ██║   ██║██████╔╝██║   ██║      ██║   ██║   ██║██████╔╝██████╔╝█████╗  ██╔██╗ ██║   ██║   
-# ██║▄▄ ██║██╔══██╗██║   ██║      ██║   ██║   ██║██╔══██╗██╔══██╗██╔══╝  ██║╚██╗██║   ██║   
-# ╚██████╔╝██████╔╝██║   ██║      ██║   ╚██████╔╝██║  ██║██║  ██║███████╗██║ ╚████║   ██║   
-#  ╚══▀▀═╝ ╚═════╝ ╚═╝   ╚═╝      ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝   ╚═╝                                                                                          
-                                                                                             
+  # ██╗███████╗██╗     ██╗  ██╗   ██╗███████╗██╗███╗   ██╗
   qbittorrent:
     image: linuxserver/qbittorrent:latest
     container_name: qbittorrent
@@ -179,7 +130,8 @@ services:
       start_period: 15s
     env_file:
       - '.env'
-# portainerq
+
+  # Portainer pour la gestion de Docker
   portainer:
     image: portainer/portainer-ce:latest
     container_name: portainer
@@ -192,11 +144,110 @@ services:
       - "9000:9000"
     restart: unless-stopped
 
-# flaresolverr
-
+  # Flaresolverr pour contourner Cloudflare
   flaresolverr:
     image: ghcr.io/flaresolverr/flaresolverr:latest
     container_name: flaresolverr
     ports:
       - "8191:8191"
     restart: unless-stopped
+
+  # ---------------------------------------------------------
+  # Ajouts supplémentaires pour enrichir votre homelab
+  # ---------------------------------------------------------
+
+  # 1. Nextcloud - Cloud personnel
+  nextcloud:
+    image: nextcloud:latest
+    container_name: nextcloud
+    ports:
+      - "8081:80"
+    volumes:
+      - ${ARRPATH}Nextcloud:/var/www/html
+    restart: unless-stopped
+
+  # 2. Home Assistant - Domotique
+  homeassistant:
+    image: homeassistant/home-assistant:stable
+    container_name: homeassistant
+    volumes:
+      - ${ARRPATH}HomeAssistant:/config
+    ports:
+      - "8123:8123"
+    restart: unless-stopped
+
+  # 3. Grafana - Monitoring et visualisation
+  grafana:
+    image: grafana/grafana:latest
+    container_name: grafana
+    ports:
+      - "3000:3000"
+    volumes:
+      - ${ARRPATH}Grafana:/var/lib/grafana
+    restart: unless-stopped
+
+  # 4. Prometheus - Collecte des métriques
+  prometheus:
+    image: prom/prometheus:latest
+    container_name: prometheus
+    ports:
+      - "9090:9090"
+    volumes:
+      - ${ARRPATH}Prometheus:/etc/prometheus
+    restart: unless-stopped
+
+  # 5. Pi-hole - Bloqueur de publicités et de trackers
+  pihole:
+    image: pihole/pihole:latest
+    container_name: pihole
+    environment:
+      - TZ=Europe/Paris
+      - WEBPASSWORD=monmotdepasse
+    volumes:
+      - ${ARRPATH}PiHole/etc-pihole:/etc/pihole
+      - ${ARRPATH}PiHole/etc-dnsmasq.d:/etc/dnsmasq.d
+    ports:
+      - "53:53/tcp"
+      - "53:53/udp"
+      - "8082:80"   # Remappage : le conteneur utilise le port 80, accessible via le port 8082 de l'hôte
+    restart: unless-stopped
+
+  # 7. WireGuard - Serveur VPN pour un accès sécurisé
+  wireguard:
+    image: linuxserver/wireguard
+    container_name: wireguard
+    cap_add:
+      - NET_ADMIN
+      - SYS_MODULE
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Europe/Paris
+      - SERVERURL=mon.domaine.tld
+      - SERVERPORT=51820
+      - PEERS=2
+      - PEERDNS=auto
+      - INTERNAL_SUBNET=10.13.13.0
+    volumes:
+      - ${ARRPATH}Wireguard:/config
+    ports:
+      - "51820:51820/udp"
+    sysctls:
+      - net.ipv4.conf.all.src_valid_mark=1
+    restart: unless-stopped
+
+  # 8. Duplicati - Sauvegardes automatisées
+  duplicati:
+    image: linuxserver/duplicati:latest
+    container_name: duplicati
+    ports:
+      - "8200:8200"
+    volumes:
+      - ${ARRPATH}Duplicati:/config
+      - ${ARRPATH}Backups:/backups
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - SETTINGS_ENCRYPTION_KEY=VotreCleSuperSecrete2025  # Remplacez par une valeur complexe et unique
+    restart: unless-stopped
+
