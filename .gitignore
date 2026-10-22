@@ -2,3 +2,13 @@
 Grafana/grafana.db
 /Nextcloud
 /HomeAssistant/.storage
+
+# Secrets — jamais committés
+.env
+.env.local
+**/secrets.yaml
+**/secrets.yaml.*
+**/portainer.key
+**/private-key.pem
+**/*.pem
+**/*.key
